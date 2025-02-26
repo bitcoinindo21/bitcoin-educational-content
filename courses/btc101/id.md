@@ -11,7 +11,7 @@ objectives:
 
 # Petualangan Bitcoin Pertama Anda
 
-Dalam kursus ini, kami akan menjelaskan dasar-dasar Bitcoin dalam 25 bab, sehingga Anda dapat memahami teknologi ini dengan cara yang sederhana dan efektif. Kursus ini mengeksplorasi dasar-dasar industri secara keseluruhan, termasuk topik-topik seperti penambangan, dompet, platform jual-beli, dan banyak lagi. Materi edukasi tambahan akan tersedia di sepanjang perjalanan, dan kami juga mengundang Anda untuk memeriksa "21 Poster" di bagian sumber daya setelah Anda menyelesaikan kursus ini.
+Di Dalam kursus ini, kami akan menjelaskan dasar-dasar Bitcoin dalam 25 bab, sehingga Anda dapat memahami teknologi ini dengan cara yang sederhana dan efektif. Kursus ini mengeksplorasi dasar-dasar industri secara keseluruhan, termasuk topik-topik seperti penambangan, dompet, platform jual-beli, dan banyak lagi. Materi edukasi tambahan akan tersedia di sepanjang perjalanan, dan kami juga mengundang Anda untuk memeriksa "21 Poster" di bagian resources setelah Anda menyelesaikan kursus ini.
 
 Anda tidak memerlukan pengetahuan khusus untuk memulai. Bahkan, konten berikut ini dapat diakses oleh siswa dari semua tingkatan, dan membutuhkan waktu sekitar 15 jam untuk menyelesaikannya.
 
@@ -21,15 +21,15 @@ Anda tidak memerlukan pengetahuan khusus untuk memulai. Bahkan, konten berikut i
 
 <partId>3cd2ac82-026c-53e1-874a-baf5842adc6d</partId>
 
-## Sebuah Lompatan ke Hal yang Tidak Diketahui
+## Sebuah Lompatan ke Suatu Hal yang Tidak Diketahui
 
 <chapterId>27e3fb60-4b50-556b-9e70-c4f5475c121d</chapterId>
 
 ### Selamat datang di paradigma moneter dan teknologi yang baru.
 
-Bitcoin adalah revolusi teknologi dan moneter, yang mampu membuat kita mempertanyakan hubungan kita dengan uang dan masyarakat. Faktanya, Bitcoin (disebut sebagai BTC) adalah mata uang yang **netral** dan **terdesentralisasi**, yang berarti tidak dikontrol oleh entitas atau institusi mana pun. Ini adalah sebuah inovasi yang lebih dari sekadar "mata uang internet": Bitcoin adalah protokol komputer (Bitcoin) dan unit moneter (bitcoin).
+Bitcoin adalah sebuah revolusi teknologi dan moneter, yang mampu membuat kita mempertanyakan hubungan kita dengan uang dan masyarakat. Faktanya, Bitcoin (disebut sebagai BTC) adalah mata uang yang **netral** dan **terdesentralisasi**, yang berarti tidak dikontrol oleh entitas atau institusi mana pun. Ini adalah sebuah inovasi yang lebih dari sekadar "mata uang internet": Bitcoin adalah protokol komputer (Bitcoin) dan unit moneter (bitcoin).
 
-Protokol ini menggunakan teknologi dasar seperti kriptografi, komunikasi jaringan, dan "blockchain" yang terkenal, sementara unit bitcoin berfungsi sebagai mata uang yang diperlukan untuk berfungsinya protokol ini. Dalam kehidupan sehari-hari, warga El Salvador dan para pengguna bitcoin di seluruh dunia menggunakan mata uang bitcoin untuk membeli dan menjual barang dan jasa, dengan mengandalkan teknologi ini untuk membuat hidup mereka lebih baik.
+Protokol ini menggunakan teknologi dasar seperti kriptografi, komunikasi jaringan, dan yang paling banyak orang tahu yaitu "blockchain", sementara itu unit bitcoin berfungsi sebagai mata uang yang diperlukan untuk menjalankan protokol ini. Dalam kehidupan sehari-hari, warga El Salvador dan para pengguna bitcoin di seluruh dunia menggunakan mata uang bitcoin untuk membeli dan menjual barang dan jasa, dengan mengandalkan teknologi ini untuk membuat hidup mereka lebih baik.
 
 ### Kurikulum yang komprehensif namun mudah diakses
 
