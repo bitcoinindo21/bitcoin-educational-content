@@ -56,7 +56,7 @@ Sangat penting untuk memahami bahwa Bitcoin adalah sistem moneter baru yang sepe
 **Bagian 3 - Fitur teknis Bitcoin**
 
 - Bab 9 - Apa yang dimaksud dengan transaksi?
-- Bab 10 - Simpul Bitcoin
+- Bab 10 - Bitcoin Node
 - Bab 11 - Penambang
 - Bab 12 - Penambang dan ekologi
 
@@ -65,20 +65,20 @@ Sangat penting untuk memahami bahwa Bitcoin adalah sistem moneter baru yang sepe
 - Bab 13 - Harga Bitcoin
 - Bab 14 - Bagaimana cara membeli Bitcoin?
 - Bab 15 - Bekerja untuk Bitcoin
-- Bab 16 - Hiper-koinisasi
+- Bab 16 - Hiper-bitcoinization
 
-**Bagian 5 - Jaringan Petir**
+**Bagian 5 - Lightning Network**
 
 - Bab 17 - Pengantar ke Jaringan Lightning
 - Bab 18 - Kasus penggunaan untuk Jaringan Lightning
 
-Sebelum memperkenalkan definisi uang dan fungsinya dalam masyarakat (Bab 1), kita harus mulai dari asal mula Bitcoin. Diluncurkan pada tahun 2009, Bitcoin merupakan teknologi yang relatif baru dan berbeda dengan yang lainnya. Oleh karena itu, wajar jika kita tidak dapat memahami segala sesuatu tentang Bitcoin sekaligus. Faktanya, seperti halnya ketika mempelajari cara menggunakan Internet atau mengendarai mobil, Anda tidak perlu langsung mengetahui semua detail teknisnya: Anda bisa mulai dengan mempelajari cara menerima, membayar, dan mengamankan dana Anda, lalu mengambil langkah-langkah kecil untuk mempelajarinya lebih dalam.
+Sebelum memperkenalkan definisi uang dan fungsinya dalam masyarakat (Bab 1), kita harus mulai dari asal mula Bitcoin. Diluncurkan pada tahun 2009, Bitcoin merupakan teknologi yang relatif baru dan berbeda dengan yang lainnya. Oleh karena itu, wajar jika kita tidak bisa memahami semua hal tentang Bitcoin sekaligus. Faktanya, seperti halnya ketika mempelajari cara menggunakan Internet atau mengendarai mobil, Anda tidak perlu langsung mengetahui semua detail teknisnya: Anda bisa mulai dengan mempelajari cara menerima, membayar, dan mengamankan dana Anda, lalu mengambil langkah-langkah kecil untuk mempelajarinya lebih dalam.
 
-Bagaimanapun, kita baru berada pada tahap awal pengadopsiannya, karena kita telah melewati fase lepas landas: Anda tepat pada waktunya untuk memperoleh pengetahuan sebanyak yang Anda inginkan mengenai inovasi penting ini.
+Bagaimanapun itu, kita masih berada pada tahap awal pengadopsiannya, kita baru saja melewati fase lepas landas: waktu anda sangat tepat untuk memperoleh pengetahuan sebanyak yang anda inginkan mengenai inovasi penting ini.
 
 ![image](assets/en/02.webp)
 
-Poin penting di sini adalah untuk memahami teknologi baru ini secara umum, jadi kami harap Anda menikmati kursus ini dan terus membuat kemajuan dalam paradigma moneter global yang baru ini.
+Poin penting di sini adalah untuk memahami teknologi baru ini secara umum, jadi kami harap anda menikmati kursus ini dan terus membuat kemajuan dalam paradigma moneter global yang baru ini.
 
 ## Prasejarah Bitcoin
 
@@ -106,23 +106,23 @@ ditulis oleh Eric Hughes pada tahun 1993, "Cypherpunk Manifesto" menegaskan bahw
 
 - "Manifesto Kripto-Anarkis":
 
-ditulis oleh Timothy C. May pada tahun 1992, dokumen ini menjelaskan bagaimana penggunaan kriptografi dapat mengarah pada era anarki kriptografi di mana pemerintah tidak akan berdaya untuk mencampuri urusan pribadi warga negara. May membayangkan masa depan di mana orang-orang secara anonim bertukar informasi dan uang tanpa campur tangan pihak ketiga.
+ditulis oleh Timothy C. May pada tahun 1992, dokumen ini menjelaskan bagaimana penggunaan kriptografi dapat mengarah pada era anarki kriptografi di mana pemerintah tidak akan berdaya untuk mencampuri urusan pribadi warga negara. Mungkin membayangkan masa depan di mana orang-orang secara anonim bertukar informasi dan uang tanpa campur tangan pihak ketiga.
 
 - "Deklarasi Kemerdekaan Dunia Maya":
 
-meskipun tidak secara eksklusif cypherpunk, teks ini mencerminkan sentimen dari banyak peserta dalam gerakan ini. Ditulis pada tahun 1996 oleh John Perry Barlow, deklarasi ini merupakan respons terhadap meningkatnya regulasi Internet oleh pemerintah. Deklarasi ini menegaskan bahwa dunia maya adalah dunia yang berbeda dari dunia fisik dan tidak harus tunduk pada hukum yang sama. Seperti yang dinyatakan, "Kami tidak memiliki pemerintah yang dipilih, dan kami juga tidak mungkin memilikinya".
+meskipun tidak secara eksklusif cypherpunk, teks ini mencerminkan sentimen dari banyak peserta dalam gerakan ini. Ditulis pada tahun 1996 oleh John Perry Barlow, deklarasi ini merupakan respons terhadap meningkatnya regulasi Internet oleh pemerintah. Deklarasi ini menegaskan bahwa dunia maya adalah dunia yang berbeda dari dunia fisik dan tidak harus tunduk pada hukum yang sama. Seperti yang dinyatakan, "Kami tidak memiliki pemerintah yang dipilih, dan kami juga tidak akan memilikinya".
 
 ### Para pendahulu Bitcoin
 
 Sebelum kemunculan Bitcoin, telah ada beberapa upaya untuk menciptakan mata uang digital. Sebagai contoh, David Chaum memperkenalkan konsep "uang elektronik anonim" dengan proyeknya "DigiCash" pada tahun 1980-an. Sayangnya, karena berbagai kendala, DigiCash tidak pernah berkembang pesat.
 
-Prekursor penting lainnya adalah "B-money" dari Wei Dai. Meskipun tidak pernah diimplementasikan, ini menyajikan ide mata uang digital anonim di mana deteksi penipuan dilakukan oleh komunitas penilai dan bukan oleh otoritas pusat.
+Prekursor penting lainnya adalah "B-money" dari Wei Dai. Meskipun tidak pernah diimplementasikan, ini menyajikan ide mata uang digital anonim di mana pendeteksi penipuan dilakukan oleh komunitas penilai dan bukan oleh otoritas sentral.
 
 Gambar di bawah ini dengan jelas menggambarkan perkembangan gerakan ini melalui berbagai inovasi teknologinya.
 
 ![image](assets/en/05.webp)
 
-Dalam lingkungan yang subur inilah Satoshi Nakamoto yang misterius menerbitkan buku putih Bitcoin pada tahun 2008. Dalam dokumen ini, ia menggabungkan beberapa ide dari gerakan cypherpunk, seperti bukti kerja dan stempel waktu kriptografi, untuk menciptakan mata uang digital yang terdesentralisasi dan tahan sensor.
+Dalam lingkungan yang mendukung inilah Satoshi Nakamoto yang misterius menerbitkan whitepaper Bitcoin pada tahun 2008. Dalam dokumen ini, ia menggabungkan beberapa ide dari gerakan cypherpunk, seperti proof of work dan stempel waktu kriptografi, untuk menciptakan mata uang digital yang terdesentralisasi dan tahan sensor.
 
 Namun, Bitcoin lebih dari sekadar itu: Bitcoin mewakili pencapaian cita-cita cypherpunk. Di luar teknologinya, Bitcoin melambangkan sebuah revolusi melawan sistem keuangan tradisional dan menawarkan sebuah alternatif berdasarkan transparansi, desentralisasi, dan kedaulatan individu.
 
