@@ -102,7 +102,7 @@ Gerakan cypherpunk, yang berakar kuat pada aktivisme digital dan kriptografi, me
 
 - "Manifesto Cypherpunk":
 
-ditulis oleh Eric Hughes pada tahun 1993, "Cypherpunk Manifesto" menegaskan bahwa privasi adalah hak yang mendasar. Penulis berpendapat bahwa kemampuan untuk berkomunikasi secara bebas dan rahasia sangat penting bagi masyarakat yang bebas. Manifesto tersebut menyatakan: "Kita tidak bisa mengharapkan pemerintah, perusahaan, atau organisasi besar dan tak berwajah lainnya untuk memberikan privasi kepada kita [...]. Kita harus mempertahankan privasi kita sendiri jika kita berharap untuk memilikinya".
+ditulis oleh Eric Hughes pada tahun 1993, "Cypherpunk Manifesto" menegaskan bahwa privasi adalah hak yang mendasar. Penulis berpendapat bahwa kemampuan untuk berkomunikasi secara bebas dan rahasia sangat penting bagi masyarakat yang bebas. Manifesto tersebut menyatakan: "Kita tidak bisa mengharapkan pemerintah, perusahaan, atau organisasi besar tak berwujud lainnya untuk memberikan privasi kepada kita [...]. Kita harus mempertahankan privasi kita sendiri jika kita berharap untuk memilikinya".
 
 - "Manifesto Kripto-Anarkis":
 
@@ -110,7 +110,7 @@ ditulis oleh Timothy C. May pada tahun 1992, dokumen ini menjelaskan bagaimana p
 
 - "Deklarasi Kemerdekaan Dunia Maya":
 
-meskipun tidak secara eksklusif cypherpunk, teks ini mencerminkan sentimen dari banyak peserta dalam gerakan ini. Ditulis pada tahun 1996 oleh John Perry Barlow, deklarasi ini merupakan respons terhadap meningkatnya regulasi Internet oleh pemerintah. Deklarasi ini menegaskan bahwa dunia maya adalah dunia yang berbeda dari dunia fisik dan tidak harus tunduk pada hukum yang sama. Seperti yang dinyatakan, "Kami tidak memiliki pemerintah yang dipilih, dan kami juga tidak akan memilikinya".
+meskipun tidak secara eksklusif cypherpunk, teks ini mencerminkan sentimen dari banyak peserta dalam gerakan ini. Ditulis pada tahun 1996 oleh John Perry Barlow, deklarasi ini merupakan respons terhadap meningkatnya regulasi Internet oleh pemerintah. Deklarasi ini menegaskan bahwa dunia maya adalah dunia yang berbeda dari dunia fisik dan tidak harus tunduk pada hukum yang sama. Seperti yang dinyatakan, "Kami tidak memiliki pemerintah yang dipilih, dan kami juga tidak ingin memilikinya".
 
 ### Para pendahulu Bitcoin
 
@@ -134,7 +134,7 @@ Oleh karena itu, Bitcoin adalah protokol yang membentang dalam jangka waktu yang
 
 Namun, apakah Bitcoin adalah mata uang "nyata"? Untuk memahami hal ini, pertama-tama kita perlu memahami konsep uang dan berbagai bentuknya, yang akan kita bahas pada bab berikutnya.
 
-Jika Anda ingin menjelajahi sejarah Bitcoin secara lebih detail, kami sangat merekomendasikan kursus HIS 201, di mana Anda akan menemukan asal-usul dan kemunculan Bitcoin yang lambat, serta awal mula sejarah dan komunitasnya. Kursus ini sepenuhnya didokumentasikan dan bersumber, dengan, tentu saja, banyak anekdot:
+Jika Anda ingin menjelajahi sejarah Bitcoin secara lebih detail, kami sangat merekomendasikan kursus HIS 201, di mana Anda akan menemukan asal-usul dan kemunculan Bitcoin, serta awal mula sejarah dan komunitasnya. Kursus ini sepenuhnya didokumentasikan dan bersumber, dengan, tentu saja, banyak anekdot:
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
 
@@ -152,7 +152,7 @@ Evolusi uang adalah aspek menarik dari sejarah manusia yang mencerminkan kecerdi
 
 ### Dari cangkang hingga rekening bank
 
-Pada awalnya, mata uang adalah aset berwujud, seperti biji-bijian, ternak, atau komoditas lainnya. Namun, barang-barang ini memiliki kelemahan utama yaitu mudah rusak, sehingga sulit untuk menggunakannya sebagai media tabungan jangka panjang. Misalnya, panen yang buruk atau penyakit hewan dapat menghancurkan kekayaan seseorang dalam semalam.
+Pada awalnya, mata uang adalah aset berwujud, seperti biji-bijian, ternak, atau komoditas lainnya. Namun, barang-barang ini memiliki kelemahan utama yaitu mudah rusak, sehingga sulit untuk menggunakannya sebagai media tabungan jangka panjang. Misalnya, panen yang buruk atau hama hewan dapat menghancurkan kekayaan seseorang dalam semalam.
 
 Dengan demikian, ketika peradaban maju dan perdagangan meluas ke daerah-daerah baru, kebutuhan akan alat tukar yang universal muncul. Orang-orang pertama kali bereksperimen dengan benda-benda seperti kerang dan batu permata, tetapi benda-benda tersebut tidak tahan lama atau langka seperti yang mereka yakini. Akhirnya, emas menjadi standar, karena kelangkaan, daya tahan, dan kemampuannya untuk dibagi-bagi. Emas adalah, dan tetap menjadi simbol kekayaan dan kekuasaan hingga hari ini.
 
@@ -171,7 +171,7 @@ Karena alasan ini, emas sebagai uang adalah hasil dari 4.000 tahun Darwinisme mo
 
 - Penyimpan nilai\*\*: uang dapat digunakan untuk mentransfer daya beli ke masa depan, jadi uang haruslah bahan yang tahan lama;
 - Alat tukar\*\*: uang dapat digunakan untuk menukar barang dan jasa alih-alih barter, sehingga menghindari ketidakcocokan keinginan di antara para pedagang;
-- Unit akun\*\*: uang juga memungkinkan kita untuk membandingkan nilai barang yang berbeda untuk lebih memahami kenyamanan relatifnya.
+- Unit akun\*\*: uang juga memungkinkan kita untuk membandingkan nilai barang yang berbeda untuk lebih memahami relatifitas kenyamananya.
 
 ![image](assets/en/08.webp)
 
@@ -183,7 +183,7 @@ Karena alasan ini, emas sebagai uang adalah hasil dari 4.000 tahun Darwinisme mo
 
 Emas secara ideal memenuhi kriteria mata uang yang efisien: kelangkaan alaminya membuatnya berharga, sementara sifat kimianya memastikan nilai emas tidak terkikis seiring waktu. Fitur-fitur ini menjadikan emas sebagai penyimpan nilai yang hebat, tetapi bukan mata uang yang umum, karena bentuk uang ini tidak mudah dibagi atau diangkut dalam jarak jauh. Di dunia yang mengglobal dan digital, emas berjuang untuk mengimbangi dan membutuhkan entitas pusat untuk membuatnya dapat dibagi dan mudah ditukar (misalnya melalui koin yang dicetak).
 
-Sebaliknya, mata uang fidusia negara (fiat) dapat digunakan dengan mudah, tetapi terus-menerus didevaluasi oleh entitas yang mengendalikannya (raja, bank sentral, kaisar, diktator).
+Sebaliknya, mata uang yang di akui negara (fiat) dapat digunakan dengan mudah, tetapi nilainya berkurang terus-menerus oleh entitas yang mengendalikannya (raja, bank sentral, kaisar, diktator).
 
 Untuk menjelaskan konsep ini dengan lebih baik, kita akan mengeksplorasi karakteristik mata uang yang efektif:
 
@@ -195,15 +195,15 @@ Untuk menjelaskan konsep ini dengan lebih baik, kita akan mengeksplorasi karakte
 
 Untuk memenuhi kriteria ini, mata uang secara historis telah berevolusi dengan mengambil langkah-langkah yang berbeda:
 
-- Batu mentah -> Koin
-- Uang kertas -> Kartu bank
-- Blockchain -> Jaringan Petir
+- Batu  -> Koin
+- Uang kertas -> Kartu kredit/debit bank
+- Blockchain -> Jaringan Lightning
 
-Mata uang masih terus berkembang hingga hari ini, mengadaptasi bentuknya untuk memenuhi berbagai kasus penggunaan. Seperti yang telah kami katakan, meskipun emas adalah penyimpan nilai yang sangat baik, emas tidak lagi cocok untuk ekonomi global saat ini. Demikian pula, mata uang fidusia seperti dolar dan euro sangat likuid dan mudah diangkut karena sebagian besar mata uang tersebut sekarang berbentuk digital, tetapi nilainya terus menurun karena inflasi moneter.
+Mata uang masih terus berkembang hingga hari ini, bentuknya beradaptasi untuk memenuhi berbagai kasus penggunaan. Seperti yang telah kami katakan, meskipun emas adalah penyimpan nilai yang sangat baik, emas tidak lagi cocok untuk ekonomi global saat ini. Demikian pula, mata uang fiat seperti dolar dan euro sangat likuid dan mudah diangkut karena sebagian besar mata uang tersebut sekarang berbentuk digital, tetapi nilainya terus menurun karena inflasi moneter.
 
-Di sisi lain, Bitcoin menghadirkan berbagai kemungkinan baru. Sifat-sifatnya, seperti pasokan yang sangat terbatas, menjadikannya penyimpan nilai yang sangat baik. Selain itu, sebagai mata uang internet yang netral, Bitcoin berfungsi sebagai alat tukar yang layak yang melampaui batas-batas negara. Namun, Bitcoin masih belum diterima secara luas dalam perdagangan saat ini, meskipun telah diadopsi secara terus-menerus (https://btcmap.org/map).
+Di sisi lain, Bitcoin menghadirkan berbagai kemungkinan baru. Sifat-sifatnya, seperti supply yang sangat terbatas, menjadikannya penyimpan nilai yang sangat baik. Selain itu, sebagai mata uang internet yang netral, Bitcoin berfungsi sebagai alat tukar yang layak yang melampaui batas-batas negara. Namun, Bitcoin masih belum diterima secara luas dalam perdagangan saat ini, meskipun telah diadopsi secara terus-menerus (https://btcmap.org/map).
 
-## Mata uang fidusia
+## Mata uang fidusia/fiat
 
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
@@ -214,7 +214,7 @@ Di sisi lain, Bitcoin menghadirkan berbagai kemungkinan baru. Sifat-sifatnya, se
 
 Saat ini, mata uang utama seperti Euro dan Dolar dianggap sebagai fidusia. Ini berarti mata uang ini tidak memiliki nilai intrinsik dan sepenuhnya bergantung pada kepercayaan dan keyakinan yang kita tempatkan pada institusi yang mengaturnya.
 
-Mata uang fidusia adalah bentuk uang yang ditetapkan oleh sebuah institusi, misalnya negara, seperti Cina dengan Yuan, atau serikat ekonomi-politik, seperti Uni Eropa dengan Euro. Entitas yang bertanggung jawab atas penerbitannya adalah bank sentral (Misalnya, kita dapat menyebutkan Bank Rakyat Tiongkok, Federal Reserve Amerika Serikat, atau Bank Sentral Republik Guinea). Entitas inilah yang bertanggung jawab untuk merumuskan kebijakan moneter dan oleh karena itu berapa banyak uang yang harus diedarkan atau dicetak.
+Mata uang fidusia adalah bentuk uang yang ditetapkan oleh sebuah institusi, misalnya negara, seperti Cina dengan Yuan, atau perserikatan ekonomi-politik, seperti Uni Eropa dengan Euro. Entitas yang bertanggung jawab atas penerbitannya adalah bank sentral (Misalnya, kita dapat menyebutkan Bank Rakyat Tiongkok, Federal Reserve Amerika Serikat, atau Bank Sentral Republik Guinea). Entitas inilah yang bertanggung jawab untuk merumuskan kebijakan moneter dan oleh karena itu berapa banyak uang yang harus diedarkan atau dicetak.
 
 ![image](assets/en/12.webp)
 
@@ -222,7 +222,7 @@ Mata uang fidusia adalah bentuk uang yang ditetapkan oleh sebuah institusi, misa
 
 Sejak jaman dahulu, emas telah berfungsi sebagai referensi moneter, tetapi kekakuannya sering kali membuat para pemimpin, baik kaisar Romawi maupun pemerintah modern, mengadopsi mata uang alternatif, yang sering kali berupa fidusia.
 
-Mekanismenya sederhana dan terinspirasi dari praktik-praktik yang sudah ada sejak awal mula peradaban. Para pemimpin, yang ingin mengendalikan kekayaan, memulai dengan memusatkan emas, sering kali dengan mengeksploitasi kekuasaan mereka dan menjanjikan perlindungan dan keamanan. Dengan cadangan berharga ini di tangan mereka, mereka memperkenalkan mata uang baru, yang nilainya setara dengan emas, tetapi dicetak dengan patung mereka. Mata uang ini kemudian mulai beredar, dan orang-orang dengan cepat beradaptasi dengan kenyamanan penggunaannya yang sederhana.
+Mekanismenya sederhana dan terinspirasi dari praktik-praktik yang sudah ada sejak awal mula peradaban. Para pemimpin, yang ingin mengendalikan kekayaan, memulai dengan mensentralisasi emas, sering kali dengan mengeksploitasi kekuasaan mereka dan menjanjikan perlindungan dan keamanan. Dengan cadangan berharga ini di tangan mereka, mereka memperkenalkan mata uang baru, yang nilainya setara dengan emas, tetapi dicetak dengan lambang mereka. Mata uang ini kemudian mulai beredar, dan orang-orang dengan cepat beradaptasi dengan kenyamanan penggunaannya yang sederhana.
 
 Namun, para pemimpin ini kemudian mulai mendevaluasi mata uang baru ini secara bertahap, secara de facto mengurangi nilainya beberapa persen setiap tahun dibandingkan dengan harga emas awal. Devaluasi diam-diam ini sering kali dibenarkan sebagai kepentingan rakyat. Pada kenyataannya, mereka yang menabung dalam mata uang fidusia ini melihat nilai tabungan mereka terkikis, sementara negara membiayai proyek-proyeknya melalui inflasi. Lebih jauh lagi, devaluasi ini membuat utang menjadi lebih mudah untuk dilunasi.
 
@@ -242,19 +242,20 @@ Hari ini, kita menyaksikan titik balik bersejarah. Dolar, yang telah lama mendom
 
 ### Apakah Bitcoin merupakan solusi?
 
-Karena alasan-alasan ini, revolusi Bitcoin mendapatkan momentumnya. Berlawanan dengan mata uang sebelumnya, mata uang ini tidak memerlukan pihak ketiga yang terpercaya dan bertujuan untuk memisahkan negara dari uang.
+Karena alasan-alasan ini, revolusi Bitcoin mendapatkan momentumnya. Berlawanan dengan mata uang sebelumnya, mata uang ini tidak memerlukan pihak ketiga yang terpercaya dan bertujuan untuk memisahkan uang dari negara.
 
 ![image](assets/en/15.webp)
 
-Faktanya, Bitcoin hadir sebagai jawaban atas tantangan sistemik ini dengan mengajukan solusi terdesentralisasi dan sistem moneter paralel yang baru. Secara historis, jika emas disukai sebagai mata uang karena ketahanannya terhadap pemalsuan, Bitcoin juga tidak dapat dipalsukan. Selain itu, Bitcoin dibatasi hingga 21 juta unit, berkat sifat desentralisasi dan kriptografinya. Bitcoin adalah mata uang yang mengandalkan transparansi dan netralitas, menawarkan alternatif yang menarik untuk sistem moneter terpusat saat ini.
+Faktanya, Bitcoin hadir sebagai jawaban atas tantangan sistemik ini dengan mengajukan solusi terdesentralisasi dan sistem moneter paralel yang baru. Secara historis, jika emas disukai sebagai mata uang karena ketahanannya terhadap pemalsuan, Bitcoin juga tidak dapat dipalsukan. Selain itu, Bitcoin dibatasi hingga 21 juta unit, berkat sifat desentralisasi dan kriptografinya. Bitcoin adalah mata uang yang mengandalkan transparansi dan netralitas, menawarkan alternatif yang menarik untuk sistem moneter yang tersentral/terpusat saat ini.
 
 ![image](assets/en/16.webp)
 
-Alasan lain mengapa Bitcoin menarik perhatian adalah kemunculan mata uang digital bank sentral, atau CBDC, yang tampaknya tidak dapat dihindari. Bentuk uang baru ini akan mengembangkan ekonomi yang lebih terencana secara terpusat, dan dapat menghalangi kebebasan finansial individu dan memfasilitasi penyalahgunaan otoriter.
+Alasan lain mengapa Bitcoin menarik perhatian adalah kemunculan mata uang digital bank sentral, atau CBDC, yang tampaknya tidak dapat dihindari. Bentuk uang baru ini akan mengembangkan ekonomi yang lebih terencana secara tersentral, dan dapat menghalangi kebebasan finansial individu dan memfasilitasi penyalahgunaan otoritas.
 
 Kita dapat menyimpulkan bab ini dengan kutipan dari pemenang Hadiah Nobel F.A Hayek pada tahun 1984:
 
-> "Saya tidak percaya bahwa kita akan memiliki uang yang baik lagi, sebelum kita mengambilnya dari tangan pemerintah. Jika kita tidak dapat mengambilnya secara kasar dari tangan pemerintah, yang dapat kita lakukan adalah dengan cara yang licik atau tidak langsung memperkenalkan sesuatu yang tidak dapat mereka hentikan."
+> "Saya tidak percaya kalau kita akan memiliki uang yang baik lagi, sebelum kita mengambil alih hal tersebut dari tangan pemerintah. Jika kita tidak dapat mengambilnya secara kasar dari tangan pemerintah, yang dapat kita lakukan adalah dengan cara yang licik atau tidak langsung memperkenalkan sesuatu yang tidak dapat mereka hentikan."
+
 > Untuk mempelajari lebih lanjut tentang kekeliruan ekonomi dan kebebasan, kami mengundang Anda untuk mempelajari kursus ECO 102, yang menelusuri kehidupan dan ide-ide Frédéric Bastiat, seorang pemikir Prancis abad ke-19 yang pasti akan menghargai kemunculan Bitcoin:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
@@ -287,7 +288,7 @@ Agar hiperinflasi dapat terjadi, beberapa peristiwa tertentu harus terjadi.
 
 Fase 1 - Kehilangan kepercayaan diri
 
-- Sentralisasi kekuasaan moneter memfasilitasi penciptaan uang dan penyalahgunaannya. Dalam konteks ini, beberapa faktor eksternal dapat memicu hiperinflasi, biasanya perang, tindakan sosial, atau kenaikan harga sumber daya utama seperti gandum atau bensin. Dengan demikian, hilangnya kepercayaan terhadap mata uang dapat terjadi, dan individu mulai mempertanyakan asal-usul uang dan manfaat dari kebijakan moneter yang diamanatkan.
+- Sentralisasi kekuasaan sistem moneter memfasilitasi penciptaan uang dan penyalahgunaannya. Dalam konteks ini, beberapa faktor eksternal dapat memicu hiperinflasi, biasanya perang, tindakan sosial, atau kenaikan harga sumber daya utama seperti gandum atau bensin. Dengan demikian, hilangnya kepercayaan terhadap mata uang dapat terjadi, dan individu mulai mempertanyakan asal-usul uang dan manfaat dari kebijakan moneter yang diamanatkan.
 
 Fase 2 - Keruntuhan mata uang dan kenaikan harga
 
@@ -311,7 +312,7 @@ Menyelesaikan krisis hiperinflasi sering kali membutuhkan perubahan radikal, sep
 
 Salah satu contoh hiperinflasi yang paling mencolok terjadi di Republik Weimar Jerman setelah Perang Dunia I.
 
-Jerman telah meminjam uang dalam jumlah yang sangat besar untuk membiayai perang. Namun, Jerman tidak hanya kehilangan uang tersebut, tetapi juga harus membayar miliaran dolar untuk reparasi. Bulan dengan tingkat inflasi tertinggi adalah Oktober 1923, yang mencapai puncaknya pada 29.500%, yang setara dengan tingkat inflasi 20,9% per hari. Harga-harga naik dua kali lipat setiap 3,7 hari!
+Jerman telah meminjam uang dalam jumlah yang sangat besar untuk membiayai perang. Namun, Jerman tidak hanya kehilangan uang tersebut, tetapi juga harus membayar miliaran dolar untuk reparasi. Tingkat inflasi tertinggi adalah pada bulan Oktober 1923, yang mencapai puncaknya pada 29.500%, yang setara dengan tingkat inflasi 20,9% per hari. Harga-harga naik dua kali lipat setiap 3,7 hari!
 
 Mata uang Jerman menjadi sangat tidak berguna sehingga beberapa warga lebih memilih untuk membakar uang kertas mereka daripada kayu karena lebih murah. Bahkan diceritakan bahwa di restoran-restoran, para pelayan harus mengumumkan harga menu setiap 30 menit untuk memperhitungkan inflasi.
 
@@ -319,9 +320,9 @@ Pada akhirnya, pihak berwenang menciptakan mata uang baru, yang didukung oleh ut
 
 ![image](assets/en/20.webp)
 
-- Hongaria, 1945-1946
+- Hungaria, 1945-1946
 
-Negara yang mengalami periode hiperinflasi terburuk hingga saat ini adalah Hongaria setelah Perang Dunia II.
+Negara yang mengalami periode hiperinflasi terburuk hingga saat ini adalah Hungaria setelah Perang Dunia II.
 
 Hongaria berada di pihak yang kalah dalam konflik ini, dengan sebagian besar kapasitas produksi industrinya hancur. Bulan dengan inflasi tertinggi adalah Juli 1946, yang mengalami inflasi harga yang mengejutkan sebesar 41.900.000.000.000%, setara dengan 207% per hari. Harga naik dua kali lipat setiap 15 jam!
 
@@ -335,9 +336,9 @@ Hingga tahun 2000, Zimbabwe swasembada untuk hampir semua kebutuhannya kecuali m
 
 Pada tahun 1997, nilai dolar Zimbabwe anjlok lebih dari 72% setelah pemerintah setuju untuk memberikan kompensasi kepada para veteran perang dengan jumlah yang setara dengan 450 juta dolar AS. Karena pemerintah tidak memiliki uang sebanyak itu, pemerintah terpaksa menjalankan mesin cetak. Pada tahun 2005, inflasi mencapai 586%, tetapi puncaknya terjadi pada pertengahan November 2008 dengan tingkat yang diperkirakan mencapai 79.600.000.000% per bulan.
 
-Pada bulan Juni 2007, pemerintah telah bereaksi dengan memberlakukan kontrol harga, namun tindakan ini tidak memberikan pengaruh apapun terhadap perekonomian. Toko-toko benar-benar "dijarah", dan para pedagang tidak lagi memiliki sarana untuk mengisi kembali toko mereka.
+Pada bulan Juni 2007, pemerintah telah bereaksi dengan memberlakukan kontrol harga, namun tindakan ini tidak memberikan pengaruh apapun terhadap perekonomian. Toko-toko benar-benar "dijarah", dan para pedagang tidak lagi memiliki sarana untuk mengisi kembali dagangan mereka.
 
-Pada bulan April 2009, Menteri Keuangan mengumumkan penangguhan dolar Zimbabwe dan mengizinkan penggunaan mata uang asing yang berbeda untuk perdagangan. Semua rekening bank, dana pensiun, dan lembaga keuangan mengalami penguapan dalam semalam.
+Pada bulan April 2009, Menteri Keuangan mengumumkan penangguhan dolar Zimbabwe dan mengizinkan penggunaan mata uang asing yang berbeda untuk perdagangan. Semua rekening bank, dana pensiun, dan lembaga keuangan hangus dalam semalam.
 
 ![image](assets/en/15.webp)
 
