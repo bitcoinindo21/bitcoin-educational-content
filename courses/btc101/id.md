@@ -738,7 +738,7 @@ Untuk mempelajari lebih lanjut tentang tulisan-tulisan Satoshi Nakamoto, kami sa
 
 ![image](assets/en/45.webp)
 
-> "Akar masalah dari mata uang konvensional adalah kepercayaan yang dibutuhkan untuk membuatnya bekerja. Bank sentral harus dipercaya untuk tidak merendahkan nilai mata uang, namun sejarah mata uang fiat penuh dengan pelanggaran kepercayaan tersebut. Bank harus dipercaya untuk menyimpan uang kita dan mentransfernya secara elektronik, tetapi mereka meminjamkannya dalam gelombang gelembung kredit dengan cadangan yang nyaris tidak ada" - [Satoshi Nakamoto] (https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+> "Akar masalah dari mata uang konvensional adalah dibutuhkan kepercayaan untuk membuatnya berjalan. Bank sentral harus dipercaya untuk tidak men-devaluasi nilai mata uang, namun sejarah mata uang fiat penuh dengan pelanggaran kepercayaan tersebut. Bank harus dipercaya untuk menyimpan uang kita dan mentransfernya secara elektronik, tetapi mereka meminjamkannya dalam gelombang gelembung kredit dengan cadangan yang nyaris tidak ada" - [Satoshi Nakamoto] (https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 > Setelah mengetahui latar belakangnya, mari kita lihat bagaimana cara kerja transaksi Bitcoin secara umum.
 
 ## Transaksi Bitcoin
@@ -749,7 +749,7 @@ Transaksi Bitcoin adalah sebuah transfer kepemilikan bitcoin melalui penggunaan 
 
 ### Langkah 1 - Membuat transaksi melalui dompet
 
-Agar Bob dapat mentransfer bitcoin kepada Alice, ia harus memberikan salah satu alamat Bitcoin-nya, yang unik untuk dompet Bitcoin-nya. Sama seperti kunci privat yang digunakan untuk menghasilkan kunci publik, kunci publik kemudian digunakan untuk menghasilkan alamat.
+Agar Bob dapat mentransfer bitcoin kepada Alice, Alice harus memberikan salah satu alamat Bitcoin-nya, yang unik  tersebut untuk dompet Bitcoin-nya. Sama seperti kunci privat yang digunakan untuk menghasilkan kunci publik, kunci publik kemudian digunakan untuk menghasilkan alamat.
 
 Secara konkretnya, ketika Alice membuka dompetnya dan menekan "terima", sebuah kode QR atau sebuah alamat (seperti bc1q7957hh3nj47efn8t2r6xdzs2cy3wjcyp8pch6hfkggy7jwrzj93sv4uykr) akan ditampilkan. Ini berfungsi sebagai 'Bitcoin IBAN' miliknya, yang kemudian diberikan kepada Bob.
 
@@ -763,13 +763,13 @@ Untuk menyelesaikan transaksi, Bob harus menandatanganinya dengan kunci pribadin
 
 ### Langkah 2: Perbanyakan transaksi melalui node
 
-Pada tahap ini, transaksi telah dibuat dan dompet Bob akan membaginya dengan jaringan Bitcoin. Untuk melakukan hal ini, dompetnya akan berkomunikasi dengan sebuah node di jaringan Bitcoin, yang akan menyebarkan informasi ini ke node lainnya. Proses semacam ini memungkinkan seluruh jaringan untuk melihat transaksi baru ini dan memperhitungkannya.
+Pada tahap ini, transaksi telah dibuat dan dompet Bob akan membagikanya dengan jaringan Bitcoin. Untuk melakukan hal ini, dompetnya akan berkomunikasi dengan sebuah node di jaringan Bitcoin, yang akan menyebarkan informasi ini ke node lainnya. Proses semacam ini memungkinkan seluruh jaringan untuk melihat transaksi baru ini dan memperhitungkannya.
 
 ![image](assets/en/47.webp)
 
 Pada titik ini, walaupun transaksi ini diketahui oleh semua orang (melalui alat yang disebut Mempool), transaksi ini tidak dapat dianggap terkonfirmasi hingga dimasukkan ke dalam blok oleh seorang penambang, yang merupakan satu-satunya orang yang memvalidasi transaksi dengan memasukkannya ke dalam blockchain.
 
-Faktanya, para penambang memiliki peran untuk mengumpulkan transaksi yang valid dan belum dikonfirmasi untuk disusun menjadi sebuah blok. Singkatnya, mereka harus memecahkan teka-teki kriptografi dalam sebuah proses yang disebut "bukti kerja" agar blok mereka menjadi blok berikutnya dalam blockchain Bitcoin.
+Faktanya, para penambang memiliki peran untuk mengumpulkan transaksi yang valid dan belum dikonfirmasi untuk disusun menjadi sebuah blok. Singkatnya, mereka harus memecahkan teka-teki kriptografi dalam sebuah proses yang disebut 'proof of work atau "bukti kerja" agar blok mereka menjadi blok berikutnya dalam blockchain Bitcoin.
 
 ![image](assets/en/48.webp)
 
@@ -785,11 +785,11 @@ Pada tahap ini, transaksi dianggap sah: penambang akan menyebarkan blok baru ke 
 
 ![image](assets/en/50.webp)
 
-**Catatan:** Meskipun Alice diberitahu bahwa ia telah menerima bitcoin di salah satu alamatnya, disarankan untuk menganggap transaksi tersebut tidak dapat diubah hanya setelah menerima **enam** konfirmasi. Ini berarti enam blok tambahan harus ditambang di atas blok yang berisi transaksi Bob. Dengan kata lain, semakin lama sebuah transaksi berada di dalam blockchain, semakin tidak dapat diubah.
+**Catatan:** Meskipun Alice diberitahu bahwa ia telah menerima bitcoin di salah satu alamatnya, disarankan untuk menganggap transaksi tersebut tidak akan dapat dirubah jika sudah menerima **enam** konfirmasi. Ini berarti enam blok tambahan harus ditambang di atas blok yang berisi transaksi Bob. Dengan kata lain, semakin lama sebuah transaksi berada di dalam blockchain, maka semakin tidak dapat dirubah.
 
 ### Apa pentingnya proses ini?
 
-Sistem transaksi Bitcoin terdesentralisasi dan bekerja secara peer-to-peer, tanpa perantara tepercaya.
+Sistem transaksi Bitcoin terdesentralisasi dan bekerja secara peer-to-peer, tanpa pihak perantara tepercaya.
 
 Bob mengirimkan transaksinya ke jaringan Bitcoin, dan ketika seorang penambang menerbitkan blok valid yang berisi transaksi Bob, Alice dapat mulai menganggap bahwa bitcoin tersebut adalah miliknya. Kepercayaan tidak diperlukan pada setiap langkah transfer kepemilikan bitcoin: aturan protokol dan insentif ekonomi yang ada membuatnya sangat mahal untuk bertindak jahat dalam sistem Bitcoin.
 
@@ -844,7 +844,7 @@ Memang, setiap orang memiliki alasan yang bagus untuk menjalankan sebuah node! B
 
 Sebaliknya, jika blok-blok tersebut 100 kali lebih besar, kita tentu saja dapat melakukan 100 kali lebih banyak transaksi setiap 10 menit, tetapi menjalankan sebuah node Bitcoin akan membutuhkan hard disk sebesar 50TB, bandwidth lebih dari 500GB/bulan, dan perangkat keras yang dapat memvalidasi ratusan ribu transaksi dalam waktu kurang dari 10 menit. Dalam situasi hipotetis dengan blok yang 100 kali lebih besar, menjalankan sebuah node Bitcoin tidak akan dapat diakses oleh kebanyakan orang, yang akan membahayakan desentralisasi protokol dan kekekalan transaksi serta aturan konsensus.
 
-Oleh karena itu, batasan protokol telah dirancang untuk memungkinkan sebanyak mungkin orang menjalankan node Bitcoin mereka sendiri. Faktanya, tahun 2017 ditandai dengan kontroversi sengit yang dikenal sebagai "perang ukuran blok". Konflik ini mempertemukan pihak-pihak yang ingin memodifikasi Bitcoin dengan meningkatkan ukuran blok untuk meningkatkan kapasitas transaksi (penambang, platform bursa, dan institusi) dengan pihak-pihak yang ingin mempertahankan kemandirian dan kekuatan pengguna (node dan pengguna). Pada akhirnya, pihak kedua menang.
+Oleh karena itu, batasan protokol telah dirancang untuk memungkinkan sebanyak mungkin orang menjalankan node Bitcoin mereka sendiri. Faktanya, tahun 2017 ditandai dengan kontroversi sengit yang dikenal sebagai "block size war". Konflik ini mempertemukan pihak-pihak yang ingin memodifikasi Bitcoin dengan meningkatkan ukuran blok untuk meningkatkan kapasitas transaksi (penambang, platform bursa pertukaran, dan institusi) dengan pihak-pihak yang ingin mempertahankan kemandirian dan kekuatan pengguna (node dan pengguna). Pada akhirnya, pihak kedua menang.
 
 Setelah kemenangan ini, node-node tersebut mengaktifkan pembaruan yang disebut SegWit, membuka jalan untuk implementasi Lightning Network, sebuah jaringan pembayaran Bitcoin instan yang dibangun sebagai lapisan kedua blockchain Bitcoin. Situasi ini menunjukkan bahwa para pengguna, melalui node mereka, memiliki kekuatan yang nyata di dalam Bitcoin, yang memungkinkan mereka untuk melawan institusi besar pada saat terjadi perselisihan.
 
@@ -852,11 +852,11 @@ Setelah kemenangan ini, node-node tersebut mengaktifkan pembaruan yang disebut S
 
 <chapterId>dbb8264a-7434-57e4-9d1b-fbd1bae37fdf</chapterId>
 
-**Penambang mengamankan jaringan dan menambahkan transaksi ke dalam blok. Mereka menggunakan listrik melalui mesin ASIC untuk menyelesaikan bukti kerja Bitcoin.**
+**Penambang mengamankan jaringan dan menambahkan transaksi ke dalam blok. Mereka menggunakan listrik melalui mesin ASIC untuk menyelesaikan (proof of work)bukti kerja Bitcoin.**
 
 ![image](assets/en/55.webp)
 
-### Penjelasan tentang Bukti Pekerjaan
+### Penjelasan tentang Bukti Pekerjaan (Proof of Work)
 
 "Proof of Work" (POW) adalah mekanisme konsensus keamanan protokol Bitcoin. Ini adalah fondasi dari segalanya dan memainkan peran penting dalam teori permainan Bitcoin.
 
@@ -866,7 +866,7 @@ Jika nomor yang dipilih benar: Jackpot! Jika tidak, pencarian berlanjut.
 
 Untuk mengoptimalkan jumlah percobaan, mereka akan menggunakan mesin khusus yang disebut ASIC, yang memiliki peran tunggal untuk menghitung miliaran kemungkinan per detik (jumlah total percobaan disebut "HashRate"). Untuk mengoperasikan mesin-mesin ini, listrik dalam jumlah besar harus dikonsumsi. Oleh karena itu, POW mengubah energi menjadi mata uang, menghubungkan dunia nyata dan dunia digital untuk menciptakan mata uang berbasis energi pertama.
 
-Mesin-mesin tersebut beroperasi terus menerus, dan setelah rata-rata 10 menit, seorang pemenang akan muncul: peserta ini telah berhasil menemukan hash yang benar yang berada di bawah ambang batas kesulitan. Pemenang utama dan satu-satunya kemudian akan menandatangani blok baru dari server stempel waktu, menambahkannya ke blockchain. Mereka akan menerima hadiah dan kembali untuk mencoba peruntungan mereka dalam menambang blok berikutnya. Proses ini telah berlangsung selama lebih dari sepuluh tahun, dengan seorang pemenang yang mengonfirmasi transaksi Bitcoin setiap 10 menit dan juga mengamankan transaksi-transaksi yang telah terjadi sebelumnya, sehingga membuat blockchain Bitcoin menjadi lebih kuat dan aman.
+Mesin-mesin tersebut beroperasi terus menerus, dan setelah rata-rata 10 menit, seorang pemenang akan muncul: peserta ini telah berhasil menemukan hash yang benar yang berada di bawah ambang batas kesulitan. Pemenang utama dan satu-satunya kemudian akan menandatangani blok baru dari server stempel waktu (Time Stamp), menambahkannya ke blockchain. Mereka akan menerima hadiah dan kembali untuk mencoba peruntungan mereka dalam menambang blok berikutnya. Proses ini telah berlangsung selama lebih dari sepuluh tahun, dengan seorang pemenang yang mengonfirmasi transaksi Bitcoin setiap 10 menit dan juga mengamankan transaksi-transaksi yang telah terjadi sebelumnya, sehingga membuat blockchain Bitcoin menjadi lebih kuat dan aman.
 
 Setiap 2016 blok (kira-kira setiap dua minggu), **penyesuaian tingkat kesulitan** menyeimbangkan kembali permainan penambangan global berdasarkan jumlah peserta. Penyesuaian ini diperlukan karena jumlah penambang dan daya komputasi gabungan mereka dapat bervariasi secara signifikan dari waktu ke waktu. Untuk mempertahankan target waktu blok, jaringan mengkalibrasi ulang tingkat kesulitan berdasarkan seberapa cepat blok 2016 terakhir ditambang. Jika blok-blok tersebut ditambang terlalu cepat, tingkat kesulitannya akan meningkat, sehingga lebih sulit untuk menemukan hash yang benar. Sebaliknya, jika ditambang terlalu lambat, tingkat kesulitannya akan berkurang, sehingga lebih mudah.
 
@@ -884,7 +884,7 @@ Hashrate dari jaringan Bitcoin menunjukkan jumlah percobaan yang dilakukan per d
 
 ### Apa saja yang dapat ditemukan dalam satu blok?
 
-Header blok berisi beberapa elemen seperti waktu, target kesulitan, jumlah blok terakhir, versi yang digunakan, dan Akar Merkle dari transaksi sebelumnya.
+Header blok berisi beberapa elemen seperti waktu, target kesulitan, jumlah blok terakhir, versi yang digunakan, dan Akar Merkle (merkle root) dari transaksi sebelumnya.
 
 Transaksi **coinbase** selalu menjadi transaksi pertama yang dimasukkan ke dalam blok: transaksi ini berisi upah penambang karena telah melakukan pekerjaan validator. Kemudian datanglah transaksi-transaksi yang telah divalidasi. Penambang akan memilih untuk memasukkan transaksi yang memberikan keuntungan paling besar, yaitu transaksi berukuran kecil dengan biaya maksimum.
 
@@ -909,7 +909,7 @@ Untuk menstabilkan model bisnis mereka, yang bergantung pada upah yang mereka te
 
 ### Mengapa repot-repot melakukan semua ini?
 
-Singkatnya, inovasi Bitcoin adalah mengusulkan solusi untuk masalah pembelanjaan ganda melalui penggunaan blockchain berdasarkan Proof of Work dengan tingkat kesulitan yang mengambang. Dalam dunia digital, konsep kepemilikan berbeda dengan dunia fisik. Faktanya, di dunia digital, segala sesuatu dapat disalin dan ditempelkan, yang menciptakan risiko penggunaan aset digital yang bernilai lebih banyak. Perantara tepercaya, seperti bank, telah diciptakan untuk mengatasi masalah teknologi ini dan memastikan bahwa ketika sebuah aset ditransfer, aset tersebut tidak lagi menjadi milik pengirim.
+Singkatnya, inovasi Bitcoin adalah mengusulkan solusi untuk masalah pembelanjaan ganda melalui penggunaan blockchain berdasarkan Proof of Work dengan tingkat kesulitan yang mengambang. Dalam dunia digital, konsep kepemilikan berbeda dengan dunia fisik. Faktanya, di dunia digital, segala sesuatu dapat disalin dan ditempelkan, yang menciptakan risiko penggunaan aset digital yang bernilai lebih banyak. Perantara pihak tepercaya, seperti bank, telah diciptakan untuk mengatasi masalah teknologi ini dan memastikan bahwa ketika sebuah aset ditransfer, aset tersebut tidak lagi menjadi milik pengirim.
 
 Namun, bagaimana hal ini dapat dilakukan tanpa perantara yang dapat dipercaya? Masalah ini digambarkan dengan baik melalui paradoks Jenderal Bizantium, sebuah masalah koordinasi informasi dalam sebuah sistem di mana berbagai aktor tidak dapat dipercaya. Dalam Masalah Jenderal Bizantium, sekelompok jenderal harus mengoordinasikan serangan ke sebuah kota, tetapi beberapa di antaranya mungkin adalah pengkhianat yang mencoba mengganggu rencana tersebut. Tantangannya adalah agar para jenderal yang setia mencapai konsensus apakah akan menyerang atau mundur, meskipun menerima pesan yang berpotensi menyesatkan dari pengkhianat.
 
@@ -933,7 +933,7 @@ https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>
 
-Pada bagian sebelumnya, kita telah memahami bahwa keamanan protokol Bitcoin bergantung pada konsumsi energi yang tinggi untuk menghasilkan sebuah buku besar transaksi tanpa pihak ketiga yang terpercaya. Di media arus utama, biaya energi secara keseluruhan sering kali dibandingkan dengan penggunaan listrik di sebuah negara kecil. Tetapi apakah perbandingan ini masuk akal? Apakah relevan untuk memahami alasan di balik biaya tersebut?
+Pada bagian sebelumnya, kita telah memahami bahwa keamanan protokol Bitcoin bergantung pada konsumsi energi yang tinggi untuk menghasilkan sebuah buku besar transaksi tanpa pihak ketiga yang terpercaya. Di media mainstream, biaya energi secara keseluruhan sering kali dibandingkan dengan penggunaan listrik di sebuah negara kecil. Tetapi apakah perbandingan ini masuk akal? Apakah relevan untuk memahami alasan di balik biaya tersebut?
 
 ### Biaya energi Bitcoin.
 
@@ -945,7 +945,7 @@ Konsumsi listrik mewakili hampir seluruh biaya yang dikeluarkan oleh seorang pen
 
 ### Perdebatan yang tak ada habisnya
 
-Oleh karena itu, perdebatan mengenai dampak ekologis Bitcoin sering kali salah arah, terutama karena kurangnya pemahaman mengenai kegunaannya. Bitcoin tidak dapat dievaluasi hanya dalam hal biaya energi per transaksi, karena penambang mengamankan jaringan saat ini dan historis, dan transaksi dikelompokkan dan tidak semuanya setara. Selain itu, dampak dari Lightning Network juga tidak diperhitungkan. Mereka yang mengklaim bahwa Bitcoin menghabiskan terlalu banyak energi mungkin memiliki motivasi politik atau ingin menjual solusi blockchain mereka sendiri. Sering kali, dalih ekologis digunakan untuk membenarkan pelarangan Bitcoin.
+Oleh karena itu, perdebatan mengenai dampak ekologis Bitcoin sering kali salah arah, terutama karena kurangnya pemahaman mengenai kegunaannya. Bitcoin tidak dapat dievaluasi hanya dalam hal biaya energi per transaksi, karena penambang mengamankan jaringan saat ini dan historis, dan transaksi dikelompokkan dan tidak semuanya setara. Selain itu, dampak dari Lightning Network juga tidak diperhitungkan. Mereka yang mengklaim bahwa Bitcoin menghabiskan terlalu banyak energi mungkin memiliki motivasi politik atau ingin menjual solusi blockchain mereka sendiri. Sering kali, dalih ekologis digunakan untuk membenarkan banned terhadap Bitcoin.
 
 Penting untuk ditekankan bahwa Bitcoin, sebagai sebuah penemuan revolusioner, menyediakan sarana bagi individu yang hidup di bawah penindasan finansial atau rezim diktator untuk memperjuangkan kebebasan mereka. Sebagai pilihan terakhir, Bitcoin menawarkan sebuah jalan menuju kemandirian finansial dengan menghindari sensor dan pembatasan perbankan. Lebih dari sekadar mata uang, Bitcoin berfungsi sebagai bentuk komunikasi dan simbol kebebasan, dan energi yang dikeluarkan oleh para penambang memainkan peran penting dalam mempertahankan kebebasan ini, memungkinkan pembebasan dari sistem keuangan yang didominasi oleh utang dan penciptaan moneter yang berlebihan oleh bank sentral.
 
@@ -1009,7 +1009,7 @@ Perkembangan dan evolusi Bitcoin sebagian besar terkait dengan berbagai kelompok
 
 - Orang-orang yang beriman:
 
-Pengguna awal Bitcoin sebagian besar adalah para technophiles, cypherpunks, libertarian, dan penggemar emas. Kelompok-kelompok ini tertarik dengan Bitcoin karena nilainya sebagai uang elektronik yang tidak dapat dipercaya, ketahanannya terhadap sensor, dan kebijakan moneternya yang transparan dan tidak dapat diubah.
+Pengguna awal Bitcoin sebagian besar adalah para technophiles, cypherpunks, libertarian, dan penggemar emas. Kelompok-kelompok ini tertarik dengan Bitcoin karena nilainya sebagai uang elektronik yang tidak memerlukan kepercayaan pihak ketiga, ketahanannya terhadap sensor, dan kebijakan moneternya yang transparan dan tidak dapat diubah.
 
 - Web gelap & penjahat
 
@@ -1057,7 +1057,7 @@ Ekonomi Bitcoin ada dan berkembang di beberapa wilayah tertentu di dunia, sepert
 
 ![image](assets/en/72.webp)
 
-Selain itu, sebuah proyek sumber terbuka dan kolaboratif telah diluncurkan, [BTCMap] (https://btcmap.org/map#2/21.28937/5.46680), untuk memfasilitasi penggunaan Bitcoin dalam transaksi sehari-hari. Platform ini mencantumkan semua pedagang yang menerima Bitcoin, serta berbagai komunitas Bitcoin di seluruh dunia, sehingga Anda dapat mengunjungi situs web mereka untuk menemukan ekosistem Bitcoin di sekitar Anda. Jadi, terlepas dari kesulitan dan keraguan, ada inisiatif seperti BTCMap yang berkontribusi untuk membuat ekonomi Bitcoin lebih mudah diakses dan nyaman bagi semua orang.
+Selain itu, sebuah proyek open-source dan kolaboratif telah diluncurkan, [BTCMap] (https://btcmap.org/map#2/21.28937/5.46680), untuk memfasilitasi penggunaan Bitcoin dalam transaksi sehari-hari. Platform ini mencantumkan semua pedagang yang menerima Bitcoin, serta berbagai komunitas Bitcoin di seluruh dunia, sehingga Anda dapat mengunjungi situs web mereka untuk menemukan ekosistem Bitcoin di sekitar Anda. Jadi, terlepas dari kesulitan dan keraguan, ada inisiatif seperti BTCMap yang berkontribusi untuk membuat ekonomi Bitcoin lebih mudah diakses dan nyaman bagi semua orang.
 
 ### Mengapa kita harus menerima Bitcoin dan bukan membelinya?
 
@@ -1116,7 +1116,7 @@ Secara konkret, ada dua pertanyaan yang perlu Anda tanyakan pada diri Anda sendi
 
 ### Strategi akuisisi
 
-- Rata-rata Biaya Dolar
+- Dollar Cost Averaging/Rata-rata Biaya Dolar
 
 Strategi bertahap melibatkan pembelian berulang, yang berarti membeli sejumlah kecil Bitcoin secara berkala. Metode ini menghaluskan harga dari waktu ke waktu dan memberikan pertumbuhan berkelanjutan dalam jumlah bitcoin yang dimiliki. Ini adalah solusi ideal untuk tabungan jangka panjang, dan mengurangi kekhawatiran tentang volatilitas harga Bitcoin. Setelah diatur, Anda bisa melupakannya dan melihat investasi Anda tumbuh.
 
@@ -1169,7 +1169,7 @@ Selain itu, ada beberapa [pasar](https://planb.network/tutorials/exchange) tempa
 - ATM Bitcoin
 - Pertemuan fisik dengan penggemar bitcoin lainnya
 - Platform ilegal dan tidak teregulasi
-- Solusi perjodohan peer-to-peer
+- Solusi peer-to-peer
 - Neobank beroperasi di negara-negara yang ramah terhadap Bitcoin.
 
 ![image](assets/en/76.webp)
@@ -1196,15 +1196,15 @@ Pada akhirnya, kami mengundang Anda untuk merenungkan revolusi moneter yang baru
 
 ![image](assets/en/77.webp)
 
-Jika Anda ingin memperluas pengetahuan Anda mengenai Bitcoin, inilah saat yang tepat: banyak penulis, pemikir, dan penulis esai yang telah membuat konten edukasi mengenai Bitcoin. Selama beberapa tahun terakhir, kami telah membuat daftar dan mengkategorikan karya-karya tersebut untuk menawarkan [perpustakaan sumber daya] (https://planb.network/resources) kepada Anda yang paling ingin tahu di antara Anda. Di bagian tersebut, Anda akan menemukan podcast, situs web, artikel, tutorial, buku, dan konten lainnya yang terbaik.
+Jika Anda ingin memperluas pengetahuan Anda mengenai Bitcoin, inilah saat yang tepat: banyak penulis, pemikir, dan penulis esai yang telah membuat konten edukasi mengenai Bitcoin. Selama beberapa tahun terakhir, kami telah membuat daftar dan mengkategorikan karya-karya tersebut untuk menawarkan [perpustakaan sumber daya] (https://planb.network/resources) kepada Anda yang paling ingin tahu di antara lingkungan Anda. Di bagian tersebut, Anda akan menemukan podcast, situs web, artikel, tutorial, buku, dan konten lainnya yang terbaik.
 
 > "Saya pikir Internet akan menjadi salah satu kekuatan utama untuk mengurangi peran pemerintah. Satu hal yang belum ada, namun akan segera dikembangkan, adalah e-cash yang dapat diandalkan - sebuah metode di mana di Internet Anda dapat mentransfer dana dari A ke B tanpa A mengetahui B atau B mengetahui A." - Prediksi Milton Friedman pada tahun 1999
 
-# Masa Depan Bitcoin: Jaringan Petir
+# Masa Depan Bitcoin: Lightning Network
 
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
 
-## Pengantar Singkat ke Jaringan Lightning
+## Pengantar Singkat ke Lightning Network
 
 <chapterId>b403f1e4-f1ff-572b-a242-9b58cb3736d0</chapterId>
 
@@ -1228,7 +1228,7 @@ Masalah skalabilitas mengacu pada tantangan untuk mengimplementasikan sebuah sis
 
 ![image](assets/en/79.webp)
 
-Menurutnya, protokol yang berdasarkan pada blockchain hanya dapat memenuhi dua dari tiga fitur ini. Dalam protokol Bitcoin, para pengembang telah membuat pilihan untuk mengutamakan desentralisasi dan keamanan. Di satu sisi, ukuran blok 1MB dan waktu antara dua blok (rata-rata 10 menit) memungkinkan untuk menjalankan sebuah node Bitcoin dengan biaya yang lebih rendah, mendukung desentralisasi. Di sisi lain, produksi blok melalui Proof-of-Work membuat penipuan dalam protokol menjadi sangat mahal, sekaligus memfasilitasi verifikasi oleh node jaringan dan mendukung keamanan. Akan tetapi, pilihan ini memberikan batasan pada jumlah rata-rata transaksi dalam sebuah blok, yang secara kasar setara dengan beberapa transaksi per detik. Jumlah ini tidak masuk akal jika dibandingkan dengan kapasitas komputasi prosesor pembayaran seperti VISA (1700/s), tetapi batas ini diperlukan untuk bertransaksi dengan Bitcoin dengan cara yang tahan sensor dan tidak dapat dipercaya. Namun demikian, mereka yang mengembangkan Bitcoin telah memikirkan masalah ini sejak awal.
+Menurutnya, protokol yang berdasarkan pada blockchain hanya dapat memenuhi dua dari tiga fitur ini. Dalam protokol Bitcoin, para pengembang telah membuat pilihan untuk mengutamakan desentralisasi dan keamanan. Di satu sisi, ukuran blok 1MB dan waktu antara dua blok (rata-rata 10 menit) memungkinkan untuk menjalankan sebuah node Bitcoin dengan biaya yang lebih rendah, mendukung desentralisasi. Di sisi lain, produksi blok melalui Proof-of-Work membuat penipuan dalam protokol menjadi sangat mahal, sekaligus memfasilitasi verifikasi oleh node jaringan dan mendukung keamanan. Akan tetapi, pilihan ini memberikan batasan pada jumlah rata-rata transaksi dalam sebuah blok, yang secara kasar setara dengan beberapa transaksi per detik. Jumlah ini tidak masuk akal jika dibandingkan dengan kapasitas komputasi prosesor pembayaran seperti VISA (1700/s), tetapi batas ini diperlukan untuk bertransaksi dengan Bitcoin dengan cara yang anti sensor dan tidak membutuhkan kepercayaan. Namun demikian, mereka yang mengembangkan Bitcoin telah memikirkan masalah ini sejak awal.
 
 ### Petir sebagai lapisan di atas
 
@@ -1244,7 +1244,7 @@ Transaksi diamankan melalui kriptografi dan secara tidak langsung melalui energi
 
 Singkatnya, Lightning Network adalah sebuah usaha yang menjanjikan untuk menggunakan sistem pembayaran yang efisien untuk membeli dan menjual Bitcoin. Sudah ada banyak dompet Lightning yang tersedia, yang dapat Anda temukan di bagian tutorial kami atau melalui kursus Lightning Network.
 
-Jika Anda ingin melampaui pengenalan ini dan memahami semua cara kerja Lightning Network, kami sarankan untuk mengambil kursus yang sangat bagus ini oleh Fanis Michalakis tentang masalah ini:
+Jika Anda ingin mberkenalan lebih jauh memahami semua cara kerja Lightning Network, kami sarankan untuk mengambil kursus yang sangat bagus ini oleh Fanis Michalakis tentang masalah ini:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
@@ -1254,19 +1254,19 @@ https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 Seperti yang baru saja kita lihat, protokol Bitcoin, meskipun revolusioner, menghadapi tantangan yang signifikan dalam hal skalabilitas yang dibutuhkan untuk menangani semua transaksi harian kita. Untuk mengatasi masalah ini, Lightning Network diusulkan dan sejak saat itu berkembang menjadi beberapa implementasi yang berbeda, yang semuanya dapat dioperasikan:
 
-- Petir inti oleh Blockstream
+- core Lightning oleh Blockstream
 - Eclair oleh Acinq
-- LND oleh sambaran petir
+- LND oleh Lightning strike
 
 Jaringan peer-to-peer ini bertujuan untuk memfasilitasi transaksi mikro (dengan nilai yang sangat rendah) yang sebelumnya tidak praktis karena biaya yang tinggi dan waktu konfirmasi yang lama pada blockchain Bitcoin.
 
 ### Apa saja kasus penggunaan jaringan?
 
-Teknologi ini membuka pintu ke berbagai aplikasi potensial untuk Bitcoin yang sebelumnya tidak terjangkau karena adanya batasan-batasan yang diperlukan untuk memastikan keamanan dan desentralisasi Bitcoin. Di antara kasus-kasus penggunaan sehari-hari ini, kita dapat menyebutkan penagihan instan dalam perdagangan fisik dan online, streaming uang untuk pembayaran waktu nyata, dan donasi mikro untuk para pembuat konten. Dengan memungkinkan jaringan transaksi yang hampir instan, aman, dan berbiaya rendah (rata-rata kurang dari 0,5%), banyak model bisnis yang sebelumnya tidak terbayangkan dapat direalisasikan. Hal ini dimungkinkan karena Lightning Network beroperasi menggunakan satoshi (sats), unit terkecil dari Bitcoin.
+Teknologi ini membuka pintu ke berbagai aplikasi potensial untuk Bitcoin yang sebelumnya tidak terjangkau karena adanya batasan-batasan yang diperlukan untuk memastikan keamanan dan desentralisasi Bitcoin. Di antara kasus-kasus penggunaan sehari-hari ini, kita dapat menyebutkan tagihan instan dalam perdagangan fisik dan online, streaming uang untuk pembayaran real time, dan donasi mikro untuk para pembuat konten. Dengan memungkinkan jaringan transaksi yang hampir instan, aman, dan berbiaya rendah (rata-rata kurang dari 0,5%), banyak model bisnis yang sebelumnya tidak terbayangkan dapat direalisasikan. Hal ini dimungkinkan karena Lightning Network beroperasi menggunakan satoshi (sats), unit terkecil dari Bitcoin.
 
 ![image](assets/en/82.webp)
 
-Industri video game menawarkan contoh yang sangat menarik tentang bagaimana Lightning Network dapat digunakan untuk mengubah model bisnis yang ada. Konsep "skin in the game" adalah ide yang baru-baru ini mendapatkan popularitas dalam konteks ini. Konsep ini pada dasarnya melibatkan keterlibatan finansial dalam hasil permainan. Faktanya, Lightning Network memungkinkan pemain untuk bertaruh dalam jumlah yang sangat kecil saat bermain game, seperti beberapa satoshi (sekitar sepersekian sen euro) untuk menetapkan taruhan yang merangsang persaingan sambil secara signifikan meningkatkan biaya penggunaan bot.
+Industri video game menawarkan contoh yang sangat menarik tentang bagaimana Lightning Network dapat digunakan untuk mengubah model bisnis yang sudah ada. Konsep "skin in the game" adalah ide yang baru-baru ini mendapatkan popularitas dalam konteks ini. Konsep ini pada dasarnya melibatkan keterlibatan finansial dalam hasil permainan. Faktanya, Lightning Network memungkinkan pemain untuk bertaruh dalam jumlah yang sangat kecil saat bermain game, seperti beberapa satoshi (sekitar sepersekian sen euro) untuk menetapkan taruhan yang merangsang persaingan sambil secara signifikan meningkatkan biaya penggunaan bot.
 
 ![image](assets/en/83.webp)
 
@@ -1296,7 +1296,7 @@ Kami memiliki beberapa pertanyaan penting untuk ditanyakan pada diri kami sendir
 
 - Bagaimana kita mengelola masyarakat di mana 80% pekerjaan akan hilang?
 - Bagaimana kita merevitalisasi populasi?
-- Apakah dibutuhkan banyak guru?
+- Apakah masih membutuhkan banyak tenaga pengajar?
 - Konsekuensi geopolitik, politik, dan manusia dari otomatisasi tidak dibahas secara memadai.
 
 Komputasi, internet, streaming, dan VR akan mengubah pendidikan. Kita bisa memiliki kursus universal untuk semua siswa Prancis yang dikelola oleh pemerintah dan guru yang tidak lagi memberikan ceramah tetapi langsung menemani siswa. Anak-anak dapat masuk ke dunia virtual dan ditemani dalam belajar sejarah.
@@ -1306,7 +1306,7 @@ Komputasi, internet, streaming, dan VR akan mengubah pendidikan. Kita bisa memil
 
 Pertanyaan-pertanyaan mendasar untuk masa depan kita harus diperdebatkan dan diputuskan secara kolektif.
 
-Apa hubungannya dengan Bitcoin? Seperti halnya Internet yang merevolusi mode komunikasi, Bitcoin mewakili revolusi teknologi untuk bentuk-bentuk baru organisasi berskala besar, yang memungkinkan kita untuk menukarkan nilai tanpa bergantung pada pihak ketiga yang tepercaya. Apakah kita ingin menghalangi evolusi teknologi dari sistem moneter, atau apakah kita ingin merangkul potensi peningkatan modal melalui peningkatan produktivitas sepuluh kali lipat yang ditawarkan dengan menggunakan protokol Bitcoin dan Lightning?
+Apa hubungannya dengan Bitcoin? Seperti halnya Internet yang merevolusi mode komunikasi, Bitcoin mewakili revolusi teknologi untuk format baru organisasi berskala besar, yang memungkinkan kita untuk menukarkan nilai tanpa bergantung pada pihak ketiga yang tepercaya. Apakah kita ingin menghalangi evolusi teknologi dari sistem moneter, atau apakah kita ingin merangkul potensi peningkatan modal melalui peningkatan produktivitas sepuluh kali lipat yang ditawarkan dengan menggunakan protokol Bitcoin dan Lightning?
 
 ### Bagaimana masa depan keuangan?
 
@@ -1345,7 +1345,7 @@ Bitcoin diadopsi oleh berbagai kelompok orang, mulai dari kriptografer, libertar
 
 Bitcoin tidak dapat dihentikan dan tidak dapat disensor lagi. Ini adalah revolusi damai yang mengubah sistem moneter dan memungkinkan inklusivitas keuangan. Pengguna dapat memperoleh bitcoin dengan menerimanya untuk perdagangan mereka atau dengan membelinya melalui platform yang diatur atau tidak diatur. Mereka dapat menyimpan dana di dompet, aplikasi seluler, atau perangkat fisik mereka, tanpa perlu perantara tepercaya. Bitcoin mendukung transparansi, kebebasan, dan tanggung jawab individu: seperti kata pepatah "Jangan Percaya, Verifikasi".
 
-Satoshi menciptakan Bitcoin pada tahun 2008 untuk mengusulkan perubahan sistem keuangan, melalui perubahan mata uang, karena dia tahu bahwa memiliki akses ke uang yang mudah dan "ajaib" dengan mudah membawa pada korupsi. Oleh karena itu, Bitcoin merupakan alternatif untuk membangun sistem moneter baru yang netral, karena memungkinkan emansipasi dari sistem perbankan. Pada akhirnya, ini adalah fenomena sosial yang mendorong kita untuk berpartisipasi dalam revolusi damai.
+Satoshi menciptakan Bitcoin pada tahun 2008 untuk mengusulkan perubahan sistem keuangan, melalui perubahan mata uang, karena dia tahu bahwa memiliki akses yang mudah dan "ajaib" terhadap uang akan mengarah pada praktik korupsi. Oleh karena itu, Bitcoin merupakan alternatif untuk membangun sistem moneter baru yang netral, karena memungkinkan emansipasi dari sistem perbankan. Pada akhirnya, ini adalah fenomena sosial yang mendorong kita untuk berpartisipasi dalam revolusi damai.
 
 Apakah Anda siap untuk bergabung?
 
