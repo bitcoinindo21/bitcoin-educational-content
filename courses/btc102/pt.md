@@ -796,7 +796,7 @@ https://planb.network/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b
 
 Compra sem KYC entre particulares:
 
-https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
+https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
@@ -820,6 +820,9 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 No espírito do Paranoico, a cautela, a segurança e o anonimato são primordiais. Essas prioridades ditam uma abordagem deliberada e bem pensada para o uso do Bitcoin, promovendo a auto-suficiência e a prudência. O Paranoico está disposto a investir tempo e esforço para garantir a segurança e privacidade de seus bitcoins, enquanto navega habilmente no ecossistema para evitar exposições desnecessárias. Embora possa parecer excessivamente cauteloso para alguns, o Paranoico considera sua diligência e atenção aos detalhes essenciais para uma participação bem-sucedida e segura no mundo do Bitcoin.
 
+# Proteger seus herdeiros e patrimônio
+
+<partId>0b8a9528-719b-4a2d-bd50-1e173a896570</partId>
 
 ## Criando um plano de herança
 

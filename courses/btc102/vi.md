@@ -776,7 +776,7 @@ https://planb.network/tutorials/wallet/hardware/coldcard-5d44dd94-423d-4e37-9a8c
 https://planb.network/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b0ca-4a4702072973
 
 Mua bán không KYC giữa các cá nhân:
-https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
+https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
@@ -799,6 +799,9 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
   Trong khi đánh giá cao sự ẩn danh và an toàn, Bitcoiner "hoài nghi" vẫn thực dụng trong các lựa chọn của mình, sử dụng các giải pháp đã được kiểm chứng và đáng tin cậy để bảo vệ bitcoin của mình trong quá trình khám phá hệ sinh thái tiền mã hóa.
   Trong tâm trí của Bitcoiner "hoài nghi", sự cẩn trọng, bảo mật và ẩn danh là tối quan trọng. Những ưu tiên này định hình một cách tiếp cận cẩn thận và được suy nghĩ kỹ lưỡng khi sử dụng Bitcoin, thúc đẩy sự tự lực và cẩn trọng. Bitcoiner "hoài nghi" sẵn lòng đầu tư thời gian và công sức để đảm bảo an toàn và riêng tư cho bitcoin của họ, đồng thời khéo léo khám phá, sử dụng hệ sinh thái để không làm lộ thông tin. Mặc dù sẽ có một số người "cẩn thận quá mức", Bitcoiner "hoài nghi" cho rằng sự chăm chỉ và chú ý tới các chi tiết là điều cốt lõi dẫn tới sự thành công và an toàn của họ trong thế giới Bitcoin.
 
+# Bảo vệ người thừa kế và tài sản của bạn
+
+<partId>0b8a9528-719b-4a2d-bd50-1e173a896570</partId>
 
 ## Tạo kế hoạch thừa kế
 

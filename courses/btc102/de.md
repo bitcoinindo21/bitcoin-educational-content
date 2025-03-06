@@ -789,7 +789,7 @@ https://planb.network/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b
 
 Nicht-KYC-Kauf zwischen Privatpersonen:
 
-https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
+https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
@@ -812,6 +812,10 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
   Obwohl Anonymität und Sicherheit geschätzt werden, bleibt der Paranoiker pragmatisch in seinen Entscheidungen und nutzt bewährte und zuverlässige Lösungen, um seine Bitcoins zu sichern und gleichzeitig im Kryptowährungsökosystem zu navigieren.
 
 Im Geiste des Paranoikers sind Vorsicht, Sicherheit und Anonymität von größter Bedeutung. Diese Prioritäten bestimmen einen bewussten und wohlüberlegten Ansatz für die Verwendung von Bitcoin, der Selbstständigkeit und Vorsicht fördert. Der Paranoiker ist bereit, Zeit und Mühe zu investieren, um die Sicherheit und Vertraulichkeit seiner Bitcoins zu gewährleisten und geschickt im Ökosystem zu navigieren, um unnötige Exposition zu vermeiden. Obwohl er für manche übermäßig vorsichtig erscheinen mag, betrachtet der Paranoiker seine Sorgfalt und Aufmerksamkeit für Details als wesentlich für eine erfolgreiche und sichere Teilnahme an der Welt von Bitcoin.
+
+# Schutz der Erben und des Vermögens
+
+<partId>0b8a9528-719b-4a2d-bd50-1e173a896570</partId>
 
 ## Erstellung eines Nachlassplans
 

@@ -777,7 +777,7 @@ https://planb.network/tutorials/wallet/hardware/coldcard-5d44dd94-423d-4e37-9a8c
 https://planb.network/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b0ca-4a4702072973
 
 KYC-vapaa ostaminen yksityishenkilöiden välillä:
-https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
+https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
@@ -801,6 +801,9 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 Paranoian henkilön mielessä varovaisuus, turvallisuus ja nimettömyys ovat ensisijaisia. Nämä prioriteetit ohjaavat harkittua ja hyvin suunniteltua lähestymistapaa Bitcoinin käyttöön, edistäen omavaraisuutta ja varovaisuutta. Paranoiainen henkilö on valmis investoimaan aikaa ja vaivaa bitcoinsiensa turvallisuuden ja yksityisyyden varmistamiseen samalla taitavasti navigoiden ekosysteemissä välttääkseen tarpeetonta altistumista. Vaikka jotkut saattavat pitää sitä liiallisena varovaisuutena, paranoiainen henkilö pitää huolellisuuttaan ja yksityiskohtien huomioimista olennaisena menestyksekkääseen ja turvalliseen osallistumiseen Bitcoinin maailmassa.
 
+# Perillisten ja omaisuuden suojaaminen
+
+<partId>0b8a9528-719b-4a2d-bd50-1e173a896570</partId>
 
 ## Perintösuunnitelman luominen
 

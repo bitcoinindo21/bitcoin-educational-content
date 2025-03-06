@@ -776,7 +776,7 @@ https://planb.network/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b
 
 非KYC个人间购买：
 
-https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
+https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
@@ -800,6 +800,9 @@ https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f
 
 在偏执个体的心态中，谨慎、安全和匿名性占有至高无上的地位。这些事项优先要求我们在使用比特币时要保持慎重和周到，促进自给自足和谨慎。偏执个体愿意投入时间和努力来确保他们的比特币的安全和隐私，同时巧妙地导航生态系统以避免不必要的暴露。虽然一些人认为这太过于谨慎，但偏执用户们认为勤奋和十分关注细节的特点是关键的，让他们可以成功地且安全地加入比特币世界中。
 
+# 保护继承人和资产
+
+<partId>0b8a9528-719b-4a2d-bd50-1e173a896570</partId>
 
 ## 制定遗产计划
 
