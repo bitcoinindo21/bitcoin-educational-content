@@ -470,7 +470,7 @@ Untuk jangka waktu yang sangat panjang, beberapa perusahaan menggunakan aset tid
 - Ketidaklikuiditasan jika terjadi krisis
 - Pada akhirnya, imbal hasil yang dihasilkan agak rendah setelah dipotong biaya
 - Imbal hasil yang tidak melebihi inflasi riil, yaitu jumlah uang beredar (~ 7% per tahun, lihat di bawah)
-- Risiko tersembunyi bahwa real estat kehilangan sebagian dari fungsi "tabungan" untuk kepentingan aset seperti Bitcoin. Akibatnya, properti dapat kembali mendekati "nilai gunanya": menyediakan tempat tinggal.
+- Risiko tersembunyi bahwa real estat kehilangan sebagian dari fungsi "tabungan" untuk kepentingan aset seperti Bitcoin. Akibatnya, properti dapat kembali mendekati "nilai gunanya": menyediakan tempat tinggal. 
 
 Mari kita tinjau secara singkat lingkungan tempat bisnis beroperasi.
 
