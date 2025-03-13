@@ -122,7 +122,7 @@ Sistem pembayaran adalah metode dan infrastruktur yang memungkinkan transfer dan
 
 2. **Cek:** Dokumen kertas yang menginstruksikan bank untuk membayar jumlah tertentu dari rekening pembayar kepada penerima pembayaran.
 
-3. **Transfer Kawat:** Transfer dana elektronik antar bank, sering kali digunakan untuk jumlah yang lebih besar dan pembayaran lintas batas.
+3. **Transfer wire:** Transfer dana elektronik antar bank, sering kali digunakan untuk jumlah yang lebih besar dan pembayaran lintas batas.
 
 4. **Kartu Pembayaran (Kredit/Debit):** Kartu plastik atau digital yang terhubung ke jaringan kartu, yang memungkinkan dana ditransfer dari rekening bank pemegang kartu (atau jalur kredit) ke merchant.
 
@@ -134,9 +134,9 @@ Sistem pembayaran adalah metode dan infrastruktur yang memungkinkan transfer dan
 - B2C (Bisnis-ke-Konsumen):**
     - Konsumen sering menggunakan uang tunai, kartu, dan dompet digital untuk pembelian sehari-hari-seperti bahan makanan, belanja online, atau layanan seperti transportasi online.
     - Kecepatan, kenyamanan, dan biaya yang rendah (bagi konsumen) sering kali menjadi prioritas utama.
-    - Pembayaran nirsentuh dan pembayaran seluler semakin populer di bidang ini karena kemudahan penggunaannya.
+    - Pembayaran contactless dan pembayaran seluler semakin populer di bidang ini karena kemudahan penggunaannya.
 - B2B (Bisnis-ke-Bisnis):**
-    - Bisnis biasanya mengandalkan transfer kawat, cek, dan sistem faktur untuk membayar pemasok, menyelesaikan tagihan dalam jumlah besar, atau menangani pembayaran berulang.
+    - Bisnis biasanya mengandalkan transfer wire, cek, dan sistem faktur untuk membayar pemasok, menyelesaikan tagihan dalam jumlah besar, atau menangani pembayaran berulang.
     - Fokusnya sering kali pada keterlacakan, dokumentasi, dan kemampuan untuk menangani nilai transaksi yang lebih besar.
     - Penggunaan kartu memang ada, namun cenderung kurang umum karena biaya dan batas transaksi yang lebih tinggi. Solusi digital seperti platform pembayaran terintegrasi mulai bermunculan untuk merampingkan dan mengotomatiskan proses piutang/hutang.
 
@@ -146,7 +146,7 @@ Sistem pembayaran adalah metode dan infrastruktur yang memungkinkan transfer dan
 
 ### Kerumitan di Balik Pembayaran Kartu yang Sederhana
 
-Saat pelanggan menggunakan kartu kredit di toko, kartu tersebut dibaca oleh terminal POS, yang dengan aman mengirimkan data transaksi ke bank pengakuisisi pedagang. Pihak pengakuisisi meneruskan informasi ini ke jaringan kartu yang relevan (misalnya, Visa atau Mastercard), yang kemudian meneruskan permintaan tersebut ke penerbit-bank yang menyediakan kartu pelanggan. Penerbit memeriksa rekening atau batas kredit pelanggan dan mengirimkan kembali otorisasi melalui jaringan dan acquirer, yang memungkinkan pedagang untuk menerima pembayaran.
+Saat pelanggan menggunakan kartu kredit di toko, kartu tersebut dibaca oleh terminal POS, yang dengan aman mengirimkan data transaksi ke banknya pedagang. Pihak pengakuisisi meneruskan informasi ini ke jaringan kartu yang relevan (misalnya, Visa atau Mastercard), yang kemudian meneruskan permintaan tersebut ke penerbit-bank yang menyediakan kartu pelanggan. Penerbit memeriksa rekening atau batas kredit pelanggan dan mengirimkan kembali otorisasi melalui jaringan dan acquirer, yang memungkinkan pedagang untuk menerima pembayaran.
 
 ![BIZ101](assets/en/02.webp)
 
@@ -211,7 +211,7 @@ Bitcoin adalah sistem pertukaran mata uang digital peer-to-peer (uang elektronik
 - Jaringan fisik** mesin yang terhubung ke internet (node, penambang, dll.) yang dioperasikan oleh individu dan bisnis, membentuk sistem yang terdesentralisasi (tanpa otoritas pusat atau titik kontrol tunggal).
 - Unit akun** di dalam sistem. Tidak akan pernah ada lebih dari 21 juta bitcoin yang ada. Setiap bitcoin dapat dibagi menjadi 100 juta unit yang disebut "satoshi", yang dinamai untuk menghormati penciptanya yang anonim.
 
-Bersama-sama, mereka menjadikan Bitcoin sebagai aset pembawa dan mata uang digital **tanpa penerbit**. Kepemilikan dijamin hanya dengan memegang **kunci kriptografi pribadi**, memberikan kontrol penuh **tanpa perantara atau pihak ketiga yang terpercaya**. Ketika ditransfer, kepemilikan **kepastian** langsung: pemegang baru sepenuhnya memilikinya tanpa bergantung pada otoritas pusat untuk perlindungan atau konvertibilitas. Transaksi tidak dapat diubah - setelah dicatat di blockchain, transaksi tidak dapat diubah atau dihapus.
+Bersama-sama, mereka menjadikan Bitcoin sebagai **bearer asset** dan mata uang digital **tanpa penerbit**. Kepemilikan dijamin hanya dengan memegang **kunci kriptografi pribadi**, memberikan kontrol penuh **tanpa perantara atau pihak ketiga yang terpercaya**. Ketika ditransfer, kepemilikan **kepastian** langsung: pemegang baru sepenuhnya memilikinya tanpa bergantung pada otoritas pusat untuk perlindungan atau konvertibilitas. Transaksi tidak dapat diubah - setelah dicatat di blockchain, transaksi tidak dapat diubah atau dihapus.
 
 ![BIZ101](assets/en/11.webp)
 
