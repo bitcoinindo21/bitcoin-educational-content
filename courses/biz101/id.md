@@ -258,7 +258,7 @@ https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
 
-**APA ITU PETIR?
+**APA ITU LIGHTNING?
 
 Lightning Network adalah **protokol dan jaringan** yang memfasilitasi transaksi Bitcoin dengan interaksi minimal dengan blockchain utama Bitcoin. Begini cara kerjanya:
 
