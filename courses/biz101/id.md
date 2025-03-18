@@ -486,7 +486,7 @@ Kurangnya kepercayaan ini memicu kebangkitan kembali aset-aset "pembawa" seperti
 
 Bitcoin menawarkan alternatif yang radikal. Bitcoin merupakan **bearer aset**, tanpa penerbit pusat, hampir tidak mungkin disita, dan mendapatkan keuntungan dari efek jaringan. Pengguna Bitcoin yang "sejati" memilih untuk menggunakannya untuk menyimpan hasil kerj mereka, karena Bitcoin dipandang sebagai penyimpan nilai yang tahan terhadap sensor dan inflasi. Berkat efek jaringan, yang diilustrasikan oleh Hukum Metcalfe, setiap pengguna baru yang yakin akan meningkatkan nilai jaringan; seiring dengan bertambahnya jumlah partisipan, nilai guna Bitcoin meningkat secara eksponensial. Model ini menjadikannya bentuk modal yang khas dan menjanjikan, yang dibangun di atas adopsi dan kepercayaan pengguna.
 
-Bitcoin adalah aset paling likuid di dunia, beroperasi 24/7 tanpa gangguan, tidak seperti pasar keuangan tradisional yang memiliki jam tutup dan "pemutus arus" Likuiditas ini memungkinkan pengguna untuk membeli atau menjual bitcoin kapan saja, baik dalam menanggapi berita baik atau buruk (misalnya, peluncuran rudal, perang, dll.).
+Bitcoin adalah aset paling likuid di dunia, beroperasi 24/7 tanpa gangguan, tidak seperti pasar keuangan tradisional yang memiliki jam tutup dan "pemadaman listrik" Likuiditas ini memungkinkan pengguna untuk membeli atau menjual bitcoin kapan saja, baik dalam menanggapi berita baik atau buruk (misalnya, peluncuran rudal, perang, dll.).
 
 Selama lebih dari satu dekade, Bitcoin telah menunjukkan pertumbuhan tahunan rata-rata lebih dari 60%. Performa unik ini memungkinkan pemegang jangka panjang untuk mempertahankan modal awal mereka, tidak seperti instrumen lainnya.
 
@@ -494,7 +494,7 @@ Namun demikian, ada beberapa faktor kunci yang perlu diingat:
 
 Pertama, **kinerja masa lalu tidak menjamin hasil di masa depan**. Selama Bitcoin tetap **aman dan terdesentralisasi**, kita dapat mengharapkan apresiasi harga tahunan di atas 20% per tahun selama dekade berikutnya, menjadikannya alat perbendaharaan yang layak.
 
-Kedua, Bitcoin sejauh ini telah mengalami **siklus 4 tahunan**, yang berarti bahwa dengan jangka waktu lebih dari 4 tahun, taruhan selalu menguntungkan. Bagi mereka yang melihat Bitcoin sebagai investasi, jangka waktu jangka pendek (<4 tahun) bisa jadi berisiko.
+Kedua, Bitcoin sejauh ini telah mengalami **siklus 4 tahunan**, yang berarti bahwa dengan jangka waktu lebih dari 4 tahun, taruhan selalu menguntungkan. Bagi mereka yang melihat Bitcoin sebagai investasi, investasi jangka pendek (<4 tahun) bisa jadi berisiko.
 
 ![BIZ101](assets/en/07.webp)
 
@@ -508,7 +508,7 @@ Terakhir, Bitcoin dianggap **volatile**. Tepatnya, harganya yang dinyatakan dala
 
 Adopsi Bitcoin oleh institusi keuangan semakin memperkuat posisinya di pasar global.
 
-Pernyataan terbaru dari **BlackRock** menyoroti potensi Bitcoin sebagai aset penyimpan nilai dan alat diversifikasi portofolio. Raksasa institusional global ini baru-baru ini menyatakan bahwa pertumbuhan pengguna Bitcoin melebihi pertumbuhan internet atau ponsel, terutama didorong oleh pergeseran demografi dan generasi, serta meningkatnya ketidakpercayaan terhadap lembaga keuangan tradisional (!). Karena sifatnya yang langka, tidak berdaulat, dan terdesentralisasi, beberapa investor melihat Bitcoin sebagai opsi safe haven **di saat ketidakstabilan fiskal dan moneter**, ketakutan, atau peristiwa geopolitik yang mengganggu.
+Pernyataan terbaru dari **BlackRock** menyoroti potensi Bitcoin sebagai aset penyimpan nilai dan alat diversifikasi portofolio. Raksasa institusional global ini baru-baru ini menyatakan bahwa pertumbuhan pengguna Bitcoin melebihi pertumbuhan internet atau ponsel, terutama didorong oleh pergeseran demografi dan generasi, serta meningkatnya ketidakpercayaan terhadap lembaga keuangan tradisional (!). Karena sifatnya yang langka, tanpa negara, dan terdesentralisasi, beberapa investor melihat Bitcoin sebagai opsi safe haven **di saat ketidakstabilan fiskal dan moneter**, ketakutan, atau peristiwa geopolitik yang mengganggu.
 
 ETF Spot Bitcoin yang diluncurkan pada Januari 2024, telah menikmati kesuksesan yang fenomenal - peluncuran ETF tersukses dalam sejarah - dengan arus masuk bersih hampir $ 20 miliar. dari Januari hingga November. Angka tersebut sekitar empat kali lebih baik daripada peluncuran ETF terbaik berikutnya, Nasdaq-100 QQQ. ETF ini memberikan akses yang lebih mudah dan lebih teregulasi ke Bitcoin, yang semakin melegitimasi dan menarik masuknya modal institusional yang signifikan.
 
