@@ -568,7 +568,7 @@ Kasus penggunaan lain menjadikan Bitcoin sebagai aset treasury strategis, misaln
 
 ### Apakah Bitcoin terlalu mahal?
 
-Anda tidak perlu membeli tepat 1 Bitcoin, karena Bitcoin dapat dibagi menjadi beberapa subunit yang disebut satoshi, yang dinamai untuk menghormati penciptanya yang anonim. Satu Bitcoin setara dengan **100 juta satoshi**, yang memungkinkan pengguna untuk membeli, menjual, atau memperdagangkan bahkan dalam pecahan yang sangat kecil sekalipun. Faktanya, dalam kode sumber Bitcoin, semua transaksi dicatat dalam satoshi, dan istilah "bitcoin" hanya muncul di "coinbase", tempat transaksi khusus yang dibuat oleh para penambang untuk menerima imbalannya.
+Anda tidak perlu membeli tepat 1 Bitcoin, karena Bitcoin dapat dibagi menjadi beberapa sub-unit yang disebut satoshi, yang dinamai untuk menghormati penciptanya yang anonim. Satu Bitcoin setara dengan **100 juta satoshi**, yang memungkinkan pengguna untuk membeli, menjual, atau memperdagangkan bahkan dalam pecahan yang sangat kecil sekalipun. Faktanya, dalam sumber kode Bitcoin, semua transaksi dicatat dalam satoshi, dan istilah "bitcoin" hanya muncul di "coinbase", tempat transaksi khusus yang dibuat oleh para penambang untuk menerima imbalannya.
 
 Selain itu, total 21 juta bitcoin - atau **2,1 kuadriliun satoshi** - dapat diwakili secara efisien oleh bilangan bulat 64-bit. Ini berarti bahwa meskipun harga per satu bitcoin tinggi, bitcoin tetap dapat diakses oleh berbagai investor berkat kemampuannya untuk dibagi. Oleh karena itu, Anda tidak perlu membeli seluruh bitcoin untuk berpartisipasi dalam jaringan atau berinvestasi dalam aset digital ini.
 
@@ -594,7 +594,7 @@ Saat ini, skenario pemilik mayoritas yang mengambil keputusan adalah yang paling
 
 Untuk bisnis yang tidak terstruktur sebagai badan hukum yang terpisah - seperti kepemilikan perseorangan atau entitas tidak berbadan hukum lainnya - perpajakan transaksi Bitcoin sering kali mencerminkan perlakuan yang diterapkan pada individu. Dalam banyak kasus, aturan yang sama yang mengatur keuntungan modal atau pendapatan berlaku, seperti halnya jika seseorang menjual Bitcoin. Misalnya, di beberapa negara, keuntungan dapat dianggap sebagai bagian dari penghasilan pribadi pengusaha, yang dikenakan **pajak penghasilan pribadi**.
 
-Namun, **bisnis berbadan hukum** - mereka yang dikenakan pajak penghasilan badan - sering kali mendapatkan keuntungan dari kerangka kerja pajak yang lebih menguntungkan. Tidak seperti individu, yang mungkin menghadapi pembatasan dalam mengimbangi keuntungan dan kerugian di berbagai kelas aset, perusahaan umumnya dapat mengintegrasikan keuntungan atau kerugian yang direalisasikan dari transaksi Bitcoin secara langsung ke dalam akun laba rugi tahunan mereka. Hal ini dapat menghasilkan posisi pajak yang lebih fleksibel dan terkadang lebih menguntungkan.
+Namun, **bisnis berbadan hukum** - mereka yang dikenakan pajak penghasilan perusahaan - sering kali mendapatkan keuntungan dari kerangka kerja pajak yang lebih menguntungkan. Tidak seperti individu, yang mungkin menghadapi pembatasan dalam mengimbangi keuntungan dan kerugian di berbagai kelas aset, perusahaan umumnya dapat mengintegrasikan keuntungan atau kerugian yang direalisasikan dari transaksi Bitcoin secara langsung ke dalam akun laba rugi tahunan mereka. Hal ini dapat menghasilkan posisi pajak yang lebih fleksibel dan terkadang lebih menguntungkan.
 
 Tarif dan perlakuan pajak spesifik sangat bervariasi menurut yurisdiksi. Misalnya, di Prancis dan banyak negara barat, perusahaan mungkin menghadapi tarif pajak perusahaan sekitar 25%, yang bisa lebih rendah daripada pajak tarif tetap yang dibayarkan individu atas keuntungan investasi.
 
@@ -665,12 +665,12 @@ Industri real estate sering mengulang-ulang bahwa "ini adalah waktu yang tepat u
 
 Anda tidak memiliki Bitcoin secara fisik. Sebaliknya, Anda memegang sebuah kunci kriptografi yang memungkinkan Anda untuk memindahkan kepemilikan sebagian atau seluruh unit akun Anda ke satu atau beberapa kunci kriptografi lainnya. Semua ini terjadi di blockchain Bitcoin, yang direplikasi di puluhan ribu node di seluruh dunia.
 
-Kunci kriptografi ini adalah angka acak yang sangat besar. Untuk menyederhanakan pengalaman pengguna, kunci ini sering kali direpresentasikan sebagai urutan 12 atau 24 kata. Kata-kata ini dapat dimasukkan ke dalam perangkat fisik yang dikenal sebagai "dompet perangkat keras" Akan tetapi, pahamilah bahwa bitcoin tidak berada di "dalam" perangkat ini; ini hanyalah sebuah alat untuk menandatangani transaksi secara kriptografis dan menyiarkannya ke jaringan. Yang benar-benar penting adalah 12 atau 24 kata, yang harus dijaga keamanannya.
+Kunci kriptografi ini adalah angka acak yang sangat besar. Untuk menyederhanakan pengalaman pengguna, kunci ini sering kali direpresentasikan sebagai 12 atau 24 kata. Kata-kata ini dapat dimasukkan ke dalam perangkat fisik yang dikenal sebagai "dompet perangkat keras" Akan tetapi, pahamilah bahwa bitcoin tidak berada di "dalam" perangkat ini; ini hanyalah sebuah alat untuk menandatangani transaksi secara kriptografis dan menyiarkannya ke jaringan. Yang benar-benar penting adalah 12 atau 24 kata, yang harus dijaga keamanannya.
 
 Hal ini mengarah pada masalah hak asuh: memegang Bitcoin berarti memegang kuncinya. Entah Anda memegangnya sendiri, atau Anda mendelegasikan tugas tersebut kepada pihak ketiga. Ada juga solusi perantara. Mari kita tinjau skenario yang paling umum:
 
 
-- Penitipan Mandiri:**
+- **Self Custody:**
 
 Ini adalah opsi yang direkomendasikan oleh para penggemar Bitcoin sejati, karena sesuai dengan desain asli Bitcoin. Anda bertindak sebagai bank Anda sendiri: tidak ada risiko pihak ketiga menipu Anda, tetapi Anda bertanggung jawab untuk mengamankan kuncinya. Anda memiliki akses penuh ke dana Anda 24/7. Dalam lingkungan bisnis, jika banyak orang perlu bertransaksi, Anda memerlukan alat dan prosedur yang tepat untuk mengelola akses dan keamanan.
 
@@ -686,7 +686,7 @@ Ini adalah instrumen keuangan tradisional yang mewakili pecahan Bitcoin, yang me
 
 ![BIZ101](assets/en/15.webp)
 
-Selain itu, bentuk penyimpanan Bitcoin yang Anda gunakan juga berdampak pada langkah-langkah keamanan yang diperlukan untuk melindungi harta perusahaan Anda. Baik Anda memilih penyimpanan sendiri, menggunakan dompet perangkat keras dengan tanda tangan tunggal atau multi-tanda tangan, dll. untuk mempertahankan kontrol langsung atas kunci Anda, atau mendelegasikan tugas ini ke layanan penyimpanan pihak ketiga atau ETF, setiap opsi memiliki profil risikonya masing-masing. Contohnya, penyimpanan sendiri menawarkan akses penuh namun menuntut protokol keamanan internal yang ketat, sedangkan solusi pihak ketiga mengurangi beban manajemen dengan mengorbankan risiko mitra pengimbang. Untuk menggambarkan lebih jauh perbedaannya, grafik ini menguraikan model keamanan untuk setiap jenis kustodi, membantu Anda memilih pendekatan yang paling sesuai dengan kebutuhan organisasi Anda:
+Selain itu, bentuk penyimpanan Bitcoin yang Anda gunakan juga berdampak pada langkah-langkah keamanan yang diperlukan untuk melindungi harta perusahaan Anda. Baik Anda memilih penyimpanan sendiri, menggunakan dompet perangkat keras dengan tanda tangan tunggal atau multi-tanda tangan, dll. untuk mempertahankan kontrol langsung atas kunci Anda, atau mendelegasikan tugas ini ke layanan penyimpanan pihak ketiga atau ETF, setiap opsi memiliki profil risikonya masing-masing. Contohnya, penyimpanan sendiri menawarkan akses penuh namun menuntut protokol keamanan internal yang ketat, sedangkan solusi pihak ketiga mengurangi beban manajemen dengan mengorbankan risiko mitra. Untuk menggambarkan lebih jauh perbedaannya, grafik ini menguraikan model keamanan untuk setiap jenis kustodi, membantu Anda memilih pendekatan yang paling sesuai dengan kebutuhan organisasi Anda:
 
 ![BIZ101](assets/en/14.webp)
 
@@ -732,9 +732,9 @@ Selain biaya dan kecepatan eksekusi-yang tidak terlalu penting jika Anda berpiki
 
 Pertama, penting untuk memahami bahwa Bitcoin adalah sebuah disrupsi dalam skala yang sama dengan internet.
 
-Pada masa-masa awal, jaringan internet memungkinkan untuk menghilangkan perantara dari saluran komunikasi, dan kemudian infrastruktur ini menghasilkan banyak sekali aplikasi yang sebelumnya tak terbayangkan. Saat ini, bisnis apa yang tidak memiliki kehadiran online?
+Pada masa-masa awal, jaringan internet memungkinkan untuk menghilangkan perantara dari saluran komunikasi, dan kemudian infrastruktur ini menghasilkan banyak sekali aplikasi yang sebelumnya tak terbayangkan. Saat ini, bisnis apa yang tidak memiliki existensi online?
 
-Bitcoin adalah sebuah infrastruktur kepercayaan, yang aplikasi pertamanya adalah untuk menghilangkan perantara dari penyimpanan dan pertukaran nilai uang. Aplikasi-aplikasi lain yang saat ini tidak terbayangkan akan muncul pada infrastruktur ini. Kehadiran awal Anda di sini setara dengan memiliki situs web: sebuah pintu gerbang untuk pembayaran peer-to-peer dan pertukaran nilai.
+Bitcoin adalah sebuah infrastruktur kepercayaan, yang fungsi pertamanya adalah untuk menghilangkan perantara dari penyimpanan dan pertukaran nilai uang. Aplikasi-aplikasi lain yang saat ini tidak terbayangkan akan muncul pada infrastruktur ini. Kehadiran awal Anda di sini setara dengan memiliki situs web: sebuah pintu gerbang untuk pembayaran peer-to-peer dan pertukaran nilai.
 
 ![BIZ101](assets/en/17.webp)
 
@@ -758,7 +758,7 @@ Dengan mendaftarkan bisnis Anda di platform seperti BTCmap.org, misalnya. Hanya 
 
 - Biaya Lebih Rendah:**
 
-Pembayaran Bitcoin instan terjadi melalui Jaringan Lightning. **Biaya minimal dan dibayar oleh pembeli**. Tidak ada biaya terminal pembayaran, tidak ada kegagalan otorisasi pembayaran, dan tidak ada penipuan. Sebagai perbandingan, industri pembayaran (kartu, terminal, transfer, PSP, dll.) menghabiskan biaya sekitar $ 2,2 triliun per tahun secara global. Ditambah dengan tolak bayar dan penipuan, dan secara total, hampir sepersepuluh dari nilai PDB Amerika Serikat "disunat" dari bisnis-bisnis produktif di seluruh dunia hanya untuk mentransfer nilai. Apa pun bisnis Anda, biaya keuangan adalah beban yang harus dioptimalkan, dan dalam beberapa kasus, biaya yang tinggi dapat menghambat model bisnis tertentu.
+Pembayaran Bitcoin instan terjadi melalui Jaringan Lightning. **Biaya minimal dan dibayar oleh pembeli**. Tidak ada biaya terminal pembayaran, tidak ada kegagalan otorisasi pembayaran, dan tidak ada penipuan. Sebagai perbandingan, industri pembayaran (kartu, terminal, transfer, PSP, dll.) menghabiskan biaya sekitar $ 2,2 triliun per tahun secara global. Ditambah dengan chargeback dan penipuan, dan secara total, hampir sepersepuluh dari nilai PDB Amerika Serikat "disunat" dari bisnis-bisnis produktif di seluruh dunia hanya untuk mentransfer nilai. Apa pun bisnis Anda, biaya keuangan adalah beban yang harus dioptimalkan, dan dalam beberapa kasus, biaya yang tinggi dapat menghambat model bisnis tertentu.
 
 
 - Kebebasan dan Tanpa Izin, 24/7:**
@@ -814,7 +814,7 @@ atribut | Atribut | Pemula |
 
 | **API** | Tidak |
 
-#### Profil 2 - Yang Penting
+#### Profil 2 - Esensial
 
 atribut | Atribut | Hal yang Penting |
 
@@ -888,7 +888,7 @@ atribut | Atribut | Hal yang Penting |
 
 | Frekuensi Transaksi** | Frekuensi transaksi tak terbatas dan berfrekuensi tinggi
 
-| **Contoh Jenis Bisnis** | Perusahaan menengah, perusahaan layanan TI, perusahaan besar, pasar utama |
+| **Contoh Jenis Bisnis** | Perusahaan menengah, perusahaan layanan IT, perusahaan besar, pasar utama |
 
 | Jenis Pembayaran** | Ukuran atau volume apa pun |
 
@@ -955,7 +955,7 @@ https://planb.network/tutorials/wallet/mobile/blink-7ea5f5a4-e728-4ff9-b3f9-cf20
 
 <chapterId>89be421f-f7df-4bcc-a9e4-df96e39ef249</chapterId>
 
-Profil Essential cocok untuk usaha kecil dan menengah, yang mungkin memiliki karyawan, yang ingin menerima Bitcoin dengan mudah dan cepat tanpa memerlukan pengetahuan teknis tingkat lanjut, namun tetap memiliki sistem yang lebih lengkap dan profesional dibandingkan dengan dompet sederhana. Kategori ini paling sering digunakan oleh restoran, kafe, bar, atau toko ritel kecil yang hanya menerima sedikit pembayaran Bitcoin setiap bulannya, namun menginginkan sebuah antarmuka yang mudah dan cukup kuat untuk menangani operasi sehari-hari tanpa gangguan.
+Profil Esensial cocok untuk usaha kecil dan menengah, yang mungkin memiliki karyawan, yang ingin menerima Bitcoin dengan mudah dan cepat tanpa memerlukan pengetahuan teknis tingkat lanjut, namun tetap memiliki sistem yang lebih lengkap dan profesional dibandingkan dengan dompet sederhana. Kategori ini paling sering digunakan oleh restoran, kafe, bar, atau toko ritel kecil yang hanya menerima sedikit pembayaran Bitcoin setiap bulannya, namun menginginkan sebuah antarmuka yang mudah dan cukup kuat untuk menangani operasi sehari-hari tanpa gangguan.
 
 Tidak seperti profil Starter, bisnis Essential biasanya menganggap pembayaran Bitcoin sebagai bagian yang berkelanjutan dari aliran pendapatan mereka, bukan hanya sebagai percobaan. Mereka masih beroperasi dengan volume transaksi yang relatif rendah, tetapi frekuensinya cukup sehingga pemilik dan karyawan mendapatkan keuntungan dari sistem yang lebih terstruktur dan andal. Pada saat yang sama, profil Essential tetap berfokus pada kesederhanaan; meskipun memungkinkan dasbor yang praktis dan manajemen peran yang terbatas, profil ini tidak memerlukan sumber daya TI khusus atau integrasi yang rumit.
 
