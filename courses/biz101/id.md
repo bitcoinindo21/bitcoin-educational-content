@@ -179,7 +179,7 @@ Industri pembayaran tradisional mewakili ekonomi tahunan sekitar 2.200 miliar do
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 
 | Biaya Kartu Tinggi | Biaya pertukaran (~0,3%), biaya jaringan (tetap atau 0,3%-1%), langganan terminal/PSP, dan margin bank (0,5%-1,7%) menambah biaya yang cukup besar-seperti "pajak" global terhadap sektor produktif, yang jumlahnya mencapai triliunan dolar.     | Meningkatkan biaya pedagang, mengurangi margin, dan berpotensi menaikkan harga konsumen.                  |
-
+ 
 | Penyelesaian Akhir Sangat Lambat | Penyelesaian dana dapat memakan waktu hingga 5 hari, memperlambat aliran uang dan aktivitas ekonomi secara keseluruhan.                                                                                                                                | Menunda likuiditas untuk pedagang dan mengurangi kecepatan sirkulasi ekonomi.                        |
 
 | Penipuan | Saluran e-commerce sangat ditargetkan oleh penipuan, yang berkontribusi pada kerugian yang signifikan (misalnya, $28 miliar). Tagihan balik dapat mencapai ~$174 miliar secara global pada tahun 2024. Mengelola perselisihan ini menghabiskan waktu dan menyebabkan ketegangan mental. | Meningkatnya biaya operasional, langkah-langkah pencegahan penipuan yang rumit, dan berkurangnya kepercayaan pelanggan.       |
