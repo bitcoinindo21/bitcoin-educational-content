@@ -241,6 +241,7 @@ Bitcoin menantang kita untuk mempertimbangkan kembali sifat uang itu sendiri. Da
 Untuk informasi lebih lanjut tentang Bitcoin, sejarahnya, cara kerjanya, dan penggunaannya, saya juga menyarankan untuk mengikuti kursus komprehensif lainnya:
 
 https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
+
 ## Pengantar ke Jaringan Lightning
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
@@ -322,6 +323,7 @@ Lightning Network sangat ideal untuk pembayaran Bitcoin di toko fisik atau onlin
 Untuk informasi lebih lanjut mengenai cara kerja teknis Lightning Network, saya juga menyarankan untuk mengikuti kursus komprehensif lainnya:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
+
 # Bitcoin dalam perbendaharaan
 
 <partId>bf45c1e8-af97-4b6b-af42-2866f493b14d</partId>
@@ -441,8 +443,11 @@ Para pemikir ini membentuk gagasan bahwa intervensi negara mendistorsi pasar dan
 Untuk informasi lebih lanjut tentang topik ini:
 
 https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+
 https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
+
 ## Menyimpan bitcoin dalam bentuk treasury
 
 <chapterId>89622a40-d14f-4c37-a075-8e7e1731ec26</chapterId>
@@ -519,6 +524,7 @@ Bitcoin sekarang bermain di pasar "penyimpan nilai". Bitcoin hanya mewakili sete
 | YBIT   | -1.34             | -10.26            | +5.06             | +13.81            | +76.30             |
 | DEFI   | .00               | .00               | .00               | -2.03             | -1.79              |
 | GBTC   | .00               | +5.16             | -81.42            | -1503.84          | -20,141.85         |
+
 
 *$20 miliar dalam 10 bulan: ETF Bitcoin mencapai dalam waktu kurang dari satu tahun apa yang dicapai oleh ETF emas selama 5 tahun. Sumber: Arus investasi dana dalam USD. Terminal Bloomberg, Bloomberg L.P., 2024.*
 
@@ -601,8 +607,10 @@ Sejauh ini, ini adalah metode yang paling umum, dilakukan melalui bursa peer-to-
 
 Untuk mempelajari cara membuka akun bisnis dan menggunakannya untuk membeli, menjual, dan mentransfer bitcoin, Anda dapat melihat dua tutorial yang dirancang khusus untuk bisnis, yang mencakup platform Kraken dan Bitfinex dalam versi korporatnya:
 
-https://planb.network/tutorials/exchange/centralized/bitfinex-pro-c8ef7476-5f60-4205-935e-a545ced0022a
-https://planb.network/tutorials/exchange/centralized/kraken-pro-07b1c16c-d517-4bf7-9a78-b42dc0f21785
+https://planb.network/tutorials/business/others/bitfinex-pro-c8ef7476-5f60-4205-935e-a545ced0022a
+
+https://planb.network/tutorials/business/others/kraken-pro-07b1c16c-d517-4bf7-9a78-b42dc0f21785
+
 Untuk mempelajari lebih lanjut mengenai metode-metode untuk mendapatkan bitcoin melalui bursa atau peer-to-peer, Anda bisa [lihat bagian "bursa" dalam tutorial kami](https://planb.network/tutorials/exchange).
 
 ![BIZ101](assets/en/16.webp)
@@ -774,6 +782,7 @@ Untuk menyederhanakan proses pengambilan keputusan, kami telah menetapkan empat 
 
 #### Profil 2 - Esensial
 
+
 | Atribut                          | Dasar                                                                                                                                       |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Keadaan Pikiran**              | "Saya menerima Bitcoin di bisnis saya tetapi tidak mengharapkan volume yang signifikan"                                                     |
@@ -792,6 +801,7 @@ Untuk menyederhanakan proses pengambilan keputusan, kami telah menetapkan empat 
 
 
 #### Profil 3 - Profesional
+
 
 | Atribut                          | Profesional                                                                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -828,6 +838,7 @@ Untuk menyederhanakan proses pengambilan keputusan, kami telah menetapkan empat 
 | **Ekspor Akuntansi**             | Ekspor akuntansi yang sepenuhnya disesuaikan                                                                                                     |
 | **API**                          | Ya                                                                                                                                              |
 
+
 Pada bab-bab berikutnya, kami akan merinci setiap profil bisnis dan solusi yang disesuaikan dengan masing-masing profil bisnis tersebut.
 
 ## Pemula
@@ -861,14 +872,21 @@ Untuk tutorial terperinci mengenai wallet yang direkomendasikan dan pengaturan d
 **Dompet/simpul LN kustodian mandiri:**
 
 https://planb.network/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4ae800129cdf
+
 https://planb.network/tutorials/wallet/mobile/Bitkit-Wallet-a7224674-85c4-4045-9baf-37018d89550c
+
 https://planb.network/tutorials/wallet/mobile/breez-46a6867b-c74b-45e7-869c-10a4e0263c06
+
 https://planb.network/tutorials/wallet/mobile/blixt-04b319cf-8cbe-4027-b26f-840571f2244f
+
 https://planb.network/tutorials/wallet/mobile/zeus-3e89603c-501d-439c-8691-d4a0d0de459b
+
 **Dompet LN Kustodian:**
 
-https://planb.network/tutorials/wallet/mobile/wallet-of-satoshi-c4792842-b046-44f9-a6f1-351191b7cc2b
+https://planb.network/tutorials/wallet/mobile/wallet-of-satoshi-39149d86-e42b-4e8f-ae9f-7e061e7784f7
+
 https://planb.network/tutorials/wallet/mobile/blink-7ea5f5a4-e728-4ff9-b3f9-cf20aa6fc2bd
+
 ## Yang Penting
 
 <chapterId>89be421f-f7df-4bcc-a9e4-df96e39ef249</chapterId>
@@ -899,13 +917,16 @@ Meskipun profil Essential tidak menuntut sistem akuntansi yang sangat canggih, t
 
 Solusi hibrida yang paling cocok untuk profil Anda kemungkinan adalah Swiss Bitcoin Pay:
 
-https://planb.network/tutorials/merchant/merchant/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
+https://planb.network/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
+
 Solusi lain yang mudah diimplementasikan, tetapi dengan kekurangan karena 100% kustodian, adalah Open Node:
 
-https://planb.network/tutorials/merchant/merchant/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
+https://planb.network/tutorials/business/point-of-sale/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
+
 Jika Anda siap terjun dan menginginkan kontrol penuh atas prosesnya, perangkat lunak BTCPay Server adalah pilihan yang sangat baik. Namun, kelemahan utama BTCPay Server adalah pengaturan dan pengelolaannya memakan waktu dan membutuhkan tingkat keahlian teknis tertentu, tetapi Anda dapat mengikuti panduan kami:
 
-https://planb.network/tutorials/merchant/merchant/btcpay-server-928eb01e-824b-4b57-a3e8-8727633beddc
+https://planb.network/tutorials/business/point-of-sale/btcpay-server-928eb01e-824b-4b57-a3e8-8727633beddc
+
 Terakhir, sebagai pelengkap tempat penjualan fisik, Anda dapat mempertimbangkan untuk membuat [Bitcoinize PoS] (https://bitcoinize.com/).
 
 ## Profesional
@@ -943,6 +964,7 @@ Untuk contoh di dunia nyata, pertimbangkan sebuah toko e-commerce berukuran seda
 Untuk mempelajari lebih dalam tentang implementasi spesifik dan menjelajahi konfigurasi langsung BTC Pay Server, lihat kursus berikut ini:
 
 https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
+
 ## The Enterprise
 
 <chapterId>80fb2659-81ca-4a11-b492-72c7ae5774f9</chapterId>
@@ -1193,6 +1215,7 @@ Akan tetapi, sebuah file `.csv` sederhana yang berisi riwayat transaksi sering k
 Bagi mereka yang menyimpan sendiri Bitcoin mereka, mengelola UTXO (*Unspent Transaction Outputs*) adalah langkah penting. Pelabelan UTXO yang tepat membantu melacak asal usul setiap pecahan BTC, membedakan transaksi yang terkait dengan aktivitas profesional dengan transaksi untuk pengeluaran pribadi, dan memudahkan penelusuran untuk tujuan hukum atau pajak. Sebagian besar perangkat lunak dompet Bitcoin yang baik memungkinkan Anda untuk mengimpor dompet Anda menggunakan file cadangan Anda (atau xpub Anda, tergantung pada pengaturan Anda) dan menandai UTXO berdasarkan asal atau tujuannya. Untuk membantu Anda, berikut ini adalah tutorial lengkap yang didedikasikan untuk praktik ini:
 
 https://planb.network/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
+
 Terakhir, baik Anda seorang pedagang kecil atau bisnis yang sudah mapan, Anda bisa melunasi faktur dengan Bitcoin. Kuncinya adalah mendokumentasikan transaksi dengan benar. Jika Anda membayar dari dompet penyimpanan mandiri, sangat ideal untuk membuat transaksi dengan mencatat nomor faktur dan tujuan pembayaran pada label Anda. Jika Anda lebih memilih untuk menyelesaikan faktur melalui bursa, Anda juga memiliki opsi untuk mengekspor tanda terima atau riwayat transaksi untuk dimasukkan ke dalam catatan akuntansi Anda. Transparansi ini akan menyederhanakan pelacakan dan pelaporan semua operasi BTC Anda.
 
 ## Contoh akuntansi Bitcoin yang praktis
@@ -1351,3 +1374,4 @@ Terakhir, baik Anda seorang pedagang kecil atau bisnis yang sudah mapan, Anda bi
 <chapterId>5503c23e-3a90-4a23-8d89-75e3cc1ee53e</chapterId>
 
 <isCourseConclusion>true</isCourseConclusion>
+
