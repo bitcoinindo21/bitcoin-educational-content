@@ -1,5 +1,5 @@
 ---
-jame: Configuración de un BitAxe
+name: Configuración de un BitAxe
 description: ¿Cómo configurar un BitAxe?
 ---
 
