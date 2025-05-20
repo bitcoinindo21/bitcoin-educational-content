@@ -17,7 +17,7 @@ objectives:
 Ekosistem Bitcoin mengalami pertumbuhan yang spektakuler dan belum pernah terjadi sebelumnya. Transformasi teknologi, ekonomi, dan sosial yang didorong oleh penemuan Satoshi Nakamoto semakin meningkat dari hari ke hari, dan secara bertahap membuka pintu ke dunia baru, yang sekarang dapat Anda manfaatkan sepenuhnya.
 
 
-Menyelami Bitcoin Rabbit Hole adalah petualangan intelektual yang mengasyikkan yang akan merangsang pemikiran kritis Anda dan menantang banyak keyakinan Anda. Penjelajahan ini tidak hanya akan memberi Anda pemahaman mendalam tentang cara kerja Bitcoin, tetapi juga peluang nyata untuk merebut kembali kebebasan pribadi Anda, melindungi privasi Anda, dan mencapai kedaulatan finansial yang sesungguhnya.
+Menggali ke dalam Rabbit Hole Bitcoin  adalah petualangan intelektual yang menyenangkan yang akan merangsang pemikiran kritis Anda dan menantang banyak keyakinan Anda. Penjelajahan ini tidak hanya akan memberi Anda pemahaman mendalam tentang cara kerja Bitcoin, tetapi juga peluang nyata untuk merebut kembali kebebasan pribadi Anda, melindungi privasi Anda, dan mencapai kedaulatan finansial yang sesungguhnya.
 
 
 Untuk memandu Anda secara efektif melalui perjalanan ini, saya telah membuat kursus yang sepenuhnya gratis ini. Di sini, fokusnya hanya pada Bitcoin. Tidak ada diskusi yang tidak relevan, tidak ada penyebutan mata uang kripto lainnya, hanya konten yang jelas, tepat, dan lugas.
