@@ -17,7 +17,7 @@ objectives:
 Ekosistem Bitcoin mengalami pertumbuhan yang spektakuler dan belum pernah terjadi sebelumnya. Transformasi teknologi, ekonomi, dan sosial yang didorong oleh penemuan Satoshi Nakamoto semakin meningkat dari hari ke hari, dan secara bertahap membuka pintu ke dunia baru, yang sekarang dapat Anda manfaatkan sepenuhnya.
 
 
-Menggali ke dalam Rabbit Hole Bitcoin  adalah petualangan intelektual yang menyenangkan yang akan merangsang pemikiran kritis Anda dan menantang banyak keyakinan Anda. Penjelajahan ini tidak hanya akan memberi Anda pemahaman mendalam tentang cara kerja Bitcoin, tetapi juga peluang nyata untuk merebut kembali kebebasan pribadi Anda, melindungi privasi Anda, dan mencapai kedaulatan finansial yang sesungguhnya.
+Menggali ke dalam Rabbit Hole Bitcoin adalah petualangan intelektual yang menyenangkan yang akan merangsang pemikiran kritis Anda dan menantang banyak keyakinan Anda. Penjelajahan ini tidak hanya akan memberi Anda pemahaman mendalam tentang cara kerja Bitcoin, tetapi juga peluang nyata untuk merebut kembali kebebasan pribadi Anda, melindungi privasi Anda, dan mencapai kedaulatan finansial yang sesungguhnya.
 
 
 Untuk memandu Anda secara efektif melalui perjalanan ini, saya telah membuat kursus yang sepenuhnya gratis ini. Di sini, fokusnya hanya pada Bitcoin. Tidak ada diskusi yang tidak relevan, tidak ada penyebutan mata uang kripto lainnya, hanya konten yang jelas, tepat, dan lugas.
@@ -39,7 +39,7 @@ Kursus ini dirancang untuk memberi Anda kendali penuh atas cara belajar Anda, me
 <chapterId>bfc96999-0ee1-5c41-8297-1b629f50cffc</chapterId>
 
 
-Selamat datang di BTC102! Jika Anda telah menyelesaikan BTC101, Anda telah menjelajahi konsep teoretis utama di balik mengapa Bitcoin adalah teknologi yang revolusioner. Sekarang, dengan BTC102, saatnya untuk menerapkan pengetahuan tersebut ke dalam tindakan. Kursus ini dirancang untuk membantu Anda membangun rencana Bitcoin pribadi Anda, selangkah demi selangkah.
+Selamat datang di BTC102! Jika Anda telah menyelesaikan BTC101, Anda telah menjelajahi konsep teoretis utama di balik mengapa Bitcoin adalah teknologi yang revolusioner. Sekarang, dengan BTC102, saatnya untuk menerapkan pengetahuan tersebut ke dalam tindakan. Kursus ini dirancang untuk membantu Anda membangun rencana Bitcoin pribadi Anda, langkah demi selangkah.
 
 
 Pada bab-bab selanjutnya, kami akan memandu Anda melalui langkah-langkah praktis untuk **mendapatkan bitcoin pertama Anda**, **mengamankannya dengan benar, dan dengan percaya diri mengambil langkah pertama Anda ke dalam ekosistem yang berkembang pesat ini.
@@ -55,7 +55,7 @@ Meskipun kebebasan ini mendorong gelombang inovasi dan peluang yang luar biasa, 
 Untuk mencapai hal ini, kursus BTC102 dibagi menjadi beberapa bagian, masing-masing berfokus pada aspek kunci dari perjalanan Anda dengan Bitcoin:
 
 
-Bagian pertama, "Prasyarat untuk memahami Bitcoin", secara efektif mempersiapkan Anda untuk jalan yang akan Anda lalui. Anda akan belajar mengidentifikasi jebakan utama yang terkait dengan penipuan dan penipuan keuangan yang mungkin ada dalam ekosistem Bitcoin. Kami kemudian akan membahas dasar-dasar penting keamanan online.
+Bagian pertama, "Prasyarat untuk memahami Bitcoin", secara efektif mempersiapkan Anda jalan yang akan Anda lalui. Anda akan belajar mengidentifikasi jebakan utama yang terkait dengan penipuan keuangan yang mungkin ada dalam ekosistem Bitcoin. Kami kemudian akan membahas dasar-dasar penting keamanan online.
 
 Terakhir, saya akan memberikan beberapa saran praktis yang secara khusus didesain untuk para pemula, untuk membantu Anda menghindari kesalahan umum apabila bekerja dengan Bitcoin untuk pertama kali.
 
@@ -122,7 +122,7 @@ Sebelum melangkah lebih jauh, penting untuk membedakan secara jelas antara dua d
 
 
 
-- Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan andal dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu.
+- Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan baik dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu.
 
 
 
