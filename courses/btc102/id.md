@@ -174,16 +174,16 @@ Pada akhirnya, semua skema piramida dan Ponzi pasti akan gagal. Kelemahan mendas
 Dalam dunia mata uang kripto, skema Ponzi dapat muncul dalam berbagai bentuk, yang sering kali dirancang untuk menyembunyikan sifat penipuan mereka di balik topeng teknologi atau keuangan. Penipuan ini dapat muncul sebagai penawaran token baru atau Initial Coin Offerings (ICO), yang merupakan operasi penggalangan dana di mana mata uang kripto baru dijual kepada publik. Di balik istilah teknis seperti "Blockchain", "kontrak pintar", atau "staking", beberapa proyek sebenarnya menyembunyikan skema piramida yang rumit. Proyek lainnya mengklaim menawarkan keuntungan yang tinggi dengan menggabungkan aset kripto yang meragukan dengan sistem kompensasi yang sepenuhnya bergantung pada masuknya investor baru secara terus menerus.
 
 
-Baru-baru ini, skema Ponzi juga telah menyebar ke dunia Keuangan Terdesentralisasi (DeFi). Meskipun DeFi dimaksudkan untuk menyediakan layanan keuangan tanpa perantara, beberapa proyek menggunakannya untuk memberikan kesan legitimasi palsu terhadap penipuan mereka. Platform DeFi tertentu menjanjikan pengembalian yang tinggi dan terjamin dalam Exchange untuk setoran mata uang kripto ke dalam protokol otomatis. Janji-janji yang menarik ini sering kali didukung oleh mekanisme yang tidak jelas dan tidak dapat diverifikasi, dengan token yang dibuat khusus untuk penipuan. Pada kenyataannya, sistem ini tidak memiliki model bisnis yang berkelanjutan - pengembaliannya hanya dibayarkan dari dana pengguna baru, seperti skema Ponzi tradisional. Ketika kepercayaan mulai terkikis atau masuknya peserta baru melambat, sistem ini pasti akan runtuh, yang menyebabkan kerugian yang signifikan bagi investor yang tidak menaruh curiga.
+Baru-baru ini, skema Ponzi juga telah menyebar ke dunia Keuangan Terdesentralisasi (DeFi). Meskipun DeFi dimaksudkan untuk menyediakan layanan keuangan tanpa perantara, beberapa proyek menggunakannya untuk memberikan kesan legitimasi palsu terhadap penipuan mereka. Platform DeFi tertentu menjanjikan keuntungan yang tinggi dan terjamin dalam Exchange untuk setoran mata uang kripto ke dalam protokol otomatis. Janji-janji yang menarik ini sering kali didukung oleh mekanisme yang tidak jelas dan tidak dapat diverifikasi, dengan token yang dibuat khusus untuk penipuan. Pada kenyataannya, sistem ini tidak memiliki model bisnis yang berkelanjutan - keuntungannya hanya dibayarkan dari dana pengguna baru, seperti skema Ponzi tradisional. Ketika kepercayaan mulai terkikis atau melambatnya peserta baru yang masuk, sistem ini pasti akan runtuh, yang menyebabkan kerugian yang signifikan bagi investor yang tidak jeli dan menaruh curiga.
 
 
 Harap diperhatikan bahwa konten kursus ini hanya untuk tujuan edukasi dan tidak boleh ditafsirkan sebagai nasihat keuangan. Keamanan finansial Anda bergantung pada kemampuan Anda untuk tetap berhati-hati, skeptis, dan memiliki informasi yang cukup tentang setiap keputusan finansial yang Anda buat.
 
 
-Perlindungan terbaik adalah dengan selalu menanyakan pertanyaan sederhana ini: Dari mana sebenarnya keuntungan yang dijanjikan itu berasal? Jika jawabannya tidak jelas, segera kabur.
+Perlindungan terbaik adalah dengan selalu menanyakan pertanyaan sederhana ini: Dari mana sebenarnya keuntungan yang dijanjikan itu berasal? Jika jawabannya tidak jelas, segeralah kabur.
 
 
-#### Pompa & Pembuangan
+#### Pompa & Pembuangan (Pump & Dump)
 
 
 Jenis penipuan ini melibatkan penggelembungan harga aset secara artifisial - sering kali berupa token mata uang kripto dengan likuiditas rendah - melalui kampanye pemasaran yang terkoordinasi, biasanya dipimpin oleh sekelompok investor. Skema Pump & Dump biasanya mengikuti pola ini:
@@ -195,7 +195,7 @@ Jenis penipuan ini melibatkan penggelembungan harga aset secara artifisial - ser
 - Mereka kemudian meluncurkan kampanye promosi yang agresif untuk mendongkrak popularitas generate dan menaikkan harganya.
 - Masyarakat umum, didorong oleh FOMO (Fear of Missing Out), mulai membeli aset dalam jumlah besar, mendorong harga lebih tinggi lagi.
 - Pada puncak hype, orang dalam menjual kepemilikan mereka sekaligus.
-- Harga jatuh, membuat para pendatang baru mengalami kerugian besar.
+- Harga jatuh, membuat orang yang masuk belakangan mengalami kerugian besar.
 
 
 
@@ -241,7 +241,7 @@ Terkadang, penipuan ini muncul sebagai penipuan "biaya di muka". Anda dijanjikan
 #### Shitcoin dan mata uang kripto yang ditawarkan
 
 
-Proyek mata uang kripto terpusat terkadang menawarkan token gratis ("*airdrops*") untuk menarik pengguna, token ini biasanya tidak memiliki nilai yang nyata dan biasanya digunakan untuk menciptakan ilusi popularitas atau memicu spekulasi. Berhati-hatilah dengan penawaran promosi seperti ini; penawaran ini sering kali merupakan jebakan pemasaran dan bukannya peluang yang sebenarnya.
+Proyek mata uang kripto tersentralisasi terkadang menawarkan token gratis ("*airdrops*") untuk menarik pengguna, token ini biasanya tidak memiliki nilai yang nyata dan biasanya digunakan untuk menciptakan ilusi popularitas atau memicu spekulasi. Berhati-hatilah dengan penawaran promosi seperti ini; penawaran ini sering kali merupakan jebakan pemasaran dan bukannya peluang yang sebenarnya.
 
 
 #### Pencurian identitas dan phishing
