@@ -567,7 +567,7 @@ Berikut adalah poin-poin penting yang akan kita bahas bersama:
 - Ketahuilah implikasi pajak dari investasi Anda;
 - Lindungi **frase pemulihan** Anda dengan hati-hati;
 - Tetaplah rendah hati dan jaga agar tetap **rendah hati** (kebijaksanaan adalah bagian dari keamanan);
-- Berpikirlah jangka panjang**, perbesar dan bersabarlah (anggaplah ini sebagai maraton, bukan lari cepat).
+- Berpikirlah jangka panjang**, perbesar preferensi waktu dan bersabarlah (anggaplah ini sebagai maraton, bukan lari cepat).
 
 
 ![BTC102-Bitcoin](assets/fr/017.webp)
@@ -650,7 +650,7 @@ Bitcoin dikenal dengan perubahan harga yang dramatis. Pergerakan 10%, 20%, atau 
 ![BTC102-Bitcoin](assets/fr/021.webp)
 
 
-Itulah mengapa sangat penting untuk **memahami dan menerima volatilitas Bitcoin** sebelum Anda berinvestasi. Perubahan harga ini bukanlah bug, ini adalah fitur dari aset yang masih jatuh tempo. Jika kenaikan dan penurunan tiba-tiba membuat Anda terjaga di malam hari atau mendorong Anda untuk mengambil keputusan emosional, kemungkinan besar Anda telah menempatkan lebih dari yang Anda rasa nyaman untuk mengambil risiko. Jika demikian, mundurlah sejenak dan kaji ulang strategi dan toleransi risiko Anda. Jangan ragu untuk mengurangi posisi Anda hingga Anda merasa lebih nyaman.
+Itulah mengapa sangat penting untuk **memahami dan menerima volatilitas Bitcoin** sebelum Anda berinvestasi. Perubahan harga ini bukanlah bug, ini adalah fitur dari aset yang masih remaja. Jika kenaikan dan penurunan tiba-tiba membuat Anda tidak bisa tidur di malam hari atau mendorong Anda untuk mengambil keputusan emosional, kemungkinan besar Anda meletakan jumlah yang lebih dari rasa nyaman untuk mengambil risiko itu. Jika demikian, mundurlah sejenak dan kaji ulang strategi dan profil risiko Anda. Jangan ragu untuk mengurangi posisi Anda hingga Anda merasa lebih nyaman.
 
 
 Yang terpenting, jangan pernah berinvestasi lebih dari yang Anda mampu untuk kehilangan. Hindari meminjam uang untuk membeli Bitcoin (terutama jika Anda masih mempelajari dasar-dasarnya). Fondasi yang kokoh dimulai dengan langkah-langkah yang terukur, bukan taruhan yang gegabah.
@@ -694,7 +694,7 @@ Di dunia digital saat ini, **kebijaksanaan sering kali diabaikan**; namun ini ad
 Ada banyak kasus di seluruh dunia di mana individu yang diketahui memiliki BTC dalam jumlah besar diculik atau diserang.
 
 
-**Hindari membual tentang Bitcoin Stash Anda **; baik di media sosial atau bahkan dalam percakapan biasa. Tidak ada untungnya mengungkapkan informasi keuangan yang sensitif, dan risikonya nyata.
+**Hindari membual tentang kepemilikan Bitcoin Anda **; baik di media sosial atau bahkan dalam percakapan biasa. Tidak ada untungnya mengungkapkan informasi keuangan yang sensitif, dan risikonya nyata.
 
 
 Sebaiknya Anda juga mengelompokkan aktivitas online Anda. Sebagai contoh:
