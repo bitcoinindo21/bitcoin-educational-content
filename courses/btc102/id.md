@@ -122,7 +122,7 @@ Sebelum melangkah lebih jauh, penting untuk membedakan secara jelas antara dua d
 
 
 
-- Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan baik dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu.
+- Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan baik dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu. 
 
 
 
@@ -797,9 +797,9 @@ Sebagai penutup, berikut ini adalah beberapa prinsip abadi yang harus diingat ol
 
 
 
-- Aturan no. 1**: Jangan pernah berinvestasi lebih dari yang Anda mampu untuk kehilangan. Bitcoin adalah aset yang mudah berubah. Jangan mempertaruhkan stabilitas keuangan Anda untuk mengejar keuntungan. Kebutuhan esensial dan ketenangan pikiran Anda harus selalu diutamakan.
-- Aturan no. 2**: Jangan mengikuti hype atau mempercayai saran ajaib secara membabi buta. Abaikan tren dan janji-janji yang mencolok. Sebaliknya, fokuslah untuk membuat keputusan yang rasional dan terinformasi dengan baik. Jika ragu, pikirkan dulu; bicarakan dengan orang yang Anda percayai. Lebih baik bergerak perlahan dan penuh pertimbangan daripada terburu-buru melakukan kesalahan yang merugikan.
-- Aturan no. 3**: Buatlah rencana dan berpegang teguh pada visi jangka panjang.
+- **Aturan no. 1**: Jangan pernah berinvestasi lebih dari yang Anda mampu untuk kehilangan. Bitcoin adalah aset yang mudah berubah. Jangan mempertaruhkan stabilitas keuangan Anda untuk mengejar keuntungan. Kebutuhan esensial dan ketenangan pikiran Anda harus selalu diutamakan.
+- **Aturan no. 2**: Jangan mengikuti hype atau mempercayai saran ajaib secara membabi buta. Abaikan tren dan janji-janji yang mencolok. Sebaliknya, fokuslah untuk membuat keputusan yang rasional dan terinformasi dengan baik. Jika ragu, pikirkan dulu; bicarakan dengan orang yang Anda percayai. Lebih baik bergerak perlahan dan penuh pertimbangan daripada terburu-buru melakukan kesalahan yang merugikan.
+- **Aturan no. 3**: Buatlah rencana dan berpegang teguh pada visi jangka panjang.
 
 Konsistensi, kesabaran, dan disiplin akan membawa Anda lebih jauh daripada kegembiraan jangka pendek. Jangan mengincar kemenangan sesaat; bidiklah pertumbuhan yang berkelanjutan. Hindari kesalahan fatal dan biarkan kemenangan kecil bertambah seiring waktu.
 
@@ -868,7 +868,7 @@ Dalam lingkungan yang penuh ketakutan dan ketidakpastian inilah Bitcoin lahir. P
 
 > **"The Times 03/Jan/2009 Kanselir di ambang bailout kedua untuk bank-bank "**
 
-Ini bukan sekadar tanggal atau catatan teknis; ini adalah protes yang tenang namun kuat. Hal ini menunjukkan bahwa Bitcoin dirancang untuk menjadi sesuatu yang sangat berbeda: sistem keuangan yang tidak bergantung pada bank, dana talangan, atau keputusan pemerintah.
+Ini bukan sekadar tanggal atau catatan teknis; ini adalah protes yang damai namun kuat. Hal ini menunjukkan bahwa Bitcoin dirancang untuk menjadi sesuatu yang sangat berbeda: sistem keuangan yang tidak bergantung pada bank, dana talangan, atau keputusan pemerintah.
 
 
 ![BTC102-Bitcoin](assets/fr/034.webp)
