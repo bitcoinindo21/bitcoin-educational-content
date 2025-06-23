@@ -874,7 +874,7 @@ Ini bukan sekadar tanggal atau catatan teknis; ini adalah protes yang damai namu
 ![BTC102-Bitcoin](assets/fr/034.webp)
 
 
-Banyak yang menafsirkan hal ini sebagai tujuan Bitcoin: menawarkan cara untuk mentransfer nilai tanpa memerlukan perantara, dikendalikan oleh aturan yang jelas, bukannya keputusan yang sering tidak jelas yang dibuat oleh bank sentral atau pemerintah.
+Banyak yang menafsirkan hal ini sebagai tujuan Bitcoin: menawarkan cara untuk mentransfer nilai tanpa memerlukan perantara pihak ke tiga, dikendalikan oleh aturan yang jelas, bukannya keputusan yang sering tidak jelas yang dibuat oleh bank sentral atau pemerintah.
 
 
 ![BTC102-Bitcoin](assets/fr/033.webp)
@@ -897,7 +897,7 @@ Bitcoin didefinisikan sebagai "sistem uang elektronik peer-to-peer" Ini berarti 
 ![BTC102-Bitcoin](assets/fr/036.webp)
 
 
-Secara sederhana, setiap peserta dalam jaringan Bitcoin (disebut "node") memiliki salinan lengkap transaksi Ledger, yang dikenal sebagai Blockchain. Ketika sebuah transaksi baru terjadi, transaksi tersebut disiarkan ke jaringan. Para penambang kemudian mengonfirmasi transaksi ini dengan mengelompokkannya ke dalam blok-blok yang kemudian ditambahkan ke akhir rantai (oleh karena itu dinamakan "Blockchain").
+Secara sederhana, setiap peserta dalam jaringan Bitcoin (disebut "node") memiliki salinan lengkap transaksi Ledger (buku besar), yang dikenal sebagai Blockchain. Ketika sebuah transaksi baru terjadi, transaksi tersebut disiarkan ke jaringan. Para penambang kemudian mengonfirmasi transaksi ini dengan mengelompokkannya ke dalam blok-blok yang kemudian ditambahkan ke akhir rantai (oleh karena itu dinamakan "Blockchain").
 
 
 ![BTC102-Bitcoin](assets/fr/029.webp)
@@ -920,7 +920,7 @@ Bayangkan Blockchain sebagai Ledger akuntansi raksasa, di mana setiap baris mewa
 
 Mining adalah proses di mana komputer (atau peternakan Mining yang besar) menyumbangkan **kekuatan komputasi** untuk mengamankan riwayat transaksi Bitcoin dan membuat blok baru. Para penambang berkompetisi untuk memecahkan teka-teki matematika-khususnya, menemukan tabrakan parsial Hash. Proses ini membutuhkan energi dan sumber daya yang signifikan. Ketika sebuah Miner menemukan solusi yang valid, mereka akan menyiarkan blok tersebut ke jaringan, yang akan memverifikasi dan menerimanya sebagai solusi yang valid.
 
-Sebagai hadiah, Miner menerima bitcoin yang baru dibuat (disebut subsidi blok) bersama dengan biaya transaksi dari semua transaksi yang termasuk dalam blok tersebut.
+Sebagai hadiah, Miner menerima bitcoin yang baru ditambang (disebut subsidi blok) bersama dengan biaya transaksi dari semua transaksi yang termasuk di dalam blok tersebut.
 
 
 #### Halving: Penurunan Subsidi Blok
@@ -934,7 +934,7 @@ Pada akhirnya, sekitar tahun 2140, subsidi akan mencapai nol, karena total Bitco
 ![BTC102-Bitcoin](assets/fr/031.webp)
 
 
-### Bitcoin Properti Moneter
+### Properti Moneter Bitcoin
 
 
 #### Kelangkaan dan Kebijakan Moneter Tetap
@@ -954,7 +954,7 @@ Kelangkaan bawaan ini merupakan daya tarik utama bagi mereka yang ingin menghind
 #### Pembagian dan Aksesibilitas
 
 
-Salah satu kekuatan Bitcoin yang paling diremehkan adalah kemampuannya untuk dibagi-bagi. Setiap Bitcoin dapat dipecah menjadi 100 juta unit, yang dikenal sebagai satoshi (atau disingkat Sats). Ini berarti Anda tidak perlu menghabiskan puluhan ribu euro atau dolar untuk memulai; Anda bisa membeli Bitcoin senilai beberapa euro saja, hingga pecahan kecil.
+Salah satu kekuatan Bitcoin yang paling diremehkan adalah kemampuannya untuk dipecah menjadi bagian kecil. Setiap Bitcoin dapat dipecah menjadi 100 juta unit, yang dikenal sebagai satoshi (atau disingkat Sats). Ini berarti Anda tidak perlu menghabiskan puluhan ribu euro atau dolar untuk memulai; Anda bisa membeli Bitcoin senilai beberapa euro saja, hingga pecahan kecil.
 
 
 ![BTC102-Bitcoin](assets/fr/026.webp)
@@ -986,7 +986,7 @@ Meskipun tata kelola semacam ini bisa lambat dan terkadang berantakan, ini juga 
 Bitcoin memungkinkan siapa saja untuk memeriksa keakuratan Blockchain dengan menjalankan "node" pada komputer atau server mereka. Ini berarti mengunduh perangkat lunak Bitcoin Core (atau versi lain dari protokol Bitcoin) dan memverifikasi semua transaksi dan blok sejak tahun 2009. Setelah node Anda diatur dan disinkronkan, node tersebut akan menjadi salinan lengkap Blockchain dan membantu mendukung jaringan.
 
 
-Meskipun pendekatan ini lebih bersifat teknis, pendekatan ini menawarkan kepada para pengguna yang paling membutuhkan kemampuan untuk tidak mempercayai pihak ketiga. Menjalankan sebuah node memastikan bahwa pengguna dapat berpartisipasi dalam proses konsensus dan tetap tidak dapat disensor, berkontribusi secara langsung pada keamanan dan desentralisasi jaringan.
+Meskipun pendekatan ini lebih bersifat teknis, pendekatan ini menawarkan para pengguna yang paling membutuhkan kemampuan untuk tidak mempercayai pihak ketiga. Menjalankan sebuah node memastikan bahwa pengguna dapat berpartisipasi dalam proses konsensus dan tetap tidak dapat disensor, berkontribusi secara langsung pada keamanan dan desentralisasi jaringan.
 
 
 ### Kasus penggunaan
@@ -995,7 +995,7 @@ Meskipun pendekatan ini lebih bersifat teknis, pendekatan ini menawarkan kepada 
 #### Metode Pembayaran Lintas Batas yang Tangguh
 
 
-Karena sifatnya yang terdesentralisasi, Bitcoin beroperasi 24/7, tidak terpengaruh oleh perbatasan atau zona waktu. Di wilayah di mana infrastruktur perbankan tradisional kurang, Bitcoin sering digunakan sebagai solusi cepat dan murah untuk mengirim atau menerima dana tanpa bergantung pada perantara yang mahal. Meskipun biaya transaksi dapat bervariasi berdasarkan kepadatan jaringan, biaya ini umumnya jauh lebih rendah daripada biaya yang dikenakan oleh bank untuk transfer internasional. Selain itu, solusi Layer-2 seperti Lightning Network memungkinkan transaksi Bitcoin yang lebih cepat dan lebih murah.
+Karena sifatnya yang terdesentralisasi, Bitcoin beroperasi 24/7, tidak terpengaruh oleh perbatasan atau zona waktu. Di wilayah di mana kurangnya infrastruktur perbankan tradisional, Bitcoin sering digunakan sebagai solusi cepat dan murah untuk mengirim atau menerima dana tanpa bergantung pada perantara yang mahal. Meskipun biaya transaksi dapat bervariasi berdasarkan kepadatan jaringan, biaya ini umumnya jauh lebih rendah daripada biaya yang dikenakan oleh bank untuk transfer internasional. Selain itu, solusi Layer-2 seperti Lightning Network memungkinkan transaksi Bitcoin yang lebih cepat dan lebih murah.
 
 
 #### Tempat penyimpanan nilai
@@ -1007,7 +1007,7 @@ Karena kelangkaannya (dibatasi pada 21 juta BTC) dan ketahanan yang melekat, Bit
 #### Alat untuk kebebasan dan ketahanan finansial
 
 
-Selain investasi, Bitcoin menawarkan cara untuk melindungi kedaulatan keuangan. Di negara-negara yang berada di bawah rezim otoriter atau menghadapi pembatasan moneter yang ketat, memiliki Bitcoin Wallet (dengan kunci pribadi) memberikan bentuk kebebasan. Tidak ada yang dapat memblokir atau menyita BTC ini, selama pemegangnya mengamankan frasa pemulihan mereka.
+Selain investasi, Bitcoin menawarkan cara untuk melindungi kedaulatan keuangan. Di negara-negara yang berada di bawah rezim otoriter atau menghadapi pembatasan moneter yang ketat, memiliki Bitcoin Wallet (dengan kunci pribadi) memberikan bentuk kebebasan. Tidak ada yang dapat memblokir atau menyita BTC ini, selama pemegangnya mengamankan 12/24 kata frasa pemulihan mereka.
 
 
 Karakteristik ini sangat menarik bagi mereka yang takut akan penyensoran atau pembekuan rekening bank. Hal ini juga beresonansi dengan populasi yang menderita hiperinflasi, seperti yang terlihat di Venezuela atau Zimbabwe, di mana memegang BTC terbukti lebih stabil daripada menyimpan mata uang lokal, yang terdepresiasi dengan cepat.
@@ -1016,7 +1016,7 @@ Karakteristik ini sangat menarik bagi mereka yang takut akan penyensoran atau pe
 ### Jalan yang masih panjang
 
 
-Bitcoin dapat dilihat sebagai "Zero to One": sebuah terobosan radikal dengan paradigma keuangan yang sudah mapan. Untuk pertama kalinya dalam sejarah, jaringan moneter global, yang dapat diakses oleh semua orang, beroperasi tanpa otoritas pusat, sehingga memungkinkan transaksi yang tahan sensor dan bersifat pribadi.
+Bitcoin dapat dilihat sebagai "Zero to One": sebuah terobosan radikal dengan paradigma keuangan yang sudah mapan. Untuk pertama kalinya dalam sejarah, jaringan moneter global, yang dapat diakses oleh semua orang, beroperasi tanpa otoritas pusat, sehingga memungkinkan transaksi yang anti sensor dan bersifat pribadi.
 
 
 Namun demikian, setelah lebih dari satu dekade keberadaannya, Bitcoin terus memicu perdebatan dan gairah. Adopsinya terus berkembang, solusi Layer kedua (seperti Lightning Network) bermunculan untuk meningkatkan kecepatan transaksi dan biaya yang lebih rendah, dan bisnis di seluruh dunia bereksperimen dengan kasus-kasus penggunaan baru. Kemungkinan besar Bitcoin akan terus memengaruhi sistem pembayaran dan bahkan cara kita memandang uang selama beberapa dekade mendatang.
@@ -1061,7 +1061,7 @@ Barack Obama pernah menyebut Bitcoin sebagai "bank Swiss di saku Anda," dan untu
 ![BTC102-Bitcoin](assets/fr/037.webp)
 
 
-Bitcoin dapat dilihat sebagai "mata uang rakyat" yang sebenarnya, sebuah sistem moneter alternatif yang tidak bergantung pada otoritas pusat mana pun dan didasarkan pada aturan yang tidak dapat diubah, bukan pada keputusan yang sewenang-wenang. Sifatnya yang terbuka dan mudah diakses menjadikannya alat yang berpotensi revolusioner bagi miliaran orang di seluruh dunia, baik yang tidak termasuk dalam sistem perbankan tradisional atau yang hanya mencari alternatif yang lebih berdaulat.
+Bitcoin dapat dilihat sebagai "mata uang rakyat" yang sebenarnya, sebuah sistem moneter alternatif yang tidak bergantung pada otoritas pusat mana pun dan didasarkan pada aturan yang tidak dapat diubah, bukan pada keputusan yang sewenang-wenang. Sifatnya yang terbuka dan mudah diakses menjadikannya alat yang berpotensi menjadi revolusioner bagi miliaran orang di seluruh dunia, baik yang tidak termasuk dalam sistem perbankan tradisional atau yang hanya mencari alternatif yang lebih berdaulat.
 
 
 Hal ini membawa kita pada pertanyaan mendasar dan hampir filosofis yang membagi para penggemar Bitcoin ke dalam dua pandangan utama. Di satu sisi, beberapa orang melihat Bitcoin sebagai solusi untuk mempromosikan inklusi keuangan, yang memungkinkan miliaran orang yang tidak memiliki rekening bank untuk akhirnya dapat mengakses infrastruktur moneter global. Di sisi lain, beberapa orang melihat Bitcoin sebagai alat pembebasan finansial yang bertujuan untuk menawarkan jalan keluar bagi miliaran orang yang telah terintegrasi ke dalam sistem perbankan, tetapi ingin membebaskan diri mereka sendiri dari ketergantungan dan mendapatkan kembali kendali penuh atas uang mereka. Refleksi ini patut mendapat perhatian kita, dan kita akan kembali membahasnya secara lebih rinci nanti.
@@ -1079,7 +1079,7 @@ Selama berabad-abad, dunia telah mengalami krisis moneter yang berdampak buruk p
 ![BTC102-Bitcoin](assets/fr/045.webp)
 
 
-Krisis ini dapat terjadi dalam berbagai bentuk. Hiperinflasi, misalnya, melenyapkan mata uang dengan menghancurkan daya beli masyarakat secara bertahap; seperti yang terlihat di negara-negara seperti Zimbabwe dan Venezuela. Di sisi lain, kontrol moneter yang ketat dapat membatasi akses ke dana dan melucuti kebebasan ekonomi individu, seperti yang terjadi pada pembatasan perbankan di Yunani dan Lebanon.
+Krisis ini dapat terjadi dalam berbagai bentuk. Hiperinflasi, misalnya, melenyapkan mata uang dengan menghancurkan daya beli masyarakat secara bertahap; seperti yang terlihat di negara-negara seperti Zimbabwe dan Venezuela. Di sisi lain, kontrol moneter yang ketat dapat membatasi akses ke dana dan memperkosa kebebasan ekonomi individu, seperti yang terjadi pada pembatasan perbankan di Yunani dan Lebanon.
 
 
 ![BTC102-Bitcoin](assets/fr/047.webp)
@@ -1119,15 +1119,15 @@ Namun, di dunia di mana negara dapat memegang kendali penuh atas aset dan transa
 
 
 
-- Rekening bank** dapat dibekukan dalam sekejap, disita oleh perintah pemerintah, atau dikuras melalui pembatasan moneter yang berlebihan.
+- **Rekening bank** dapat dibekukan dalam sekejap, disita oleh perintah pemerintah, atau dikuras melalui pembatasan moneter yang berlebihan.
 
 
 
-- Emas**, meskipun telah berfungsi sebagai penyimpan nilai selama ribuan tahun, namun sulit untuk dibagi, tidak nyaman untuk diangkut, dan tidak praktis untuk digunakan dalam situasi krisis yang mendesak.
+- **Emas**, meskipun telah berfungsi sebagai penyimpan nilai selama ribuan tahun, namun sulit untuk dibagi, tidak nyaman untuk diangkut, dan tidak praktis untuk digunakan dalam situasi krisis yang mendesak.
 
 
 
-- Uang tunai**, meskipun anonim, berukuran besar, mudah disita, dan nilainya terus menurun karena inflasi.
+- **Uang tunai**, meskipun anonim, bulky, mudah disita, dan nilainya terus menurun karena inflasi.
 
 
 Tetapi Bitcoin lebih dari sekadar alat praktis. Ini juga merupakan **bentuk protes damai**; sebuah deklarasi kemerdekaan dari sistem keuangan yang didasarkan pada kekuasaan yang sewenang-wenang, sentralisasi, dan ketidaksetaraan sistemik. Memilih Bitcoin berarti menolak manipulasi, devaluasi, dan pengawasan. Ini adalah tentang merebut kembali **kedaulatan** Anda, mengamankan masa depan Anda, dan mempertahankan hak Anda untuk mengontrol kekayaan Anda sendiri.
@@ -1139,7 +1139,7 @@ Dalam hal ini, Bitcoin lebih dari sekadar teknologi. Ini adalah alat hukum alam,
 ![BTC102-Bitcoin](assets/fr/040.webp)
 
 
-**Tahukah Anda? Bitcoin bersifat pseudonim, bukan anonim. Pengguna dapat membuat alamat Wallet tanpa mengungkapkan identitas asli mereka, sehingga memungkinkan mereka untuk mengirim dan menerima dana di luar sistem perbankan tradisional.
+**Tahukah Anda?** Bitcoin bersifat pseudonim, bukan anonim. Pengguna dapat membuat alamat Wallet tanpa mengungkapkan identitas asli mereka, sehingga memungkinkan mereka untuk mengirim dan menerima dana di luar sistem perbankan tradisional.
 
 
 Namun, berlawanan dengan kepercayaan umum, Bitcoin tidak menawarkan anonimitas penuh. Setiap transaksi dicatat pada Ledger publik (Blockchain) yang dapat diakses dan diverifikasi oleh siapa saja. Meskipun alamat Wallet tidak terkait dengan nama, aktivitas keuangan pengguna masih dapat dilacak dan dianalisis jika praktik privasi yang tepat tidak diikuti.
@@ -1198,7 +1198,7 @@ Bitcoin menawarkan mode yang sangat berbeda; terbuka, netral, dan tidak dapat di
 
 Di sinilah prinsip utamanya:
 
-**"Bukan kunci Anda, bukan Bitcoin Anda. "**
+**"Bukan kunci Anda, bukan Bitcoin Anda."**
 
 Jika Anda tidak mengontrol kunci pribadi bitcoin Anda, maka Anda tidak benar-benar memilikinya. Mereka berada di tangan pihak ketiga; sama seperti uang kertas di bank. Namun, jika Anda memegang kunci pribadi Anda, Anda dan Anda sendiri yang memiliki kendali penuh atas dana Anda. Tidak ada institusi, pemerintah, atau otoritas yang dapat membekukan, menyita, atau membatasi akses Anda.
 
@@ -1216,11 +1216,10 @@ Menggunakan Bitcoin berarti memilih uang yang sehat. Ini adalah penolakan untuk 
 Para pengguna Bitcoin berasal dari berbagai kalangan, namun mereka memiliki visi yang sama: sebuah dunia di mana kedaulatan moneter berada di tangan individu, bukan institusi. Di antara mereka adalah:
 
 
-- Cypherpunks**, yang memperjuangkan privasi dan menentang pengawasan;
-- Warga negara yang tertindas**, mencari perlindungan dari rezim otoriter dan kontrol modal;
-- Anarkis**, yang melihat Bitcoin sebagai alat untuk pembebasan dari kontrol negara;
-- Ekonom Austria**, mengadvokasi uang yang sehat dan kebebasan dari manipulasi pemerintah;
-- Insinyur, pemodal, dan pendukung kebebasan berbicara**, yang menyadari implikasi sosial yang mendalam dari paradigma moneter baru ini.
+- **Cypherpunks**, yang memperjuangkan privasi dan menentang pengawasan;
+- **Warga negara yang tertindas**, mencari perlindungan dari rezim otoriter dan kontrol uang;
+- **Anarkis**, yang melihat Bitcoin sebagai alat untuk pembebasan dari kontrol negara;
+- **Insinyur, pemodal, dan pendukung freedom of speech**, yang menyadari implikasi sosial yang mendalam dari paradigma moneter baru ini.
 
 
 ![BTC102-Bitcoin](assets/fr/043.webp)
