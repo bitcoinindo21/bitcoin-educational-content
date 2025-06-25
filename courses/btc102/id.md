@@ -1298,7 +1298,7 @@ Tentu saja, dalam lautan kebisingan ini, ada segelintir proyek yang benar-benar 
 
 Namun pertanyaan mendasar tetap ada:
 
-**Dapatkah inovasi ini berkembang di luar Bitcoin?
+**Dapatkah inovasi ini berkembang di luar Bitcoin?**
 
 
 Sejauh ini, ada satu kebenaran yang menonjol: Bitcoin tetap menjadi satu-satunya uang digital yang benar-benar terdesentralisasi dan tahan sensor, didukung oleh jaringan global dan adopsi yang terus meningkat. Tidak seperti altcoin, Bitcoin tidak disokong oleh perusahaan terpusat atau diatur oleh segelintir pengembang dan investor awal. Ini adalah satu-satunya proyek yang telah mendapatkan ribuan jam penelitian, pengembangan, dan penyempurnaan tanpa henti.
@@ -1371,15 +1371,15 @@ Karena Bitcoin adalah jaringan global, negara-negara telah merespons dengan cara
 
 
 
-- Beberapa negara memberlakukan pembatasan yang ketat**, seperti Cina, mencoba untuk membatasi penggunaan tanpa benar-benar menghentikannya.
+- **Beberapa negara memberlakukan pembatasan yang ketat**, seperti Cina, mencoba untuk membatasi penggunaan tanpa benar-benar menghentikannya.
 
 
 
-- Beberapa negara lain menawarkan lingkungan yang lebih ramah**, seperti Swiss atau Kanada, yang melihat Bitcoin sebagai peluang dan bukan sebagai ancaman.
+- **Beberapa negara lain menawarkan lingkungan yang lebih ramah**, seperti Swiss atau Kanada, yang melihat Bitcoin sebagai peluang dan bukan sebagai ancaman.
 
 
 
-- Sebagian besar masih ragu-ragu**, bereksperimen dengan peraturan sambil mencoba menyeimbangkan antara inovasi dan pengawasan.
+- **Sebagian besar masih ragu-ragu**, bereksperimen dengan peraturan sambil mencoba menyeimbangkan antara inovasi dan pengawasan.
 
 
 ![BTC102-Bitcoin](assets/fr/056.webp)
@@ -1491,9 +1491,9 @@ https://planb.network/tutorials/exchange/centralized/paymium-92603f76-b985-49ce-
 
 
 
-- Peretasan**: Banyak bitcoin yang telah dicuri dari platform yang telah disusupi (misalnya MtGox);
-- Penyitaan oleh pemerintah**: Pemerintah dapat menutup sebuah platform dan membekukan dana penggunanya;
-- Kebangkrutan atau penipuan**: Banyak platform telah menghilang bersama uang pelanggan mereka (mis. FTX).
+- **Peretasan**: Banyak bitcoin yang telah dicuri dari platform yang telah disusupi (misalnya MtGox);
+- **Penyitaan oleh pemerintah**: Pemerintah dapat menutup sebuah platform dan membekukan dana penggunanya;
+- **Kebangkrutan atau penipuan**: Banyak platform telah menghilang bersama uang pelanggan mereka (mis. FTX).
 
 
 Aturan emasnya sederhana: **Jika Anda tidak memiliki kunci pribadi, Anda tidak benar-benar memiliki bitcoin Anda**. Selalu tarik dana Anda ke Wallet pribadi sesegera mungkin untuk memastikan kedaulatan penuh atas uang Anda.
@@ -1521,9 +1521,9 @@ Industri Bitcoin Wallet dibagi menjadi beberapa kategori, masing-masing melayani
 
 
 
-- Produsen Hardware Wallet**: Perusahaan-perusahaan ini mengembangkan perangkat fisik yang dirancang untuk penyimpanan kunci yang aman. Beberapa diantaranya merupakan sumber terbuka, sementara yang lainnya menawarkan solusi eksklusif dengan berbagai fitur dan tingkat keamanan. Nama-nama yang terkenal termasuk Ledger, Trezor, Coinkite, Foundation, dan Shiftcrypto.
-- Software Wallet Pengembang**: Mulai dari perusahaan hingga pengembang independen yang membuat aplikasi seluler dan desktop. Penawaran mereka bervariasi dalam hal pengalaman pengguna, keamanan, dan fitur. Contohnya termasuk Sparrow, Wizard Sarden, Galoy, Synonym, dan Blockstream.
-- Dompet DIY (*Do It Yourself*): Solusi sumber terbuka ini dirancang untuk pengguna tingkat lanjut yang menginginkan kontrol penuh dan ketergantungan minimal pada pihak ketiga. Membangun Wallet Anda sendiri akan mengurangi ketergantungan pada pihak ketiga dan dapat meningkatkan postur keamanan Anda. Opsi DIY yang terkenal termasuk Seedsigner dan Specter DIY.
+- **Produsen Hardware Wallet**: Perusahaan-perusahaan ini mengembangkan perangkat fisik yang dirancang untuk penyimpanan kunci yang aman. Beberapa diantaranya merupakan sumber terbuka, sementara yang lainnya menawarkan solusi eksklusif dengan berbagai fitur dan tingkat keamanan. Nama-nama yang terkenal termasuk Ledger, Trezor, Coinkite, Foundation, dan Shiftcrypto.
+- **Software Wallet Pengembang**: Mulai dari perusahaan hingga pengembang independen yang membuat aplikasi seluler dan desktop. Penawaran mereka bervariasi dalam hal pengalaman pengguna, keamanan, dan fitur. Contohnya termasuk Sparrow, Wizard Sarden, Galoy, Synonym, dan Blockstream.
+- **Dompet DIY (*Do It Yourself*)**: Solusi sumber terbuka ini dirancang untuk pengguna tingkat lanjut yang menginginkan kontrol penuh dan ketergantungan minimal pada pihak ketiga. Membangun Wallet Anda sendiri akan mengurangi ketergantungan pada pihak ketiga dan dapat meningkatkan postur keamanan Anda. Opsi DIY yang terkenal termasuk Seedsigner dan Specter DIY.
 
 
 Dompet memainkan peran mendasar dalam Bitcoin dan akan dieksplorasi lebih dalam di kursus ini.
@@ -1542,9 +1542,9 @@ Ekosistem Mining terdiri dari beberapa pemain utama:
 
 
 
-- Produsen Perangkat Keras**: Perusahaan seperti Bitmain merancang dan memproduksi ASIC (Sirkuit Terpadu Khusus Aplikasi), chip ultra-khusus yang dibuat hanya untuk Mining Bitcoin.
-- Mining pools**: Ini adalah kumpulan penambang yang menggabungkan kekuatan komputasi mereka untuk meningkatkan peluang mendapatkan reward. Mengingat tingkat kesulitan Mining yang semakin tinggi, pool menawarkan pembayaran yang lebih dapat diprediksi dengan mendistribusikan block reward (bitcoin yang baru ditambang dan biaya transaksi) di antara para peserta berdasarkan kontribusinya. Contohnya adalah Foundry USA, AntPool, F2Pool, MARA Pool, dan Braiins Pool.
-- Penambang**: Ini adalah individu atau organisasi yang menjalankan perangkat keras dan perangkat lunak Mining. Di satu sisi, ada penambang skala kecil yang menggunakan mesin seperti Antminer S9, dan di sisi lain, operasi industri seperti Galaxy Digital, yang mengelola fasilitas besar yang didedikasikan untuk Mining.
+- **Produsen Perangkat Keras**: Perusahaan seperti Bitmain merancang dan memproduksi ASIC (Sirkuit Terpadu Khusus Aplikasi), chip ultra-khusus yang dibuat hanya untuk Mining Bitcoin.
+- **Mining pools**: Ini adalah kumpulan penambang yang menggabungkan kekuatan komputasi mereka untuk meningkatkan peluang mendapatkan reward. Mengingat tingkat kesulitan Mining yang semakin tinggi, pool menawarkan pembayaran yang lebih dapat diprediksi dengan mendistribusikan block reward (bitcoin yang baru ditambang dan biaya transaksi) di antara para peserta berdasarkan kontribusinya. Contohnya adalah Foundry USA, AntPool, F2Pool, MARA Pool, dan Braiins Pool.
+- **Penambang**: Ini adalah individu atau organisasi yang menjalankan perangkat keras dan perangkat lunak Mining. Di satu sisi, ada penambang skala kecil yang menggunakan mesin seperti Antminer S9, dan di sisi lain, operasi industri seperti Galaxy Digital, yang mengelola fasilitas besar yang didedikasikan untuk Mining.
 
 
 Mining adalah dunianya sendiri, dengan banyak lapisan untuk dijelajahi; tantangan teknis, insentif ekonomi, dan pertimbangan energi semuanya ikut berperan. Bagi mereka yang tertarik untuk menjelajahi area ini lebih jauh dan benar-benar memahami cara kerjanya, kursus MIN201 kami akan membawa Anda melalui semua yang perlu Anda ketahui.
