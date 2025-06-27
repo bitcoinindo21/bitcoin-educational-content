@@ -75,9 +75,9 @@ Bagian ketiga, "Menyiapkan rencana Anda", berfokus pada pendekatan pribadi Anda 
 
 
 
-- hodler*, berfokus untuk memegang Bitcoin dalam jangka panjang;
-- penumpuk*, yang membeli secara teratur dan metodis;
-- pengguna*, yang memprioritaskan penggunaan Bitcoin setiap hari;
+- *hodler*, berfokus untuk memegang Bitcoin dalam jangka panjang;
+- *penumpuk*, yang membeli secara teratur dan metodis;
+- *pengguna*, yang memprioritaskan penggunaan Bitcoin setiap hari;
 - dan terakhir *paranoid*, yang menginginkan keamanan maksimum untuk melindungi aset dan privasinya secara efektif.
 
 
@@ -122,11 +122,11 @@ Sebelum melangkah lebih jauh, penting untuk membedakan secara jelas antara dua d
 
 
 
-- Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan baik dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu. 
+- **Ekosistem Bitcoin** berpusat pada gagasan uang yang sehat, dibangun di atas desentralisasi yang kuat, ketahanan jangka panjang, privasi, dan kedaulatan individu. Sejak diluncurkan pada tahun 2009, Bitcoin telah beroperasi dengan baik dan aman, didukung oleh komunitas pengembang global yang berkomitmen. Ini bukan tren yang akan berlalu, tetapi protokol yang stabil dan mapan yang dirancang untuk mempertahankan nilai dari waktu ke waktu. 
 
 
 
-- Industri mata uang kripto**, di sisi lain, jauh lebih besar dan mencakup puluhan ribu proyek yang berbeda, masing-masing dengan tokennya sendiri. Ruang ini sering kali didorong oleh inovasi yang cepat, hype, dan spekulasi keuangan jangka pendek. Banyak dari proyek-proyek ini terpusat, kurang aman, dan tidak menawarkan banyak nilai nyata-meskipun ada janji-janji yang berani dan pemasaran yang mencolok.
+- **Industri mata uang kripto**, di sisi lain, jauh lebih besar dan mencakup puluhan ribu proyek yang berbeda, masing-masing dengan tokennya sendiri. Ruang ini sering kali didorong oleh inovasi yang cepat, hype, dan spekulasi keuangan jangka pendek. Banyak dari proyek-proyek ini terpusat, kurang aman, dan tidak menawarkan banyak nilai nyata-meskipun ada janji-janji yang berani dan pemasaran yang mencolok.
 
 
 ![BTC102-Bitcoin](assets/fr/001.webp)
@@ -293,22 +293,22 @@ Melihat kenyataan ini, berikut adalah beberapa kebiasaan baik yang bisa diterapk
 
 
 
-- Berhati-hatilah dengan rekomendasi investasi kripto apa pun.**
+- **Berhati-hatilah dengan rekomendasi investasi kripto apa pun.**
 
 Orang yang dapat dipercaya dan berpengetahuan luas tidak akan pernah memaksa Anda untuk membeli mata uang kripto tanpa mendorong Anda untuk melakukan riset terlebih dahulu.
 
 
-- Kursus trading atau investasi berbayar tidak selalu menandakan kualitas yang baik.**
+- **Kursus trading atau investasi berbayar tidak selalu menandakan kualitas yang baik.**
 
 Banyak dari kursus ini mempromosikan strategi yang berisiko atau terlalu sederhana; sering kali informasi yang sama dapat Anda temukan secara online secara gratis.
 
 
-- Tidak ada cara yang dapat dijamin untuk menyalin trade seseorang dan mendapatkan hasil yang sama.**
+- **Tidak ada cara yang dapat dijamin untuk menyalin trade seseorang dan mendapatkan hasil yang sama.**
 
 Setiap strategi investasi bergantung pada konteks pribadi, waktu, pengetahuan, dan faktor lain yang tidak dapat ditiru secara persis.
 
 
-- Berhati-hatilah dengan saran yang terdengar terlalu bagus untuk menjadi kenyataan.**
+- **Berhati-hatilah dengan saran yang terdengar terlalu bagus untuk menjadi kenyataan.**
 
 Janji yang tidak realistis atau jaminan keuntungan hampir selalu merupakan tanda manipulasi. Ingat: hanya karena seseorang mengatakan sesuatu dengan penuh percaya diri, bukan berarti itu benar.
 
@@ -422,9 +422,8 @@ Salah satu alasan terbesar orang diretas adalah menggunakan kata sandi yang lema
 Pengelola kata sandi memungkinkan Anda:
 
 
-- Simpan semua kata sandi Anda dengan aman** dalam brankas terenkripsi
-- generate kata sandi yang panjang, rumit, dan unik** secara otomatis untuk setiap akun
-- Gunakan hanya satu kata sandi utama**, untuk mengakses semuanya dengan aman
+- **Simpan semua kata sandi Anda dengan aman** dalam brankas terenkripsi
+- **Gunakan hanya satu kata sandi utama**, untuk mengakses semuanya dengan aman
 
 
 Dengan pengelola kata sandi, Anda tidak perlu lagi mengeklik "Lupa kata sandi" atau mengandalkan kredensial yang lemah dan digunakan kembali. Selain itu, sebagian besar pengelola kata sandi menyinkronkan dengan lancar di seluruh perangkat Anda (desktop, ponsel, tablet) dan bahkan formulir login yang terisi otomatis, sehingga akses yang aman menjadi lebih mudah dan efisien.
@@ -515,7 +514,7 @@ https://planb.network/tutorials/computer-security/communication/proton-mail-c3b0
 
 
 
-- Mengenkripsi** file Anda dengan alat seperti Bitlocker (untuk Windows) atau VeraCrypt (tersedia di berbagai platform).
+- **Mengenkripsi** file Anda dengan alat seperti Bitlocker (untuk Windows) atau VeraCrypt (tersedia di berbagai platform).
 
 
 https://planb.network/tutorials/computer-security/data/veracrypt-d5ed4c83-7c1c-4181-95ea-963fdf2d83c5
@@ -593,19 +592,19 @@ Bitcoin terbuka untuk semua orang, tetapi bukan berarti Anda harus menyelam tanp
 
 
 
-- Berinvestasi lebih dari yang Anda mampu untuk kehilangan**: Jangan pernah berhutang atau memasukkan uang sewa Anda ke dalam Bitcoin. Stabilitas keuangan dasar Anda harus selalu diutamakan.
+- **Berinvestasi lebih dari yang Anda mampu untuk kehilangan**: Jangan pernah berhutang atau memasukkan uang sewa Anda ke dalam Bitcoin. Stabilitas keuangan dasar Anda harus selalu diutamakan.
 
 
 
-- Tidak mengetahui perbedaan antara trading dan investasi**: Trading membutuhkan waktu, keahlian, dan disiplin emosional yang serius. Investasi jangka panjang jauh lebih ramah bagi pemula.
+- **Tidak mengetahui perbedaan antara trading dan investasi**: Trading membutuhkan waktu, keahlian, dan disiplin emosional yang serius. Investasi jangka panjang jauh lebih ramah bagi pemula.
 
 
 
-- Melupakan pajak**: Setiap negara memiliki aturan pajaknya sendiri untuk kripto. Mengabaikannya dapat menyebabkan kejutan yang menyakitkan di kemudian hari.
+- **Melupakan pajak**: Setiap negara memiliki aturan pajaknya sendiri untuk kripto. Mengabaikannya dapat menyebabkan kejutan yang menyakitkan di kemudian hari.
 
 
 
-- Terjerumus ke dalam FOMO**: Membeli secara impulsif karena takut ketinggalan biasanya berujung pada waktu yang tidak tepat dan keputusan yang buruk. Kesabaran adalah sekutu terbaik Anda.
+- **Terjerumus ke dalam FOMO**: Membeli secara impulsif karena takut ketinggalan biasanya berujung pada waktu yang tidak tepat dan keputusan yang buruk. Kesabaran adalah sekutu terbaik Anda.
 
 
 ![BTC102-Bitcoin](assets/fr/019.webp)
@@ -694,7 +693,7 @@ Di dunia digital saat ini, **kebijaksanaan sering kali diabaikan**; namun ini ad
 Ada banyak kasus di seluruh dunia di mana individu yang diketahui memiliki BTC dalam jumlah besar diculik atau diserang.
 
 
-**Hindari membual tentang kepemilikan Bitcoin Anda **; baik di media sosial atau bahkan dalam percakapan biasa. Tidak ada untungnya mengungkapkan informasi keuangan yang sensitif, dan risikonya nyata.
+**Hindari membual tentang kepemilikan Bitcoin Anda**; baik di media sosial atau bahkan dalam percakapan biasa. Tidak ada untungnya mengungkapkan informasi keuangan yang sensitif, dan risikonya nyata.
 
 
 Sebaiknya Anda juga mengelompokkan aktivitas online Anda. Sebagai contoh:
@@ -737,7 +736,7 @@ Bitcoin sering kali dikelilingi oleh kesalahpahaman yang populer; salah satu yan
 - Perdagangan :**
 
 
-Jujur saja:** Anda mungkin tidak seharusnya melakukan trading.**
+Jujur saja:**Anda mungkin tidak seharusnya melakukan trading.**
 
 Trading melibatkan spekulasi jangka pendek (terkadang dengan leverage) yang bertujuan untuk mendapatkan keuntungan dari perubahan harga Bitcoin. Meskipun mungkin terdengar menarik, perdagangan yang sukses membutuhkan pengetahuan teknis tingkat lanjut (seperti analisis grafik dan manajemen risiko), disiplin emosional, dan perhatian terus-menerus terhadap pasar. Hal ini membebani mental dan memakan waktu, dan kebenaran Hard adalah bahwa **sebagian besar pemula kehilangan uang** karena mereka meremehkan betapa beratnya hal tersebut.
 
@@ -1189,8 +1188,8 @@ Sistem ini dibangun di atas kepercayaan publik yang membabi buta terhadap lembag
 
 
 
-- Jika bank Anda runtuh, uang Anda bisa lenyap.** Bahkan dengan skema asuransi deposito, sejarah telah menunjukkan bahwa jaminan ini dapat gagal selama krisis sistemik.
-- Jika bank Anda membatasi akses ke dana Anda, Anda mungkin tidak dapat menarik atau menggunakan uang Anda sendiri**. Hal ini telah terjadi berkali-kali; selama krisis ekonomi di Yunani, Lebanon, dan Argentina, atau di tengah-tengah tindakan keras politik seperti protes pengemudi truk di Kanada.
+- **Jika bank Anda runtuh, uang Anda bisa lenyap.** Bahkan dengan skema asuransi deposito, sejarah telah menunjukkan bahwa jaminan ini dapat gagal selama krisis sistemik.
+- **Jika bank Anda membatasi akses ke dana Anda, Anda mungkin tidak dapat menarik atau menggunakan uang Anda sendiri**. Hal ini telah terjadi berkali-kali; selama krisis ekonomi di Yunani, Lebanon, dan Argentina, atau di tengah-tengah tindakan keras politik seperti protes pengemudi truk di Kanada.
 
 
 Bitcoin menawarkan mode yang sangat berbeda; terbuka, netral, dan tidak dapat dirusak. Aturannya dikodekan dengan konsensus dan berlaku sama untuk semua peserta jaringan.
@@ -1458,7 +1457,7 @@ https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- Platform Bitcoin khusus Exchange****
+- ***Platform Bitcoin khusus Exchange****
 
 
 Platform ini mengambil pendekatan yang ramah pengguna, menawarkan layanan yang sederhana dan transparan. Mereka hanya untuk Bitcoin. Mereka sering menerapkan solusi untuk membeli bitcoin melalui Dollar-Cost Averaging (DCA) dan menawarkan penarikan otomatis ke Wallet pribadi. Mereka sangat cocok untuk pemula yang ingin mengumpulkan bitcoin dengan cara yang progresif dan aman. Contoh: Relai, Bull Bitcoin, StackinSat, Bitstack...
@@ -1473,7 +1472,7 @@ https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 https://planb.network/tutorials/exchange/centralized/stackinsat-5af6a380-f3c6-4246-9f81-9957a16ab066
 
 
-- Platform Exchange Tujuan Umum atau Berorientasi Perdagangan**
+- **Platform Exchange Tujuan Umum atau Berorientasi Perdagangan**
 
 
 Platform ini menawarkan fitur-fitur canggih yang lebih dari sekadar membeli Bitcoin, termasuk leverage dan derivatif. Namun, kami sangat menyarankan agar Anda tidak melakukan trading. Sebagai gantinya, kami sarankan untuk membeli Bitcoin dan memindahkannya ke Wallet Anda sendiri. Trading adalah aktivitas berisiko tinggi dan umumnya tidak cocok untuk mereka yang berfokus pada akumulasi jangka panjang. Menjauhi permainan perdagangan seringkali merupakan jalan yang lebih cerdas.
@@ -1643,7 +1642,7 @@ Jika Anda ingin menjelajahi Liquid secara lebih rinci, kami menawarkan kursus la
 https://planb.network/courses/6d26bcff-51a3-405f-bcdd-9af8297ce727
 
 
-- RGB**:
+- **RGB**:
 
 
 RGB adalah sistem Smart contract yang terdesentralisasi dan berfokus pada privasi yang dirancang untuk bekerja di atas Bitcoin dan Lightning Network. Tidak seperti platform Smart contract tradisional, RGB menggunakan model Client-side Validation (yang berarti bahwa Contract State penuh disimpan off-chain, dan hanya komitmen kriptografi yang dipublikasikan ke Bitcoin Blockchain). Desain ini meningkatkan skalabilitas dan privasi. Dengan RGB, pengguna dapat membuat kontrak pintar tingkat lanjut untuk menerbitkan token, NFT, identitas terdesentralisasi, atau bahkan aplikasi DeFi, langsung di Bitcoin atau Lightning.
@@ -2702,7 +2701,7 @@ Ada beberapa cara untuk mendapatkan Bitcoin, tergantung pada tingkat privasi yan
 
 
 
-- Pembelian tradisional melalui platform teregulasi** seperti Bitfinex atau Bull Bitcoin (ideal untuk mengisi ulang Cold Wallet);
+- **Pembelian tradisional melalui platform teregulasi** seperti Bitfinex atau Bull Bitcoin (ideal untuk mengisi ulang Cold Wallet);
 
 
 https://planb.network/tutorials/exchange/centralized/bitfinex-dc306d39-bd96-4ab9-a278-a322316716db
@@ -2722,7 +2721,7 @@ https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 https://planb.network/tutorials/exchange/centralized/stackinsat-5af6a380-f3c6-4246-9f81-9957a16ab066
 
 
-- Akuisisi non-KYC** melalui layanan peer-to-peer seperti Peach, Robosats, atau ATM Bitcoin; memungkinkan Anda untuk menambah Wallet tanpa mengungkapkan informasi pribadi.
+- **Akuisisi non-KYC** melalui layanan peer-to-peer seperti Peach, Robosats, atau ATM Bitcoin; memungkinkan Anda untuk menambah Wallet tanpa mengungkapkan informasi pribadi.
 
 
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-v2-c1c6a702-6c16-4101-8b90-62c424017b80
@@ -2736,7 +2735,7 @@ https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- Menghasilkan uang di Bitcoin**, Menjadi pengguna aktif bukan hanya tentang membelanjakan BTC, tetapi juga tentang menghasilkan uang. Jika Anda menjalankan bisnis, pertimbangkan untuk menerima Bitcoin sebagai pembayaran. Jika Anda seorang karyawan, lihat apakah perusahaan Anda menawarkan opsi untuk menerima semua atau sebagian gaji Anda dalam BTC.
+- **Menghasilkan uang di Bitcoin**, Menjadi pengguna aktif bukan hanya tentang membelanjakan BTC, tetapi juga tentang menghasilkan uang. Jika Anda menjalankan bisnis, pertimbangkan untuk menerima Bitcoin sebagai pembayaran. Jika Anda seorang karyawan, lihat apakah perusahaan Anda menawarkan opsi untuk menerima semua atau sebagian gaji Anda dalam BTC.
 
 
 https://planb.network/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
@@ -2784,10 +2783,10 @@ Apakah Anda cocok untuk menjadi pengguna Bitcoin yang aktif? Berikut ini adalah 
 
 
 
-- Pragmatisme dan Commitment:** Anda termotivasi untuk mengintegrasikan Bitcoin ke dalam kehidupan sehari-hari Anda dan berperan aktif dalam pertumbuhan ekosistemnya. Anda menyadari manfaat dan tantangan yang menyertainya.
-- Kemahiran Teknis:** Anda sudah memiliki pemahaman yang kuat tentang cara kerja dompet Bitcoin dan Lightning Network; atau Anda sangat ingin belajar. Anda merasa nyaman menavigasi konsep-konsep tingkat lanjut seperti manajemen UTXO.
-- Fleksibilitas dan Kemampuan Beradaptasi:** Anda terbuka untuk mencoba alat baru, beralih di antara solusi, dan menyesuaikan praktik Anda seiring dengan berkembangnya ekosistem Bitcoin dan perubahan kebutuhan Anda.
-- Disiplin Keuangan:** Anda mengelola pengeluaran dan tabungan Bitcoin Anda dengan hati-hati. Anda memahami pentingnya memisahkan dengan jelas dana sehari-hari dari tabungan jangka panjang Anda.
+- **Pragmatisme dan Commitment:** Anda termotivasi untuk mengintegrasikan Bitcoin ke dalam kehidupan sehari-hari Anda dan berperan aktif dalam pertumbuhan ekosistemnya. Anda menyadari manfaat dan tantangan yang menyertainya.
+- **Kemahiran Teknis:** Anda sudah memiliki pemahaman yang kuat tentang cara kerja dompet Bitcoin dan Lightning Network; atau Anda sangat ingin belajar. Anda merasa nyaman menavigasi konsep-konsep tingkat lanjut seperti manajemen UTXO.
+- **Fleksibilitas dan Kemampuan Beradaptasi:** Anda terbuka untuk mencoba alat baru, beralih di antara solusi, dan menyesuaikan praktik Anda seiring dengan berkembangnya ekosistem Bitcoin dan perubahan kebutuhan Anda.
+- **Disiplin Keuangan:** Anda mengelola pengeluaran dan tabungan Bitcoin Anda dengan hati-hati. Anda memahami pentingnya memisahkan dengan jelas dana sehari-hari dari tabungan jangka panjang Anda.
 
 
 ![BTC102-Bitcoin](assets/fr/082.webp)
@@ -2921,7 +2920,7 @@ Secara lebih luas, tipe pengguna ini menerapkan pendekatan yang canggih dan sada
 
 
 
-- Sistem operasi**, baik di ponsel maupun komputer mereka;
+- **Sistem operasi**, baik di ponsel maupun komputer mereka;
 
 
 https://planb.network/tutorials/computer-security/operating-system/grapheneos-08d43d7a-0b22-4638-a151-578d48d32d88
@@ -2931,7 +2930,7 @@ https://planb.network/tutorials/computer-security/operating-system/linux-mint-da
 https://planb.network/tutorials/computer-security/operating-system/ubuntu-78a3be56-5d51-4ec3-8629-0dd27c352ab5
 
 
-- Alat bantu autentikasi** ;
+- **Alat bantu autentikasi** ;
 
 
 https://planb.network/tutorials/computer-security/authentication/authy-a76ab26b-71b0-473c-aa7c-c49153705eb7
@@ -2943,7 +2942,7 @@ https://planb.network/tutorials/computer-security/authentication/keepass-f8073bb
 https://planb.network/tutorials/computer-security/authentication/security-key-61438267-74db-4f1a-87e4-97c8e673533e
 
 
-- Alat komunikasi**;
+- **Alat komunikasi**;
 
 
 https://planb.network/tutorials/computer-security/communication/ivpn-5a0cd5df-29f1-4382-a817-975a96646e68
@@ -2955,7 +2954,7 @@ https://planb.network/tutorials/computer-security/communication/proton-mail-c3b0
 https://planb.network/tutorials/computer-security/communication/tor-browser-a847e83c-31ef-4439-9eac-742b255129bb
 
 
-- Alat manajemen data**.
+- **Alat manajemen data**.
 
 
 https://planb.network/tutorials/computer-security/data/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
@@ -2976,7 +2975,7 @@ Prinsip utama bagi investor paranoid adalah mendapatkan Bitcoin tanpa menghubung
 
 
 
-- Platform pembelian P2P** seperti Bisq, Robosat, LNP2PBot, Peach, HODL HODL, dll. ;
+- **Platform pembelian P2P** seperti Bisq, Robosat, LNP2PBot, Peach, HODL HODL, dll. ;
 
 
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-v2-c1c6a702-6c16-4101-8b90-62c424017b80
@@ -2990,15 +2989,15 @@ https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
 
-- Jual beli tunai secara langsung**, misalnya pada pertemuan Bitcoin lokal;
+- **Jual beli tunai secara langsung**, misalnya pada pertemuan Bitcoin lokal;
 
 
 https://planb.network/courses/1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35
 
 
-- ATM Bitcoin**;
-- Mendapatkan Sats** dengan menyediakan barang atau jasa di Exchange untuk Bitcoin;
-- Mining bitcoin**.
+- **ATM Bitcoin**;
+- **Mendapatkan Sats** dengan menyediakan barang atau jasa di Exchange untuk Bitcoin;
+- **Mining bitcoin**.
 
 
 https://planb.network/tutorials/mining/hardware/attakai-0d177e6b-e167-4b25-8e38-4ec74213d1fb
@@ -3020,11 +3019,11 @@ Bahkan setelah mendapatkan koin secara anonim, masih mungkin terjadi kebocoran d
 
 
 
-- Menghindari penggunaan ulang Address**, baik secara manual maupun menggunakan alat bantu canggih seperti Silent Payments atau BIP47;
-- Memberi label pada UTXO Anda**;
-- Mempraktikkan kontrol sudut saat melakukan pembelanjaan** ;
-- Menghindari konsolidasi UTXO**;
-- Menggunakan struktur transaksi yang melindungi privasi**: coinjoins, payjoins, ricochets, dan coinjoins pembayaran mini...
+- **Menghindari penggunaan ulang Address**, baik secara manual maupun menggunakan alat bantu canggih seperti Silent Payments atau BIP47;
+- **Memberi label pada UTXO Anda**;
+- **Mempraktikkan kontrol sudut saat melakukan pembelanjaan** ;
+- **Menghindari konsolidasi UTXO**;
+- **Menggunakan struktur transaksi yang melindungi privasi**: coinjoins, payjoins, ricochets, dan coinjoins pembayaran mini...
 
 
 Mereka juga terbiasa dengan dasar-dasar pengawasan Blockchain dan tahu bagaimana perusahaan melacak aktivitas. Dengan memahami heuristik dan pola yang digunakan oleh perusahaan analisis rantai, mereka dapat mengambil langkah aktif untuk menghindari jatuh ke dalam perangkap yang diketahui.
@@ -3060,11 +3059,11 @@ Berikut adalah ciri-ciri utama seorang bitcoiner yang paranoid:
 
 
 
-- Waspada dan Sadar akan Keamanan**: Anda sangat menghargai privasi Anda dan bersedia melakukan tindakan pencegahan ekstra untuk mencegah kebocoran informasi pribadi. Anda melihat pengawasan keuangan sebagai ancaman serius dan secara aktif mencari cara untuk melindungi diri Anda darinya.
-- Independen**: Anda menolak untuk bergantung pada layanan pihak ketiga mana pun untuk menyimpan, mengelola, atau mentransfer bitcoin Anda. Anda siap untuk meng-host node Bitcoin dan Lightning Anda sendiri, menggunakan dompet yang rumit, dan bertanggung jawab penuh untuk mengelola cadangan dan kunci pribadi Anda.
-- Tidak percaya**: Anda secara aktif menghindari platform KYC dan lebih memilih metode akuisisi P2P anonim, meskipun itu berarti membayar premi untuk itu. Anda memahami bahwa data pribadi apa pun yang dibagikan suatu hari nanti dapat digunakan untuk melawan Anda.
-- Berpengetahuan luas dan Disiplin**: Anda memiliki hasrat untuk keamanan siber dan teknologi yang meningkatkan privasi. Anda meluangkan waktu untuk mempelajari solusi yang tersedia, menguji alat, mengedukasi diri Anda sendiri tentang praktik terbaik, dan menerapkan metodologi yang ketat untuk meminimalkan risiko.
-- Pragmatis dan Realistis**: Anda memahami bahwa anonimitas sepenuhnya hampir tidak mungkin, tetapi Anda berusaha untuk mengurangi eksposur Anda sebanyak mungkin sambil menyeimbangkan privasi, keamanan, dan kegunaan. Pendekatan Anda terus berkembang dalam menanggapi ancaman baru dan perkembangan teknologi.
+- **Waspada dan Sadar akan Keamanan**: Anda sangat menghargai privasi Anda dan bersedia melakukan tindakan pencegahan ekstra untuk mencegah kebocoran informasi pribadi. Anda melihat pengawasan keuangan sebagai ancaman serius dan secara aktif mencari cara untuk melindungi diri Anda darinya.
+- **Independen**: Anda menolak untuk bergantung pada layanan pihak ketiga mana pun untuk menyimpan, mengelola, atau mentransfer bitcoin Anda. Anda siap untuk meng-host node Bitcoin dan Lightning Anda sendiri, menggunakan dompet yang rumit, dan bertanggung jawab penuh untuk mengelola cadangan dan kunci pribadi Anda.
+- **Tidak percaya**: Anda secara aktif menghindari platform KYC dan lebih memilih metode akuisisi P2P anonim, meskipun itu berarti membayar premi untuk itu. Anda memahami bahwa data pribadi apa pun yang dibagikan suatu hari nanti dapat digunakan untuk melawan Anda.
+- **Berpengetahuan luas dan Disiplin**: Anda memiliki hasrat untuk keamanan siber dan teknologi yang meningkatkan privasi. Anda meluangkan waktu untuk mempelajari solusi yang tersedia, menguji alat, mengedukasi diri Anda sendiri tentang praktik terbaik, dan menerapkan metodologi yang ketat untuk meminimalkan risiko.
+- **Pragmatis dan Realistis**: Anda memahami bahwa anonimitas sepenuhnya hampir tidak mungkin, tetapi Anda berusaha untuk mengurangi eksposur Anda sebanyak mungkin sambil menyeimbangkan privasi, keamanan, dan kegunaan. Pendekatan Anda terus berkembang dalam menanggapi ancaman baru dan perkembangan teknologi.
 
 
 Jika ciri-ciri ini terdengar familiar, strategi ini mungkin cocok untuk Anda. Strategi ini menuntut dan membutuhkan upaya yang konsisten, tetapi memberikan tingkat kedaulatan finansial yang tinggi dan perlindungan terhadap pengawasan, penyitaan, atau penelusuran dana Anda.
@@ -3211,8 +3210,8 @@ Ketika harus memberikan warisan di Bitcoin, orang yang Anda cintai mungkin tidak
 
 
 
-- Kerabat tepercaya**, yang akan memastikan kelancaran pelaksanaan rencana Anda. Mereka tidak perlu memiliki pengetahuan mendalam tentang Bitcoin, tetapi mereka haruslah seseorang yang dapat diandalkan oleh ahli waris Anda.
-- Pengguna Bitcoin yang berpengalaman**, yang dapat memberikan dukungan teknis untuk memulihkan dana, mengelola dompet, dan memahami proses yang terlibat.
+- **Kerabat tepercaya**, yang akan memastikan kelancaran pelaksanaan rencana Anda. Mereka tidak perlu memiliki pengetahuan mendalam tentang Bitcoin, tetapi mereka haruslah seseorang yang dapat diandalkan oleh ahli waris Anda.
+- **Pengguna Bitcoin yang berpengalaman**, yang dapat memberikan dukungan teknis untuk memulihkan dana, mengelola dompet, dan memahami proses yang terlibat.
 
 
 Orang-orang yang Anda pilih tidak boleh memiliki akses langsung ke private key Anda (atau frasa Mnemonic Anda), tetapi mereka harus dapat mengaksesnya:
@@ -3250,10 +3249,10 @@ Pertimbangkan semua tempat di mana Anda memiliki bitcoin atau mata uang fiat yan
 
 
 
-- Platform Exchange**:  Akun dengan BTC atau fiat yang ditautkan ke pembelian Bitcoin Anda.
-- Dompet Hot (seluler atau desktop)**: Aplikasi yang diinstal pada ponsel Anda, digunakan untuk transaksi sehari-hari;
-- Dompet perangkat keras**: Perangkat fisik yang menyimpan kunci pribadi Anda secara offline;
-- Solusi lainnya**: Multisig, dompet kertas, kunci pribadi yang disimpan secara khusus, dll.
+- **Platform Exchange**:  Akun dengan BTC atau fiat yang ditautkan ke pembelian Bitcoin Anda.
+- **Dompet Hot (seluler atau desktop)**: Aplikasi yang diinstal pada ponsel Anda, digunakan untuk transaksi sehari-hari;
+- **Dompet perangkat keras**: Perangkat fisik yang menyimpan kunci pribadi Anda secara offline;
+- **Solusi lainnya**: Multisig, dompet kertas, kunci pribadi yang disimpan secara khusus, dll.
 
 
 Gunakan tabel untuk menyusun inventaris ini. Idenya bukan untuk menyimpan dokumen ini secara online, namun menyimpannya di tempat yang aman, idealnya di atas kertas. Sebagai contoh:
@@ -3343,11 +3342,10 @@ Lakukan semua tindakan pencegahan yang diperlukan sebelum menangani dana ini. Ja
 
 
 
-- Jangan terburu-buru**. Luangkan waktu untuk belajar sebelum Anda bertindak. Bitcoin aman bila digunakan dengan benar.
-- Jangan pernah memberikan kalimat 24 kata hanya kepada satu orang**. Jika seseorang meminta akses penuh kepada Anda, berhati-hatilah.
-- Jangan hubungkan dompet saya ke komputer yang tidak dikenal**. Gunakan lingkungan yang aman, offline jika memungkinkan.
-- Waspadalah terhadap penipuan**. Ada banyak penipuan seputar Bitcoin. Hanya percaya pada orang-orang yang disebutkan dalam surat ini.
-- Simpan semua yang Anda lakukan**.  Buat catatan, rekam langkah-langkah penting, dan lindungi akses.
+- **Jangan terburu-buru**. Luangkan waktu untuk belajar sebelum Anda bertindak. Bitcoin aman bila digunakan dengan benar.
+- **Jangan pernah memberikan kalimat 24 kata kepada siapapun**. Jika seseorang meminta akses penuh kepada Anda, berhati-hatilah.
+- **Waspadalah terhadap penipuan**. Ada banyak penipuan seputar Bitcoin. Hanya percaya pada orang-orang yang disebutkan dalam surat ini.
+- **Simpan semua yang Anda lakukan**.  Buat catatan, rekam langkah-langkah penting, dan lindungi akses.
 
 
 #### 4. Informasi hukum dan pesan terakhir
@@ -3528,9 +3526,9 @@ Bitcoin lebih dari sekadar alat keuangan; ini adalah sebuah gerakan. Bergantung 
 
 
 
-- Mendidik dan meningkatkan kesadaran**: Bantu orang yang Anda cintai untuk memahami Bitcoin, bagikan pengetahuan Anda, dan ambil bagian dalam diskusi lokal;
-- Mengembangkan alat dan aplikasi**: Jika Anda memiliki keterampilan teknis, berkontribusi pada alat bantu sumber terbuka adalah cara yang tepat untuk memberikan nilai tambah pada Bitcoin;
-- Bergabunglah dengan komunitas lokal**: Berpartisipasilah dalam acara, pertemuan, dan forum untuk bertemu dengan para pengguna bitcoin lainnya dan Exchange melihat perkembangan terbaru.
+- **Mendidik dan meningkatkan kesadaran**: Bantu orang yang Anda cintai untuk memahami Bitcoin, bagikan pengetahuan Anda, dan ambil bagian dalam diskusi lokal;
+- **Mengembangkan alat dan aplikasi**: Jika Anda memiliki keterampilan teknis, berkontribusi pada alat bantu sumber terbuka adalah cara yang tepat untuk memberikan nilai tambah pada Bitcoin;
+- **Bergabunglah dengan komunitas lokal**: Berpartisipasilah dalam acara, pertemuan, dan forum untuk bertemu dengan para pengguna bitcoin lainnya dan Exchange melihat perkembangan terbaru.
 
 
 Jika Anda ingin membantu mengedukasi orang lain, Plan ₿ Network selalu mencari kontributor! Semua konten edukasi kami bersifat open-source dan dihosting di GitHub. Kami menyambut para kontributor untuk membantu mengoreksi dan menerjemahkan konten ke dalam berbagai bahasa; di Exchange untuk beberapa Sats! Baik sekarang atau nanti dalam perjalanan Bitcoin Anda, Anda diundang untuk bergabung dengan [grup Telegram kami untuk kontributor] (https://t.me/PlanBNetwork_ContentBuilder) di Plan ₿ Network.
