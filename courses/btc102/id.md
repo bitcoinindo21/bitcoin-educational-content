@@ -2346,7 +2346,7 @@ Beberapa praktik terbaik:
 Untuk memonitor kepemilikan Anda tanpa mengorbankan private key Anda, pertimbangkan untuk menggunakan Watch-only wallet. Alat ini memungkinkan Anda untuk melacak saldo dan transaksi dengan menggunakan public key Anda saja.
 
 
-https://planb.network/tutorials/wallet/mobile/blockstream-green-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
+https://planb.network/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
 
 Strategi para penipu itu sederhana namun ampuh: beli, amankan, dan lupakan. Tantangan sebenarnya bukanlah masalah teknis, melainkan masalah psikologis. Bagian tersulit adalah menahan keinginan untuk menjual terlalu dini atau panik saat harga turun. Namun, jika Anda tetap disiplin dan berpikir jangka panjang, hodling telah terbukti menjadi cara yang dapat diandalkan untuk mempertahankan nilai dan membangun kekayaan dari waktu ke waktu.
 
@@ -2424,7 +2424,28 @@ Stacker membutuhkan pengaturan Wallet yang menyeimbangkan kemudahan penggunaan d
 
 
 
-- **Hardware Wallet**: Seiring dengan bertambahnya kepemilikan Bitcoin Anda, mengamankan dana Anda dengan Cold Wallet sangat penting untuk meminimalkan risiko pencurian. Seorang stacker yang serius secara teratur memindahkan dana dari Hot Wallet ke Hardware Wallet. Contoh: Bitbox02, Trezor, Ledger, Coldcard, Jade...
+- Hot Wallet**: Ideal untuk pemula, dompet seluler atau desktop memungkinkan Anda menerima Sats dan melakukan pembayaran dengan mudah. Namun, dompet ini paling cocok untuk jumlah kecil. Dompet On-Chain lebih disukai untuk ditumpuk daripada dompet Lightning karena manajemen UTXO yang lebih baik. Dompet perangkat lunak yang direkomendasikan: Green Wallet, Blue Wallet, Sparrow Wallet, Bitkit, Nunchuk, Aqua, Proton
+
+
+https://planb.network/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
+
+https://planb.network/tutorials/wallet/mobile/bitkit-a7224674-85c4-4045-9baf-37018d89550c
+
+https://planb.network/tutorials/wallet/mobile/blockstream-app-onchain-e84edaa9-fb65-48c1-a357-8a5f27996143
+
+https://planb.network/tutorials/wallet/desktop/blockstream-app-desktop-c1503adf-1404-4328-b814-aa97fcf0d5da
+
+https://planb.network/tutorials/wallet/mobile/blue-wallet-2f4093da-6d03-4f26-8378-b9351d0dbc90
+
+https://planb.network/tutorials/wallet/mobile/nunchuk-6cbcb406-ec84-478f-afac-bb4da366a6fa
+
+https://planb.network/tutorials/wallet/desktop/proton-wallet-0bee0bba-ab62-4db0-8c63-b2ad698ca178
+
+https://planb.network/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7d1b0e262f5d
+
+
+
+- Hardware Wallet**: Seiring dengan bertambahnya kepemilikan Bitcoin Anda, mengamankan dana Anda dengan Cold Wallet sangat penting untuk meminimalkan risiko pencurian. Seorang stacker yang serius secara teratur memindahkan dana dari Hot Wallet ke Hardware Wallet. Contoh: Bitbox02, Trezor, Ledger, Coldcard, Jade...
 
 
 https://planb.network/tutorials/wallet/hardware/coldcard-q-73e86d1a-6fe6-4d8b-bb15-8690298020e3
@@ -2525,7 +2546,7 @@ Kebiasaan utama:
 Untuk pemantauan yang mudah tanpa mengorbankan keamanan, siapkan Watch-only wallet untuk melacak saldo menggunakan kunci publik.
 
 
-https://planb.network/tutorials/wallet/mobile/blockstream-green-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
+https://planb.network/tutorials/wallet/mobile/blockstream-app-watch-only-66c3bc5a-5fa1-40ef-9998-6d6f7f2810fb
 
 ### Mengevaluasi profil stacker Anda
 
@@ -2640,13 +2661,13 @@ https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4
 
 https://planb.network/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
 
-https://planb.network/tutorials/wallet/mobile/bitkit-wallet-a7224674-85c4-4045-9baf-37018d89550c
+https://planb.network/tutorials/wallet/mobile/bitkit-a7224674-85c4-4045-9baf-37018d89550c
 
 https://planb.network/tutorials/wallet/mobile/blink-7ea5f5a4-e728-4ff9-b3f9-cf20aa6fc2bd
 
 https://planb.network/tutorials/wallet/mobile/blixt-04b319cf-8cbe-4027-b26f-840571f2244f
 
-https://planb.network/tutorials/wallet/mobile/blockstream-green-e84edaa9-fb65-48c1-a357-8a5f27996143
+https://planb.network/tutorials/wallet/mobile/blockstream-app-onchain-e84edaa9-fb65-48c1-a357-8a5f27996143
 
 https://planb.network/tutorials/wallet/mobile/blue-wallet-2f4093da-6d03-4f26-8378-b9351d0dbc90
 
@@ -3002,7 +3023,7 @@ https://planb.network/courses/1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35
 
 https://planb.network/tutorials/mining/hardware/attakai-0d177e6b-e167-4b25-8e38-4ec74213d1fb
 
-https://planb.network/tutorials/mining/hardware/braiin-mini-miner-b4c5cb2c-e7ee-4521-a750-edefb0747db3
+https://planb.network/tutorials/mining/hardware/braiins-mini-miner-f5aec001-fb05-4e89-b3b2-a31abec1253c
 
 https://planb.network/tutorials/mining/hardware/bitaxe-d317e1a7-d775-401d-85df-51f4f2217566
 
@@ -3590,4 +3611,9 @@ Sekali lagi, selamat atas pencapaian Anda. Dan ingatlah; tujuan utama saya akan 
 
 
 <isCourseConclusion>true</isCourseConclusion>
+
+
+
+
+
 
